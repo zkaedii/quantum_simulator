@@ -1,0 +1,99 @@
+{
+  "export_info": {
+    "timestamp": "2025-07-22T00:14:18.222310",
+    "total_worlds": 10,
+    "export_type": "alien_mathematics_world_summary"
+  },
+  "world_analyses": [
+    {
+      "world_name": "Earth-like Paradise",
+      "world_type": "Terrestrial",
+      "technological_rating": 0.7397635117190975,
+      "consciousness_rating": 0.9169719754455534,
+      "resource_richness": 0.86,
+      "quantum_potential": 0.4291816948440856,
+      "overall_score": 0.7257769784797304
+    },
+    {
+      "world_name": "Andromedan Wastes",
+      "world_type": "Alien Desert",
+      "technological_rating": 0.7476372748496473,
+      "consciousness_rating": 0.9169719754455534,
+      "resource_richness": 0.7466666666666667,
+      "quantum_potential": 0.47376376283524213,
+      "overall_score": 0.7439031150690955
+    },
+    {
+      "world_name": "Reality Nexus Prime",
+      "world_type": "Interdimensional",
+      "technological_rating": 0.8584031903902144,
+      "consciousness_rating": 0.9169719754455534,
+      "resource_richness": 0.92,
+      "quantum_potential": 0.6320425120091857,
+      "overall_score": 0.7896062892808547
+    },
+    {
+      "world_name": "Quantum Dimension Alpha",
+      "world_type": "Quantum Reality",
+      "technological_rating": 0.8394859022587535,
+      "consciousness_rating": 1.0,
+      "resource_richness": 0.88,
+      "quantum_potential": 0.7832523185733422,
+      "overall_score": 0.8556542096764727
+    },
+    {
+      "world_name": "Arcturian Sky Realm",
+      "world_type": "Floating Islands",
+      "technological_rating": 0.6455696074971579,
+      "consciousness_rating": 0.9169719754455534,
+      "resource_richness": 0.86,
+      "quantum_potential": 0.5290327575227413,
+      "overall_score": 0.7292380950120115
+    },
+    {
+      "world_name": "Arcturian Sky Realm",
+      "world_type": "Floating Islands",
+      "technological_rating": 0.7868487729580356,
+      "consciousness_rating": 0.9169719754455534,
+      "resource_richness": 0.78,
+      "quantum_potential": 0.5326486632172768,
+      "overall_score": 0.7277748913879574
+    },
+    {
+      "world_name": "Reality Nexus Prime",
+      "world_type": "Interdimensional",
+      "technological_rating": 0.8927649322126765,
+      "consciousness_rating": 0.9169719754455534,
+      "resource_richness": 0.9,
+      "quantum_potential": 0.7137185877482988,
+      "overall_score": 0.798854814813185
+    },
+    {
+      "world_name": "Andromedan Wastes",
+      "world_type": "Alien Desert",
+      "technological_rating": 0.7470131613493338,
+      "consciousness_rating": 0.9169719754455534,
+      "resource_richness": 0.9066666666666666,
+      "quantum_potential": 0.465020920630664,
+      "overall_score": 0.7446626205683279
+    },
+    {
+      "world_name": "Earth-like Paradise",
+      "world_type": "Terrestrial",
+      "technological_rating": 0.6746417521458657,
+      "consciousness_rating": 0.9169719754455534,
+      "resource_richness": 0.8466666666666667,
+      "quantum_potential": 0.5522060891083763,
+      "overall_score": 0.7273108195840167
+    },
+    {
+      "world_name": "Quantum Dimension Alpha",
+      "world_type": "Quantum Reality",
+      "technological_rating": 0.7630157601865828,
+      "consciousness_rating": 1.0,
+      "resource_richness": 0.92,
+      "quantum_potential": 0.8438648257596653,
+      "overall_score": 0.8060818013768309
+    }
+  ]
+}

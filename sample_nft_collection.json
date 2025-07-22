@@ -1,0 +1,809 @@
+{
+  "collection_name": "Quantum Algorithms NFT Collection",
+  "total_supply": 20,
+  "generation_time": "2025-07-22T05:43:47.823985",
+  "nfts": [
+    {
+      "token_id": 1,
+      "name": "Quantum Algorithm #0001: Grover's Search",
+      "description": "This NFT represents a scientifically accurate Grover's Search with 2.2x quantum advantage using 5 qubits. Grants access to the Quantum Computing Platform.",
+      "algorithm": "Grover's Search",
+      "rarity": "Common",
+      "quantum_advantage": 2.199263150396159,
+      "qubits": 5,
+      "attributes": [
+        {
+          "trait_type": "Algorithm",
+          "value": "Grover's Search"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Quantum Advantage",
+          "value": "2.2x"
+        },
+        {
+          "trait_type": "Qubits",
+          "value": 5
+        },
+        {
+          "trait_type": "Platform Access",
+          "value": "Included"
+        }
+      ],
+      "utility_benefits": [
+        "Quantum Platform Access",
+        "Algorithm Execution",
+        "Educational Content"
+      ],
+      "external_url": "https://qs-production-3486.up.railway.app",
+      "scientific_accuracy": true
+    },
+    {
+      "token_id": 2,
+      "name": "Quantum Algorithm #0002: Grover's Search",
+      "description": "This NFT represents a scientifically accurate Grover's Search with 9.3x quantum advantage using 18 qubits. Grants access to the Quantum Computing Platform.",
+      "algorithm": "Grover's Search",
+      "rarity": "Common",
+      "quantum_advantage": 9.315678357010222,
+      "qubits": 18,
+      "attributes": [
+        {
+          "trait_type": "Algorithm",
+          "value": "Grover's Search"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Quantum Advantage",
+          "value": "9.3x"
+        },
+        {
+          "trait_type": "Qubits",
+          "value": 18
+        },
+        {
+          "trait_type": "Platform Access",
+          "value": "Included"
+        }
+      ],
+      "utility_benefits": [
+        "Quantum Platform Access",
+        "Algorithm Execution",
+        "Educational Content"
+      ],
+      "external_url": "https://qs-production-3486.up.railway.app",
+      "scientific_accuracy": true
+    },
+    {
+      "token_id": 3,
+      "name": "Quantum Algorithm #0003: Grover's Search",
+      "description": "This NFT represents a scientifically accurate Grover's Search with 4.8x quantum advantage using 9 qubits. Grants access to the Quantum Computing Platform.",
+      "algorithm": "Grover's Search",
+      "rarity": "Common",
+      "quantum_advantage": 4.824055821405698,
+      "qubits": 9,
+      "attributes": [
+        {
+          "trait_type": "Algorithm",
+          "value": "Grover's Search"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Quantum Advantage",
+          "value": "4.8x"
+        },
+        {
+          "trait_type": "Qubits",
+          "value": 9
+        },
+        {
+          "trait_type": "Platform Access",
+          "value": "Included"
+        }
+      ],
+      "utility_benefits": [
+        "Quantum Platform Access",
+        "Algorithm Execution",
+        "Educational Content"
+      ],
+      "external_url": "https://qs-production-3486.up.railway.app",
+      "scientific_accuracy": true
+    },
+    {
+      "token_id": 4,
+      "name": "Quantum Algorithm #0004: Shor's Factoring",
+      "description": "This NFT represents a scientifically accurate Shor's Factoring with 10393.1x quantum advantage using 11 qubits. Grants access to the Quantum Computing Platform.",
+      "algorithm": "Shor's Factoring",
+      "rarity": "Mythical",
+      "quantum_advantage": 10393.133422259214,
+      "qubits": 11,
+      "attributes": [
+        {
+          "trait_type": "Algorithm",
+          "value": "Shor's Factoring"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        },
+        {
+          "trait_type": "Quantum Advantage",
+          "value": "10393.1x"
+        },
+        {
+          "trait_type": "Qubits",
+          "value": 11
+        },
+        {
+          "trait_type": "Platform Access",
+          "value": "Included"
+        }
+      ],
+      "utility_benefits": [
+        "Quantum Platform Access",
+        "Algorithm Execution",
+        "Educational Content",
+        "Priority Support",
+        "Commercial Rights",
+        "Advanced Algorithms",
+        "Custom Development",
+        "White-label Access",
+        "Direct Consultation"
+      ],
+      "external_url": "https://qs-production-3486.up.railway.app",
+      "scientific_accuracy": true
+    },
+    {
+      "token_id": 5,
+      "name": "Quantum Algorithm #0005: Grover's Search",
+      "description": "This NFT represents a scientifically accurate Grover's Search with 1.3x quantum advantage using 4 qubits. Grants access to the Quantum Computing Platform.",
+      "algorithm": "Grover's Search",
+      "rarity": "Common",
+      "quantum_advantage": 1.2981334415254038,
+      "qubits": 4,
+      "attributes": [
+        {
+          "trait_type": "Algorithm",
+          "value": "Grover's Search"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Quantum Advantage",
+          "value": "1.3x"
+        },
+        {
+          "trait_type": "Qubits",
+          "value": 4
+        },
+        {
+          "trait_type": "Platform Access",
+          "value": "Included"
+        }
+      ],
+      "utility_benefits": [
+        "Quantum Platform Access",
+        "Algorithm Execution",
+        "Educational Content"
+      ],
+      "external_url": "https://qs-production-3486.up.railway.app",
+      "scientific_accuracy": true
+    },
+    {
+      "token_id": 6,
+      "name": "Quantum Algorithm #0006: Quantum Fourier Transform",
+      "description": "This NFT represents a scientifically accurate Quantum Fourier Transform with 171.4x quantum advantage using 17 qubits. Grants access to the Quantum Computing Platform.",
+      "algorithm": "Quantum Fourier Transform",
+      "rarity": "Epic",
+      "quantum_advantage": 171.37808660828597,
+      "qubits": 17,
+      "attributes": [
+        {
+          "trait_type": "Algorithm",
+          "value": "Quantum Fourier Transform"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Epic"
+        },
+        {
+          "trait_type": "Quantum Advantage",
+          "value": "171.4x"
+        },
+        {
+          "trait_type": "Qubits",
+          "value": 17
+        },
+        {
+          "trait_type": "Platform Access",
+          "value": "Included"
+        }
+      ],
+      "utility_benefits": [
+        "Quantum Platform Access",
+        "Algorithm Execution",
+        "Educational Content",
+        "Priority Support",
+        "Commercial Rights",
+        "Advanced Algorithms"
+      ],
+      "external_url": "https://qs-production-3486.up.railway.app",
+      "scientific_accuracy": true
+    },
+    {
+      "token_id": 7,
+      "name": "Quantum Algorithm #0007: Quantum Machine Learning",
+      "description": "This NFT represents a scientifically accurate Quantum Machine Learning with 4.4x quantum advantage using 7 qubits. Grants access to the Quantum Computing Platform.",
+      "algorithm": "Quantum Machine Learning",
+      "rarity": "Common",
+      "quantum_advantage": 4.355675932003851,
+      "qubits": 7,
+      "attributes": [
+        {
+          "trait_type": "Algorithm",
+          "value": "Quantum Machine Learning"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Quantum Advantage",
+          "value": "4.4x"
+        },
+        {
+          "trait_type": "Qubits",
+          "value": 7
+        },
+        {
+          "trait_type": "Platform Access",
+          "value": "Included"
+        }
+      ],
+      "utility_benefits": [
+        "Quantum Platform Access",
+        "Algorithm Execution",
+        "Educational Content"
+      ],
+      "external_url": "https://qs-production-3486.up.railway.app",
+      "scientific_accuracy": true
+    },
+    {
+      "token_id": 8,
+      "name": "Quantum Algorithm #0008: Quantum Machine Learning",
+      "description": "This NFT represents a scientifically accurate Quantum Machine Learning with 11.5x quantum advantage using 14 qubits. Grants access to the Quantum Computing Platform.",
+      "algorithm": "Quantum Machine Learning",
+      "rarity": "Rare",
+      "quantum_advantage": 11.542049856330658,
+      "qubits": 14,
+      "attributes": [
+        {
+          "trait_type": "Algorithm",
+          "value": "Quantum Machine Learning"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "trait_type": "Quantum Advantage",
+          "value": "11.5x"
+        },
+        {
+          "trait_type": "Qubits",
+          "value": 14
+        },
+        {
+          "trait_type": "Platform Access",
+          "value": "Included"
+        }
+      ],
+      "utility_benefits": [
+        "Quantum Platform Access",
+        "Algorithm Execution",
+        "Educational Content"
+      ],
+      "external_url": "https://qs-production-3486.up.railway.app",
+      "scientific_accuracy": true
+    },
+    {
+      "token_id": 9,
+      "name": "Quantum Algorithm #0009: Alien Mathematics Algorithm",
+      "description": "This NFT represents a scientifically accurate Alien Mathematics Algorithm with 95890.1x quantum advantage using 20 qubits. Grants access to the Quantum Computing Platform.",
+      "algorithm": "Alien Mathematics Algorithm",
+      "rarity": "Mythical",
+      "quantum_advantage": 95890.0761761896,
+      "qubits": 20,
+      "attributes": [
+        {
+          "trait_type": "Algorithm",
+          "value": "Alien Mathematics Algorithm"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        },
+        {
+          "trait_type": "Quantum Advantage",
+          "value": "95890.1x"
+        },
+        {
+          "trait_type": "Qubits",
+          "value": 20
+        },
+        {
+          "trait_type": "Platform Access",
+          "value": "Included"
+        }
+      ],
+      "utility_benefits": [
+        "Quantum Platform Access",
+        "Algorithm Execution",
+        "Educational Content",
+        "Priority Support",
+        "Commercial Rights",
+        "Advanced Algorithms",
+        "Custom Development",
+        "White-label Access",
+        "Direct Consultation",
+        "Alien Mathematics Research",
+        "Reality Manipulation Training"
+      ],
+      "external_url": "https://qs-production-3486.up.railway.app",
+      "scientific_accuracy": true
+    },
+    {
+      "token_id": 10,
+      "name": "Quantum Algorithm #0010: Quantum Machine Learning",
+      "description": "This NFT represents a scientifically accurate Quantum Machine Learning with 17.0x quantum advantage using 15 qubits. Grants access to the Quantum Computing Platform.",
+      "algorithm": "Quantum Machine Learning",
+      "rarity": "Rare",
+      "quantum_advantage": 16.95557196225394,
+      "qubits": 15,
+      "attributes": [
+        {
+          "trait_type": "Algorithm",
+          "value": "Quantum Machine Learning"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "trait_type": "Quantum Advantage",
+          "value": "17.0x"
+        },
+        {
+          "trait_type": "Qubits",
+          "value": 15
+        },
+        {
+          "trait_type": "Platform Access",
+          "value": "Included"
+        }
+      ],
+      "utility_benefits": [
+        "Quantum Platform Access",
+        "Algorithm Execution",
+        "Educational Content"
+      ],
+      "external_url": "https://qs-production-3486.up.railway.app",
+      "scientific_accuracy": true
+    },
+    {
+      "token_id": 11,
+      "name": "Quantum Algorithm #0011: Grover's Search",
+      "description": "This NFT represents a scientifically accurate Grover's Search with 7.6x quantum advantage using 13 qubits. Grants access to the Quantum Computing Platform.",
+      "algorithm": "Grover's Search",
+      "rarity": "Common",
+      "quantum_advantage": 7.6456577052752825,
+      "qubits": 13,
+      "attributes": [
+        {
+          "trait_type": "Algorithm",
+          "value": "Grover's Search"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Quantum Advantage",
+          "value": "7.6x"
+        },
+        {
+          "trait_type": "Qubits",
+          "value": 13
+        },
+        {
+          "trait_type": "Platform Access",
+          "value": "Included"
+        }
+      ],
+      "utility_benefits": [
+        "Quantum Platform Access",
+        "Algorithm Execution",
+        "Educational Content"
+      ],
+      "external_url": "https://qs-production-3486.up.railway.app",
+      "scientific_accuracy": true
+    },
+    {
+      "token_id": 12,
+      "name": "Quantum Algorithm #0012: Grover's Search",
+      "description": "This NFT represents a scientifically accurate Grover's Search with 5.9x quantum advantage using 18 qubits. Grants access to the Quantum Computing Platform.",
+      "algorithm": "Grover's Search",
+      "rarity": "Common",
+      "quantum_advantage": 5.895838324190304,
+      "qubits": 18,
+      "attributes": [
+        {
+          "trait_type": "Algorithm",
+          "value": "Grover's Search"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Quantum Advantage",
+          "value": "5.9x"
+        },
+        {
+          "trait_type": "Qubits",
+          "value": 18
+        },
+        {
+          "trait_type": "Platform Access",
+          "value": "Included"
+        }
+      ],
+      "utility_benefits": [
+        "Quantum Platform Access",
+        "Algorithm Execution",
+        "Educational Content"
+      ],
+      "external_url": "https://qs-production-3486.up.railway.app",
+      "scientific_accuracy": true
+    },
+    {
+      "token_id": 13,
+      "name": "Quantum Algorithm #0013: Shor's Factoring",
+      "description": "This NFT represents a scientifically accurate Shor's Factoring with 5543.0x quantum advantage using 4 qubits. Grants access to the Quantum Computing Platform.",
+      "algorithm": "Shor's Factoring",
+      "rarity": "Legendary",
+      "quantum_advantage": 5542.96351713275,
+      "qubits": 4,
+      "attributes": [
+        {
+          "trait_type": "Algorithm",
+          "value": "Shor's Factoring"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Legendary"
+        },
+        {
+          "trait_type": "Quantum Advantage",
+          "value": "5543.0x"
+        },
+        {
+          "trait_type": "Qubits",
+          "value": 4
+        },
+        {
+          "trait_type": "Platform Access",
+          "value": "Included"
+        }
+      ],
+      "utility_benefits": [
+        "Quantum Platform Access",
+        "Algorithm Execution",
+        "Educational Content",
+        "Priority Support",
+        "Commercial Rights",
+        "Advanced Algorithms",
+        "Custom Development",
+        "White-label Access",
+        "Direct Consultation"
+      ],
+      "external_url": "https://qs-production-3486.up.railway.app",
+      "scientific_accuracy": true
+    },
+    {
+      "token_id": 14,
+      "name": "Quantum Algorithm #0014: Grover's Search",
+      "description": "This NFT represents a scientifically accurate Grover's Search with 6.8x quantum advantage using 12 qubits. Grants access to the Quantum Computing Platform.",
+      "algorithm": "Grover's Search",
+      "rarity": "Common",
+      "quantum_advantage": 6.84728178638272,
+      "qubits": 12,
+      "attributes": [
+        {
+          "trait_type": "Algorithm",
+          "value": "Grover's Search"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Quantum Advantage",
+          "value": "6.8x"
+        },
+        {
+          "trait_type": "Qubits",
+          "value": 12
+        },
+        {
+          "trait_type": "Platform Access",
+          "value": "Included"
+        }
+      ],
+      "utility_benefits": [
+        "Quantum Platform Access",
+        "Algorithm Execution",
+        "Educational Content"
+      ],
+      "external_url": "https://qs-production-3486.up.railway.app",
+      "scientific_accuracy": true
+    },
+    {
+      "token_id": 15,
+      "name": "Quantum Algorithm #0015: Grover's Search",
+      "description": "This NFT represents a scientifically accurate Grover's Search with 8.5x quantum advantage using 17 qubits. Grants access to the Quantum Computing Platform.",
+      "algorithm": "Grover's Search",
+      "rarity": "Common",
+      "quantum_advantage": 8.507602597740545,
+      "qubits": 17,
+      "attributes": [
+        {
+          "trait_type": "Algorithm",
+          "value": "Grover's Search"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Quantum Advantage",
+          "value": "8.5x"
+        },
+        {
+          "trait_type": "Qubits",
+          "value": 17
+        },
+        {
+          "trait_type": "Platform Access",
+          "value": "Included"
+        }
+      ],
+      "utility_benefits": [
+        "Quantum Platform Access",
+        "Algorithm Execution",
+        "Educational Content"
+      ],
+      "external_url": "https://qs-production-3486.up.railway.app",
+      "scientific_accuracy": true
+    },
+    {
+      "token_id": 16,
+      "name": "Quantum Algorithm #0016: Quantum Machine Learning",
+      "description": "This NFT represents a scientifically accurate Quantum Machine Learning with 4.6x quantum advantage using 7 qubits. Grants access to the Quantum Computing Platform.",
+      "algorithm": "Quantum Machine Learning",
+      "rarity": "Common",
+      "quantum_advantage": 4.598117021003016,
+      "qubits": 7,
+      "attributes": [
+        {
+          "trait_type": "Algorithm",
+          "value": "Quantum Machine Learning"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Quantum Advantage",
+          "value": "4.6x"
+        },
+        {
+          "trait_type": "Qubits",
+          "value": 7
+        },
+        {
+          "trait_type": "Platform Access",
+          "value": "Included"
+        }
+      ],
+      "utility_benefits": [
+        "Quantum Platform Access",
+        "Algorithm Execution",
+        "Educational Content"
+      ],
+      "external_url": "https://qs-production-3486.up.railway.app",
+      "scientific_accuracy": true
+    },
+    {
+      "token_id": 17,
+      "name": "Quantum Algorithm #0017: Grover's Search",
+      "description": "This NFT represents a scientifically accurate Grover's Search with 3.1x quantum advantage using 6 qubits. Grants access to the Quantum Computing Platform.",
+      "algorithm": "Grover's Search",
+      "rarity": "Common",
+      "quantum_advantage": 3.0813364274637496,
+      "qubits": 6,
+      "attributes": [
+        {
+          "trait_type": "Algorithm",
+          "value": "Grover's Search"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Quantum Advantage",
+          "value": "3.1x"
+        },
+        {
+          "trait_type": "Qubits",
+          "value": 6
+        },
+        {
+          "trait_type": "Platform Access",
+          "value": "Included"
+        }
+      ],
+      "utility_benefits": [
+        "Quantum Platform Access",
+        "Algorithm Execution",
+        "Educational Content"
+      ],
+      "external_url": "https://qs-production-3486.up.railway.app",
+      "scientific_accuracy": true
+    },
+    {
+      "token_id": 18,
+      "name": "Quantum Algorithm #0018: Shor's Factoring",
+      "description": "This NFT represents a scientifically accurate Shor's Factoring with 16152.6x quantum advantage using 12 qubits. Grants access to the Quantum Computing Platform.",
+      "algorithm": "Shor's Factoring",
+      "rarity": "Mythical",
+      "quantum_advantage": 16152.5875820923,
+      "qubits": 12,
+      "attributes": [
+        {
+          "trait_type": "Algorithm",
+          "value": "Shor's Factoring"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Mythical"
+        },
+        {
+          "trait_type": "Quantum Advantage",
+          "value": "16152.6x"
+        },
+        {
+          "trait_type": "Qubits",
+          "value": 12
+        },
+        {
+          "trait_type": "Platform Access",
+          "value": "Included"
+        }
+      ],
+      "utility_benefits": [
+        "Quantum Platform Access",
+        "Algorithm Execution",
+        "Educational Content",
+        "Priority Support",
+        "Commercial Rights",
+        "Advanced Algorithms",
+        "Custom Development",
+        "White-label Access",
+        "Direct Consultation"
+      ],
+      "external_url": "https://qs-production-3486.up.railway.app",
+      "scientific_accuracy": true
+    },
+    {
+      "token_id": 19,
+      "name": "Quantum Algorithm #0019: Grover's Search",
+      "description": "This NFT represents a scientifically accurate Grover's Search with 9.3x quantum advantage using 16 qubits. Grants access to the Quantum Computing Platform.",
+      "algorithm": "Grover's Search",
+      "rarity": "Common",
+      "quantum_advantage": 9.28246548274041,
+      "qubits": 16,
+      "attributes": [
+        {
+          "trait_type": "Algorithm",
+          "value": "Grover's Search"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Quantum Advantage",
+          "value": "9.3x"
+        },
+        {
+          "trait_type": "Qubits",
+          "value": 16
+        },
+        {
+          "trait_type": "Platform Access",
+          "value": "Included"
+        }
+      ],
+      "utility_benefits": [
+        "Quantum Platform Access",
+        "Algorithm Execution",
+        "Educational Content"
+      ],
+      "external_url": "https://qs-production-3486.up.railway.app",
+      "scientific_accuracy": true
+    },
+    {
+      "token_id": 20,
+      "name": "Quantum Algorithm #0020: Grover's Search",
+      "description": "This NFT represents a scientifically accurate Grover's Search with 5.0x quantum advantage using 9 qubits. Grants access to the Quantum Computing Platform.",
+      "algorithm": "Grover's Search",
+      "rarity": "Common",
+      "quantum_advantage": 5.007246236719003,
+      "qubits": 9,
+      "attributes": [
+        {
+          "trait_type": "Algorithm",
+          "value": "Grover's Search"
+        },
+        {
+          "trait_type": "Rarity",
+          "value": "Common"
+        },
+        {
+          "trait_type": "Quantum Advantage",
+          "value": "5.0x"
+        },
+        {
+          "trait_type": "Qubits",
+          "value": 9
+        },
+        {
+          "trait_type": "Platform Access",
+          "value": "Included"
+        }
+      ],
+      "utility_benefits": [
+        "Quantum Platform Access",
+        "Algorithm Execution",
+        "Educational Content"
+      ],
+      "external_url": "https://qs-production-3486.up.railway.app",
+      "scientific_accuracy": true
+    }
+  ],
+  "collection_summary": {
+    "total_quantum_advantage": 128251.4947583846,
+    "average_quantum_advantage": 6412.57473791923,
+    "rarity_distribution": {
+      "Common": 13,
+      "Mythical": 3,
+      "Epic": 1,
+      "Rare": 2,
+      "Legendary": 1
+    },
+    "scientific_accuracy": "100% Verified",
+    "platform_utility": "All NFTs grant quantum platform access"
+  }
+}

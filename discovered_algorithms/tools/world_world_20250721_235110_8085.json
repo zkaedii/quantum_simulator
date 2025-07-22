@@ -1,0 +1,915 @@
+{
+  "world_info": {
+    "world_id": "world_20250721_235110_8085",
+    "name": "Arcturian Sky Realm",
+    "world_type": "Floating Islands",
+    "size": [
+      40,
+      30
+    ],
+    "creation_timestamp": "2025-07-21T23:51:10.175831",
+    "alien_influence": 0.45444249190478164,
+    "reality_coherence": 0.9032084463667167,
+    "mathematical_harmony": 0.5206457832398992
+  },
+  "statistics": {
+    "average_elevation": -0.5487063597846966,
+    "average_temperature": 0.8846430071005827,
+    "average_humidity": 0.3991264629676007,
+    "average_quantum_resonance": 0.4999940489654117,
+    "average_consciousness_level": 0.9169719754455534,
+    "average_reality_stability": 0.8489825342871585,
+    "civilization_count": 2,
+    "resource_deposits": 129,
+    "consciousness_fields": 7,
+    "interdimensional_portals": 0
+  },
+  "civilizations": [
+    {
+      "name": "Pleiadian Alliance",
+      "type": "Consciousness Collective",
+      "population": 197098,
+      "technology_level": 0.44740844693258836,
+      "location": [
+        10,
+        19
+      ],
+      "culture_traits": [
+        "Transcendent Awareness"
+      ],
+      "quantum_awareness": 0.3877770213543644,
+      "dimensional_access": 6
+    },
+    {
+      "name": "Cosmic Federation",
+      "type": "Agricultural",
+      "population": 104201,
+      "technology_level": 0.30092603216493635,
+      "location": [
+        4,
+        3
+      ],
+      "culture_traits": [
+        "Quantum Consciousness"
+      ],
+      "quantum_awareness": 0.7283659108057772,
+      "dimensional_access": 6
+    }
+  ],
+  "resources": {
+    "Iron Ore": [
+      [
+        36,
+        2
+      ],
+      [
+        10,
+        15
+      ],
+      [
+        19,
+        18
+      ],
+      [
+        36,
+        7
+      ],
+      [
+        6,
+        10
+      ],
+      [
+        38,
+        22
+      ],
+      [
+        32,
+        4
+      ],
+      [
+        30,
+        8
+      ],
+      [
+        29,
+        25
+      ],
+      [
+        8,
+        1
+      ]
+    ],
+    "Gold": [
+      [
+        29,
+        19
+      ],
+      [
+        37,
+        29
+      ],
+      [
+        19,
+        9
+      ],
+      [
+        38,
+        14
+      ],
+      [
+        14,
+        29
+      ],
+      [
+        1,
+        29
+      ],
+      [
+        28,
+        17
+      ],
+      [
+        19,
+        23
+      ],
+      [
+        23,
+        3
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        37,
+        7
+      ],
+      [
+        0,
+        18
+      ],
+      [
+        24,
+        5
+      ],
+      [
+        33,
+        20
+      ],
+      [
+        39,
+        23
+      ],
+      [
+        23,
+        7
+      ],
+      [
+        16,
+        8
+      ],
+      [
+        36,
+        5
+      ]
+    ],
+    "Diamonds": [
+      [
+        8,
+        1
+      ],
+      [
+        27,
+        26
+      ],
+      [
+        26,
+        5
+      ],
+      [
+        27,
+        12
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        14,
+        3
+      ],
+      [
+        30,
+        10
+      ],
+      [
+        21,
+        20
+      ],
+      [
+        22,
+        9
+      ],
+      [
+        28,
+        23
+      ],
+      [
+        35,
+        20
+      ],
+      [
+        16,
+        7
+      ],
+      [
+        8,
+        29
+      ],
+      [
+        21,
+        21
+      ],
+      [
+        24,
+        13
+      ],
+      [
+        25,
+        5
+      ]
+    ],
+    "Water": [
+      [
+        35,
+        10
+      ],
+      [
+        38,
+        3
+      ],
+      [
+        33,
+        7
+      ],
+      [
+        35,
+        15
+      ],
+      [
+        33,
+        1
+      ],
+      [
+        30,
+        25
+      ],
+      [
+        26,
+        14
+      ],
+      [
+        18,
+        23
+      ],
+      [
+        10,
+        20
+      ],
+      [
+        24,
+        20
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        5,
+        6
+      ]
+    ],
+    "Oil": [
+      [
+        25,
+        28
+      ],
+      [
+        37,
+        1
+      ],
+      [
+        14,
+        22
+      ],
+      [
+        12,
+        1
+      ],
+      [
+        9,
+        11
+      ],
+      [
+        2,
+        19
+      ],
+      [
+        0,
+        15
+      ],
+      [
+        22,
+        17
+      ],
+      [
+        5,
+        10
+      ],
+      [
+        37,
+        15
+      ],
+      [
+        11,
+        18
+      ],
+      [
+        28,
+        9
+      ],
+      [
+        14,
+        28
+      ],
+      [
+        9,
+        24
+      ],
+      [
+        2,
+        12
+      ],
+      [
+        34,
+        0
+      ],
+      [
+        33,
+        25
+      ],
+      [
+        36,
+        5
+      ]
+    ],
+    "Quantum Crystals": [
+      [
+        35,
+        8
+      ],
+      [
+        31,
+        27
+      ],
+      [
+        14,
+        13
+      ]
+    ],
+    "Consciousness Ore": [
+      [
+        0,
+        19
+      ],
+      [
+        30,
+        17
+      ],
+      [
+        34,
+        15
+      ],
+      [
+        6,
+        10
+      ],
+      [
+        33,
+        6
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        10,
+        28
+      ],
+      [
+        31,
+        20
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        21,
+        15
+      ],
+      [
+        27,
+        23
+      ],
+      [
+        7,
+        19
+      ],
+      [
+        21,
+        26
+      ],
+      [
+        35,
+        20
+      ],
+      [
+        19,
+        29
+      ],
+      [
+        19,
+        26
+      ]
+    ],
+    "Reality Shards": [],
+    "Dimensional Stones": [
+      [
+        28,
+        8
+      ],
+      [
+        0,
+        24
+      ],
+      [
+        23,
+        7
+      ],
+      [
+        35,
+        17
+      ],
+      [
+        30,
+        7
+      ],
+      [
+        9,
+        27
+      ],
+      [
+        20,
+        10
+      ],
+      [
+        19,
+        2
+      ],
+      [
+        13,
+        6
+      ],
+      [
+        11,
+        6
+      ]
+    ],
+    "Stellar Essence": [
+      [
+        36,
+        8
+      ],
+      [
+        36,
+        25
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        1,
+        2
+      ],
+      [
+        10,
+        24
+      ],
+      [
+        17,
+        25
+      ],
+      [
+        1,
+        21
+      ],
+      [
+        30,
+        28
+      ],
+      [
+        30,
+        23
+      ],
+      [
+        13,
+        14
+      ]
+    ],
+    "Temporal Minerals": [
+      [
+        6,
+        24
+      ],
+      [
+        21,
+        14
+      ],
+      [
+        35,
+        8
+      ],
+      [
+        31,
+        9
+      ],
+      [
+        37,
+        7
+      ],
+      [
+        38,
+        15
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        33,
+        28
+      ],
+      [
+        22,
+        15
+      ],
+      [
+        19,
+        4
+      ],
+      [
+        4,
+        29
+      ],
+      [
+        18,
+        5
+      ],
+      [
+        38,
+        29
+      ],
+      [
+        27,
+        18
+      ],
+      [
+        34,
+        8
+      ]
+    ]
+  },
+  "consciousness_fields": [
+    [
+      26,
+      12,
+      0.9217906053567062
+    ],
+    [
+      1,
+      19,
+      0.8533042688753456
+    ],
+    [
+      39,
+      2,
+      0.6333946246282354
+    ],
+    [
+      5,
+      22,
+      0.37131823385012414
+    ],
+    [
+      18,
+      19,
+      0.4041505009808579
+    ],
+    [
+      31,
+      19,
+      0.5916366615963087
+    ],
+    [
+      15,
+      25,
+      0.7452992475358062
+    ]
+  ],
+  "interdimensional_portals": [],
+  "terrain_sample": {
+    "sample_points": [
+      {
+        "x": 0,
+        "y": 0,
+        "elevation": -1.0,
+        "temperature": 0.8,
+        "humidity": 1.0,
+        "biome": "Consciousness Lakes",
+        "quantum_resonance": 0.5,
+        "consciousness_level": 0.7,
+        "reality_stability": 0.8
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "elevation": 0.7517540932858752,
+        "temperature": 0.27447377201423745,
+        "humidity": 0.9874528311750868,
+        "biome": "Floating Gardens",
+        "quantum_resonance": 0.798597720681196,
+        "consciousness_level": 0.7157010272091047,
+        "reality_stability": 0.8
+      },
+      {
+        "x": 4,
+        "y": 0,
+        "elevation": 0.5142301027236289,
+        "temperature": 0.34573096918291135,
+        "humidity": 0.9504410504824303,
+        "biome": "Floating Gardens",
+        "quantum_resonance": 0.9790079301446124,
+        "consciousness_level": 0.7313590176755701,
+        "reality_stability": 0.8
+      },
+      {
+        "x": 6,
+        "y": 0,
+        "elevation": -1.0,
+        "temperature": 0.8,
+        "humidity": 0.8908222301654765,
+        "biome": "Consciousness Lakes",
+        "quantum_resonance": 0.9698227368426624,
+        "consciousness_level": 0.746931052621091,
+        "reality_stability": 0.8
+      },
+      {
+        "x": 8,
+        "y": 0,
+        "elevation": -1.0,
+        "temperature": 0.8,
+        "humidity": 0.8115885598388611,
+        "biome": "Consciousness Lakes",
+        "quantum_resonance": 0.7746777182135633,
+        "consciousness_level": 0.7623744488726882,
+        "reality_stability": 0.8
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "elevation": -1.0,
+        "temperature": 0.9039558454088796,
+        "humidity": 1.0,
+        "biome": "Consciousness Lakes",
+        "quantum_resonance": 0.5,
+        "consciousness_level": 0.7157010272091047,
+        "reality_stability": 0.8220436173199855
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "elevation": -1.0,
+        "temperature": 0.9039558454088796,
+        "humidity": 0.9874528311750868,
+        "biome": "Consciousness Lakes",
+        "quantum_resonance": 0.7395039650723063,
+        "consciousness_level": 0.7313590176755701,
+        "reality_stability": 0.8219093149716196
+      },
+      {
+        "x": 4,
+        "y": 2,
+        "elevation": -1.0,
+        "temperature": 0.9039558454088796,
+        "humidity": 0.9504410504824303,
+        "biome": "Consciousness Lakes",
+        "quantum_resonance": 0.8842102287619291,
+        "consciousness_level": 0.746931052621091,
+        "reality_stability": 0.8215080444202526
+      },
+      {
+        "x": 6,
+        "y": 2,
+        "elevation": -1.0,
+        "temperature": 0.9039558454088796,
+        "humidity": 0.8908222301654765,
+        "biome": "Consciousness Lakes",
+        "quantum_resonance": 0.8768428241790879,
+        "consciousness_level": 0.7623744488726882,
+        "reality_stability": 0.8208446952061625
+      },
+      {
+        "x": 8,
+        "y": 2,
+        "elevation": -1.0,
+        "temperature": 0.9039558454088796,
+        "humidity": 0.8115885598388611,
+        "biome": "Consciousness Lakes",
+        "quantum_resonance": 0.7203178325644362,
+        "consciousness_level": 0.7776468758579026,
+        "reality_stability": 0.819927350336412
+      },
+      {
+        "x": 0,
+        "y": 4,
+        "elevation": -1.0,
+        "temperature": 1.0,
+        "humidity": 1.0,
+        "biome": "Consciousness Lakes",
+        "quantum_resonance": 0.5,
+        "consciousness_level": 0.7313590176755701,
+        "reality_stability": 0.8438186299432391
+      },
+      {
+        "x": 2,
+        "y": 4,
+        "elevation": -1.0,
+        "temperature": 1.0,
+        "humidity": 0.9874528311750868,
+        "biome": "Consciousness Lakes",
+        "quantum_resonance": 0.5856125080807333,
+        "consciousness_level": 0.746931052621091,
+        "reality_stability": 0.8435516617402381
+      },
+      {
+        "x": 4,
+        "y": 4,
+        "elevation": -1.0,
+        "temperature": 1.0,
+        "humidity": 0.9504410504824303,
+        "biome": "Consciousness Lakes",
+        "quantum_resonance": 0.6373388591067817,
+        "consciousness_level": 0.7623744488726882,
+        "reality_stability": 0.8427540101777822
+      },
+      {
+        "x": 6,
+        "y": 4,
+        "elevation": 0.39729531938818397,
+        "temperature": 0.5841797257214449,
+        "humidity": 0.8908222301654765,
+        "biome": "Floating Gardens",
+        "quantum_resonance": 0.6347053244837031,
+        "consciousness_level": 0.7776468758579026,
+        "reality_stability": 0.8414353947566645
+      },
+      {
+        "x": 8,
+        "y": 4,
+        "elevation": 0.7825190779574673,
+        "temperature": 0.4686125981506599,
+        "humidity": 0.8115885598388611,
+        "biome": "Floating Gardens",
+        "quantum_resonance": 0.578754279558829,
+        "consciousness_level": 0.7927064716335068,
+        "reality_stability": 0.8396118829983883
+      },
+      {
+        "x": 0,
+        "y": 6,
+        "elevation": -1.0,
+        "temperature": 1.0,
+        "humidity": 1.0,
+        "biome": "Consciousness Lakes",
+        "quantum_resonance": 0.5,
+        "consciousness_level": 0.746931052621091,
+        "reality_stability": 0.8650597061604907
+      },
+      {
+        "x": 2,
+        "y": 6,
+        "elevation": -1.0,
+        "temperature": 1.0,
+        "humidity": 0.9874528311750868,
+        "biome": "Consciousness Lakes",
+        "quantum_resonance": 0.3978348940344754,
+        "consciousness_level": 0.7623744488726882,
+        "reality_stability": 0.8646633251494017
+      },
+      {
+        "x": 4,
+        "y": 6,
+        "elevation": -1.0,
+        "temperature": 1.0,
+        "humidity": 0.9504410504824303,
+        "biome": "Consciousness Lakes",
+        "quantum_resonance": 0.33610760380250704,
+        "consciousness_level": 0.7776468758579026,
+        "reality_stability": 0.86347901207665
+      },
+      {
+        "x": 6,
+        "y": 6,
+        "elevation": -1.0,
+        "temperature": 1.0,
+        "humidity": 0.8908222301654765,
+        "biome": "Consciousness Lakes",
+        "quantum_resonance": 0.33925031448652276,
+        "consciousness_level": 0.7927064716335068,
+        "reality_stability": 0.8615211979700079
+      },
+      {
+        "x": 8,
+        "y": 6,
+        "elevation": -1.0,
+        "temperature": 1.0,
+        "humidity": 0.8115885598388611,
+        "biome": "Consciousness Lakes",
+        "quantum_resonance": 0.4060191145343046,
+        "consciousness_level": 0.8075119576296969,
+        "reality_stability": 0.8588137390803228
+      },
+      {
+        "x": 0,
+        "y": 8,
+        "elevation": -1.0,
+        "temperature": 1.0,
+        "humidity": 1.0,
+        "biome": "Consciousness Lakes",
+        "quantum_resonance": 0.5,
+        "consciousness_level": 0.7623744488726882,
+        "reality_stability": 0.8855080203555642
+      },
+      {
+        "x": 2,
+        "y": 8,
+        "elevation": 0.7314904757055816,
+        "temperature": 0.6521252700270226,
+        "humidity": 0.9874528311750868,
+        "biome": "Floating Gardens",
+        "quantum_resonance": 0.25049509572177375,
+        "consciousness_level": 0.7776468758579026,
+        "reality_stability": 0.8849870564969026
+      },
+      {
+        "x": 4,
+        "y": 8,
+        "elevation": 0.5003689714801384,
+        "temperature": 0.7214617212946555,
+        "humidity": 0.9504410504824303,
+        "biome": "Floating Gardens",
+        "quantum_resonance": 0.0997463494142165,
+        "consciousness_level": 0.7927064716335068,
+        "reality_stability": 0.8834305129416274
+      },
+      {
+        "x": 6,
+        "y": 8,
+        "elevation": -1.0,
+        "temperature": 1.0,
+        "humidity": 0.8908222301654765,
+        "biome": "Consciousness Lakes",
+        "quantum_resonance": 0.1074213938531085,
+        "consciousness_level": 0.8075119576296969,
+        "reality_stability": 0.8808573564003083
+      },
+      {
+        "x": 8,
+        "y": 8,
+        "elevation": -1.0,
+        "temperature": 1.0,
+        "humidity": 0.8115885598388611,
+        "biome": "Consciousness Lakes",
+        "quantum_resonance": 0.27048238133268326,
+        "consciousness_level": 0.822022751795249,
+        "reality_stability": 0.8772989411612361
+      }
+    ]
+  }
+}

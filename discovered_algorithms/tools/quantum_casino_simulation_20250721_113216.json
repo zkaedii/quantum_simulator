@@ -1,0 +1,165 @@
+{
+  "simulation_info": {
+    "session_id": "quantum_casino_1753122616",
+    "timestamp": "2025-07-21T11:32:16.395056",
+    "duration_description": "Real-time quantum casino simulation",
+    "disclaimer": "DEMONSTRATION PURPOSES ONLY - Educational Gaming Showcase"
+  },
+  "casino_statistics": {
+    "session_id": "quantum_casino_1753122616",
+    "total_players": 2,
+    "total_games_played": 236,
+    "total_algorithms_used": 10,
+    "peak_quantum_advantage": 9568.1,
+    "mining_stats": {
+      "total_mined": 1697.09892,
+      "mining_rate_per_minute": 0,
+      "average_quantum_advantage": 1799.7651107015158,
+      "civilization_bonuses": 0
+    },
+    "active_mining": false
+  },
+  "player_statistics": {
+    "player_1_1753122616": {
+      "player_name": "QuantumGamer_Alpha",
+      "player_id": "player_1_1753122616",
+      "total_quantum_tokens": 2597.0072365688734,
+      "token_breakdown": {
+        "basic_quantum_token": 1663.6909198677172,
+        "fusion_token": 607.8436367011557,
+        "norse_rune_token": 62.627200000000016,
+        "egyptian_ankh_token": 50.349199999999996,
+        "aztec_gold_token": 53.90879999999999,
+        "babylonian_token": 67.68899999999996,
+        "persian_geometric_token": 43.27224000000001,
+        "celtic_spiral_token": 47.626239999999996
+      },
+      "total_winnings": 8872.532966350142,
+      "games_played": 118,
+      "win_rate": 0.0,
+      "vip_level": 1,
+      "quantum_power_level": 100.0,
+      "favorite_strategy": "civilization_fusion"
+    },
+    "player_2_1753122616": {
+      "player_name": "QuantumGamer_Beta",
+      "player_id": "player_2_1753122616",
+      "total_quantum_tokens": 2669.1202276507856,
+      "token_breakdown": {
+        "basic_quantum_token": 1522.7164074038099,
+        "fusion_token": 800.3290302469755,
+        "norse_rune_token": 39.110200000000006,
+        "egyptian_ankh_token": 50.349199999999996,
+        "aztec_gold_token": 53.90879999999999,
+        "babylonian_token": 58.26674999999997,
+        "persian_geometric_token": 54.103200000000015,
+        "celtic_spiral_token": 90.33663999999999
+      },
+      "total_winnings": 7980.92433948881,
+      "games_played": 118,
+      "win_rate": 0.0,
+      "vip_level": 1,
+      "quantum_power_level": 100.0,
+      "favorite_strategy": "civilization_fusion"
+    }
+  },
+  "game_results": [
+    {
+      "game_type": "quantum_roulette",
+      "strategy": "persian_patterns",
+      "quantum_advantage": 234.7,
+      "payout": 48.205061871013065,
+      "outcome": "Number 26"
+    },
+    {
+      "game_type": "quantum_slots",
+      "strategy": "aztec_timing",
+      "quantum_advantage": 389.6,
+      "payout": 122.72210098961841,
+      "outcome": "\ud83c\udf1e | \ud83c\udf1e | \ud83d\udc8e"
+    },
+    {
+      "game_type": "quantum_roulette",
+      "strategy": "babylonian_math",
+      "quantum_advantage": 234.7,
+      "payout": 0.0,
+      "outcome": "Number 30"
+    },
+    {
+      "game_type": "quantum_roulette",
+      "strategy": "egyptian_geometry",
+      "quantum_advantage": 445.2,
+      "payout": 0.0,
+      "outcome": "Number 7"
+    },
+    {
+      "game_type": "quantum_roulette",
+      "strategy": "persian_patterns",
+      "quantum_advantage": 234.7,
+      "payout": 0.0,
+      "outcome": "Number 15"
+    },
+    {
+      "game_type": "quantum_roulette",
+      "strategy": "aztec_timing",
+      "quantum_advantage": 234.7,
+      "payout": 0.0,
+      "outcome": "Number 33"
+    },
+    {
+      "game_type": "quantum_roulette",
+      "strategy": "persian_patterns",
+      "quantum_advantage": 234.7,
+      "payout": 0.0,
+      "outcome": "Number 6"
+    },
+    {
+      "game_type": "quantum_slots",
+      "strategy": "aztec_timing",
+      "quantum_advantage": 389.6,
+      "payout": 0.0,
+      "outcome": "\ud83d\udc06 | \ud83e\udd85 | \u2b50"
+    },
+    {
+      "game_type": "quantum_roulette",
+      "strategy": "babylonian_math",
+      "quantum_advantage": 234.7,
+      "payout": 0.0,
+      "outcome": "Number 21"
+    },
+    {
+      "game_type": "quantum_roulette",
+      "strategy": "norse_probability",
+      "quantum_advantage": 567.8,
+      "payout": 60.784732989332596,
+      "outcome": "Number 30"
+    }
+  ],
+  "quantum_algorithms_used": {
+    "Ultra_Civilization_Fusion_Casino": 9568.1,
+    "Norse_Probability_Mastery": 567.8,
+    "Egyptian_Sacred_Geometry_Gaming": 445.2,
+    "Aztec_Calendar_Timing_Engine": 389.6,
+    "Babylonian_Mathematical_Precision": 256.3,
+    "Persian_Geometric_Pattern_Gaming": 289.4,
+    "Celtic_Natural_Harmony_Gaming": 334.7,
+    "Advanced_Quantum_RNG": 234.7,
+    "Probability_Quantum_Engine": 187.3,
+    "Gaming_Quantum_Optimizer": 156.9
+  },
+  "mining_summary": {
+    "total_tokens_mined": 1697.09892,
+    "mining_algorithms": [
+      "Ultra_Civilization_Fusion_Casino",
+      "Norse_Probability_Mastery",
+      "Egyptian_Sacred_Geometry_Gaming",
+      "Aztec_Calendar_Timing_Engine",
+      "Babylonian_Mathematical_Precision",
+      "Persian_Geometric_Pattern_Gaming",
+      "Celtic_Natural_Harmony_Gaming",
+      "Advanced_Quantum_RNG",
+      "Probability_Quantum_Engine",
+      "Gaming_Quantum_Optimizer"
+    ]
+  }
+}

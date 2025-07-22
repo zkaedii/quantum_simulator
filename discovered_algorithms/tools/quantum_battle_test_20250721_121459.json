@@ -1,0 +1,209 @@
+{
+  "test_start": "2025-07-21T12:13:44.330772",
+  "duration_minutes": 3,
+  "battle_modes_tested": [
+    "Algorithm Duels",
+    "Battle Royale",
+    "Stress Gauntlet",
+    "Civilization War"
+  ],
+  "epic_duels": [
+    {
+      "battle_id": "battle_1753125225340",
+      "winner": "Reality Architect Supreme",
+      "loser": "Cosmic Council Overlord",
+      "spectacle_rating": 9.872661655248345,
+      "quantum_effects": 2
+    },
+    {
+      "battle_id": "battle_1753125226145",
+      "winner": "Atlantean Crystal Titan",
+      "loser": "Quetzalcoatl Feathered Serpent",
+      "spectacle_rating": 9.419383878646194,
+      "quantum_effects": 1
+    },
+    {
+      "battle_id": "battle_1753125227352",
+      "winner": "Pharaoh Pyramid Lord",
+      "loser": "Odin's Wisdom Master",
+      "spectacle_rating": 9.863218810964756,
+      "quantum_effects": 3
+    }
+  ],
+  "tournament_results": {
+    "champion": "Reality Architect Supreme",
+    "total_battles": 7,
+    "tournament_duration": 7846.103191375732
+  },
+  "stress_test_results": {
+    "gauntlet_start": "2025-07-21T12:13:58.209203",
+    "duration_minutes": 1,
+    "battles_per_minute": 50.67691498887722,
+    "total_battles": 51,
+    "quantum_effects_triggered": 41,
+    "reality_distortions": 10,
+    "consciousness_upgrades": 15,
+    "algorithm_performance": {
+      "cosmic_council_overlord": {
+        "battles": 13,
+        "wins": 13,
+        "avg_victory_margin": 0
+      },
+      "atlantean_crystal_titan": {
+        "battles": 9,
+        "wins": 9,
+        "avg_victory_margin": 0
+      },
+      "quetzalcoatl_feathered_serpent": {
+        "battles": 6,
+        "wins": 6,
+        "avg_victory_margin": 0
+      },
+      "reality_architect_supreme": {
+        "battles": 10,
+        "wins": 10,
+        "avg_victory_margin": 0
+      },
+      "jaguar_shadow_hunter": {
+        "battles": 2,
+        "wins": 2,
+        "avg_victory_margin": 0
+      },
+      "odin_wisdom_master": {
+        "battles": 3,
+        "wins": 3,
+        "avg_victory_margin": 0
+      },
+      "pharaoh_pyramid_lord": {
+        "battles": 5,
+        "wins": 5,
+        "avg_victory_margin": 0
+      },
+      "thor_lightning_destroyer": {
+        "battles": 2,
+        "wins": 2,
+        "avg_victory_margin": 0
+      },
+      "anubis_quantum_guardian": {
+        "battles": 1,
+        "wins": 1,
+        "avg_victory_margin": 0
+      }
+    },
+    "peak_quantum_advantage": 50000000.0,
+    "system_stability": "STABLE",
+    "gauntlet_end": "2025-07-21T12:14:58.591727"
+  },
+  "civilization_war_results": {
+    "war_type": "civilization_war",
+    "participating_civilizations": [
+      "reality_architect_guild",
+      "cosmic_council_supreme"
+    ],
+    "winning_civilization": "reality_architect_guild",
+    "losing_civilization": "cosmic_council_supreme",
+    "team1_wins": 1,
+    "team2_wins": 0,
+    "total_battles": 1,
+    "war_duration": 1043.243169784546,
+    "epic_moments": 0
+  },
+  "final_leaderboard": {
+    "most_wins": [
+      [
+        "Cosmic Council Overlord",
+        15
+      ],
+      [
+        "Reality Architect Supreme",
+        15
+      ],
+      [
+        "Atlantean Crystal Titan",
+        11
+      ],
+      [
+        "Pharaoh Pyramid Lord",
+        7
+      ],
+      [
+        "Quetzalcoatl Feathered Serpent",
+        6
+      ]
+    ],
+    "highest_win_rate": [
+      [
+        "Reality Architect Supreme",
+        "100.0%"
+      ],
+      [
+        "Cosmic Council Overlord",
+        "83.3%"
+      ],
+      [
+        "Atlantean Crystal Titan",
+        "68.8%"
+      ],
+      [
+        "Quetzalcoatl Feathered Serpent",
+        "54.5%"
+      ],
+      [
+        "Pharaoh Pyramid Lord",
+        "50.0%"
+      ]
+    ],
+    "most_powerful": [
+      [
+        "Reality Architect Supreme",
+        "57946522"
+      ],
+      [
+        "Cosmic Council Overlord",
+        "4386766"
+      ],
+      [
+        "Atlantean Crystal Titan",
+        "1152784"
+      ],
+      [
+        "Quetzalcoatl Feathered Serpent",
+        "236157"
+      ],
+      [
+        "Pharaoh Pyramid Lord",
+        "179809"
+      ]
+    ],
+    "quantum_supremacy": [
+      [
+        "Reality Architect Supreme",
+        "50000000x"
+      ],
+      [
+        "Cosmic Council Overlord",
+        "5000000x"
+      ],
+      [
+        "Atlantean Crystal Titan",
+        "1250000x"
+      ],
+      [
+        "Quetzalcoatl Feathered Serpent",
+        "267890x"
+      ],
+      [
+        "Pharaoh Pyramid Lord",
+        "156780x"
+      ]
+    ],
+    "total_battles": 62,
+    "total_tournaments": 1
+  },
+  "reality_distortions_total": 1,
+  "quantum_effects_total": 6,
+  "most_epic_battle": "Reality Architect Supreme vs Atlantean Crystal Titan",
+  "ultimate_champion": "Cosmic Council Overlord",
+  "test_end": "2025-07-21T12:14:59.638129",
+  "total_test_duration": 75.30735683441162
+}

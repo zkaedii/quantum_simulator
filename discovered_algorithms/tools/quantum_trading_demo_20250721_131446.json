@@ -1,0 +1,127 @@
+{
+  "demo_timestamp": "2025-07-21T13:14:46.888338",
+  "initial_capital": 240000.0,
+  "final_capital": -4.935431245107163e+201,
+  "total_profit": -4.935431245107163e+201,
+  "quantum_advantage": 9568.1,
+  "trade_history": [
+    {
+      "trade_id": 1,
+      "asset": "TSLA",
+      "direction": "SHORT",
+      "entry_price": 245.0,
+      "exit_price": 222.48167369100673,
+      "position_size": 1134.8324193224653,
+      "profit": 25554.526724327538,
+      "strategy": "\ud83d\udd25 Norse Probability Mastery",
+      "timestamp": "2025-07-21T13:14:40.393312"
+    },
+    {
+      "trade_id": 2,
+      "asset": "BTC/USD",
+      "direction": "LONG",
+      "entry_price": 43571.31579585226,
+      "exit_price": 48125.12879801715,
+      "position_size": 2228.20314423517,
+      "profit": 10146820.4496828,
+      "strategy": "\ud83d\udc8e Egyptian Sacred Geometry",
+      "timestamp": "2025-07-21T13:14:40.507443"
+    },
+    {
+      "trade_id": 3,
+      "asset": "AMZN",
+      "direction": "SHORT",
+      "entry_price": 154.8951451269628,
+      "exit_price": 138.6933103967328,
+      "position_size": 143696.4477648723,
+      "profit": 2328146.098007587,
+      "strategy": "\ud83c\udf1f Aztec Calendar Timing",
+      "timestamp": "2025-07-21T13:14:40.511463"
+    },
+    {
+      "trade_id": 4,
+      "asset": "ETH/USD",
+      "direction": "LONG",
+      "entry_price": 2662.422488633393,
+      "exit_price": 3197.453114436694,
+      "position_size": 277187.58619589,
+      "profit": 148303847.70729327,
+      "strategy": "\ud83d\udcdc Babylonian Mathematics",
+      "timestamp": "2025-07-21T13:14:40.517502"
+    },
+    {
+      "trade_id": 5,
+      "asset": "AAPL",
+      "direction": "SHORT",
+      "entry_price": 194.59824268055075,
+      "exit_price": 159.13785749583067,
+      "position_size": 5864621.288533046,
+      "profit": 207961729.85389122,
+      "strategy": "\ud83c\udf00 Celtic Natural Harmony",
+      "timestamp": "2025-07-21T13:14:40.525545"
+    },
+    {
+      "trade_id": 6,
+      "asset": "ETH/USD",
+      "direction": "LONG",
+      "entry_price": 2648.7175188114775,
+      "exit_price": 3206.7391475378313,
+      "position_size": 1907298.1172400415,
+      "profit": 1064313601.848996,
+      "strategy": "\u26a1 Quantum Fusion Supreme",
+      "timestamp": "2025-07-21T13:14:40.537381"
+    },
+    {
+      "trade_id": 7,
+      "asset": "NVDA",
+      "direction": "LONG",
+      "entry_price": 869.3408938342413,
+      "exit_price": 964.1443212204363,
+      "position_size": 12398360.769362321,
+      "profit": 1175407094.906089,
+      "strategy": "\ud83d\udd25 Norse Probability Mastery",
+      "timestamp": "2025-07-21T13:14:40.543425"
+    },
+    {
+      "trade_id": 8,
+      "asset": "NVDA",
+      "direction": "LONG",
+      "entry_price": 868.9310630432925,
+      "exit_price": 868.9027331241006,
+      "position_size": 36277565.797674246,
+      "profit": 1027740.507529333,
+      "strategy": "\ud83d\udc8e Egyptian Sacred Geometry",
+      "timestamp": "2025-07-21T13:14:40.545434"
+    },
+    {
+      "trade_id": 9,
+      "asset": "BTC/USD",
+      "direction": "LONG",
+      "entry_price": 43169.8740578971,
+      "exit_price": 47953.754531292056,
+      "position_size": 57069187.31812783,
+      "profit": 273012170843.71094,
+      "strategy": "\ud83c\udf1f Aztec Calendar Timing",
+      "timestamp": "2025-07-21T13:14:40.551221"
+    },
+    {
+      "trade_id": 10,
+      "asset": "AAPL",
+      "direction": "SHORT",
+      "entry_price": 193.17102440615483,
+      "exit_price": 154.78272202583076,
+      "position_size": 9766305943.997473,
+      "profit": 374911905716.9311,
+      "strategy": "\ud83d\udcdc Babylonian Mathematics",
+      "timestamp": "2025-07-21T13:14:40.561291"
+    }
+  ],
+  "performance_metrics": {
+    "total_profit": -4.935431245107163e+201,
+    "return_percentage": -2.0564296854613176e+198,
+    "trades_executed": 750,
+    "success_rate": 0.9413333333333334,
+    "quantum_advantage": 9568.1,
+    "execution_time": 6.473172664642334
+  }
+}

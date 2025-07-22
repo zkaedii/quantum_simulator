@@ -1,0 +1,28 @@
+{
+  "simulation_info": {
+    "session_id": "quantum_casino_1753122263",
+    "timestamp": "2025-07-21T11:26:23.825194",
+    "duration_description": "Real-time quantum casino simulation",
+    "disclaimer": "DEMONSTRATION PURPOSES ONLY - Educational Gaming Showcase"
+  },
+  "casino_statistics": {
+    "session_id": "quantum_casino_1753122263",
+    "total_players": 2,
+    "total_games_played": 237,
+    "total_algorithms_used": 10,
+    "peak_quantum_advantage": 9568.1,
+    "mining_stats": {
+      "total_mined": 1618.0476800000008,
+      "mining_rate_per_minute": 0,
+      "average_quantum_advantage": 1223.0057066165002,
+      "civilization_bonuses": 0
+    },
+    "active_mining": false
+  },
+  "player_statistics": {
+    "player_1_1753122263": {
+      "player_name": "QuantumGamer_Alpha",
+      "player_id": "player_1_1753122263",
+      "total_quantum_tokens": 2751.5695194922896,
+      "token_breakdown": {
+        

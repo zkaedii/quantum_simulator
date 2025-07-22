@@ -1,0 +1,1380 @@
+{
+  "quantum_logistics_empire_summary": {
+    "total_supply_chains_optimized": 2,
+    "total_routes_optimized": 9,
+    "total_warehouses_managed": 25,
+    "total_fleet_vehicles": 750,
+    "total_inventory_items": 653396,
+    "total_products_forecasted": 150,
+    "peak_quantum_advantage": "9,568.1x",
+    "average_cost_reduction": "16.8%",
+    "total_annual_savings": "$8,697,337,820",
+    "civilizations_applied": [
+      "Norse",
+      "Aztec",
+      "Egyptian",
+      "Celtic",
+      "Persian",
+      "Babylonian"
+    ]
+  },
+  "supply_chain_optimization": {
+    "enterprise_network": "QuantumSupplyChain(network_name='Global_Enterprise_Network', suppliers={'Supplier_0': {'capacity': 1201, 'location': 'Region_0'}, 'Supplier_1': {'capacity': 9976, 'location': 'Region_1'}, 'Supplier_2': {'capacity': 6078, 'location': 'Region_2'}, 'Supplier_3': {'capacity': 3790, 'location': 'Region_3'}, 'Supplier_4': {'capacity': 2208, 'location': 'Region_4'}, 'Supplier_5': {'capacity': 2101, 'location': 'Region_5'}, 'Supplier_6': {'capacity': 6900, 'location': 'Region_6'}, 'Supplier_7': {'capacity': 8176, 'location': 'Region_7'}, 'Supplier_8': {'capacity': 3128, 'location': 'Region_8'}, 'Supplier_9': {'capacity': 9872, 'location': 'Region_9'}, 'Supplier_10': {'capacity': 4525, 'location': 'Region_0'}, 'Supplier_11': {'capacity': 6743, 'location': 'Region_1'}, 'Supplier_12': {'capacity': 7589, 'location': 'Region_2'}, 'Supplier_13': {'capacity': 6572, 'location': 'Region_3'}, 'Supplier_14': {'capacity': 9648, 'location': 'Region_4'}, 'Supplier_15': {'capacity': 3556, 'location': 'Region_5'}, 'Supplier_16': {'capacity': 6156, 'location': 'Region_6'}, 'Supplier_17': {'capacity': 6622, 'location': 'Region_7'}, 'Supplier_18': {'capacity': 3074, 'location': 'Region_8'}, 'Supplier_19': {'capacity': 4998, 'location': 'Region_9'}, 'Supplier_20': {'capacity': 3925, 'location': 'Region_0'}, 'Supplier_21': {'capacity': 4756, 'location': 'Region_1'}, 'Supplier_22': {'capacity': 8270, 'location': 'Region_2'}, 'Supplier_23': {'capacity': 4420, 'location': 'Region_3'}, 'Supplier_24': {'capacity': 9477, 'location': 'Region_4'}, 'Supplier_25': {'capacity': 3420, 'location': 'Region_5'}, 'Supplier_26': {'capacity': 6890, 'location': 'Region_6'}, 'Supplier_27': {'capacity': 3262, 'location': 'Region_7'}, 'Supplier_28': {'capacity': 6692, 'location': 'Region_8'}, 'Supplier_29': {'capacity': 7790, 'location': 'Region_9'}, 'Supplier_30': {'capacity': 3044, 'location': 'Region_0'}, 'Supplier_31': {'capacity': 2318, 'location': 'Region_1'}, 'Supplier_32': {'capacity': 1952, 'location': 'Region_2'}, 'Supplier_33': {'capacity': 7746, 'location': 'Region_3'}, 'Supplier_34': {'capacity': 6478, 'location': 'Region_4'}, 'Supplier_35': {'capacity': 4360, 'location': 'Region_5'}, 'Supplier_36': {'capacity': 2400, 'location': 'Region_6'}, 'Supplier_37': {'capacity': 3815, 'location': 'Region_7'}, 'Supplier_38': {'capacity': 8408, 'location': 'Region_8'}, 'Supplier_39': {'capacity': 5290, 'location': 'Region_9'}, 'Supplier_40': {'capacity': 6794, 'location': 'Region_0'}, 'Supplier_41': {'capacity': 4030, 'location': 'Region_1'}, 'Supplier_42': {'capacity': 3102, 'location': 'Region_2'}, 'Supplier_43': {'capacity': 7761, 'location': 'Region_3'}, 'Supplier_44': {'capacity': 4131, 'location': 'Region_4'}, 'Supplier_45': {'capacity': 2527, 'location': 'Region_5'}, 'Supplier_46': {'capacity': 9554, 'location': 'Region_6'}, 'Supplier_47': {'capacity': 5859, 'location': 'Region_7'}, 'Supplier_48': {'capacity': 3815, 'location': 'Region_8'}, 'Supplier_49': {'capacity': 7909, 'location': 'Region_9'}, 'Supplier_50': {'capacity': 6442, 'location': 'Region_0'}, 'Supplier_51': {'capacity': 2393, 'location': 'Region_1'}, 'Supplier_52': {'capacity': 5426, 'location': 'Region_2'}, 'Supplier_53': {'capacity': 7435, 'location': 'Region_3'}, 'Supplier_54': {'capacity': 3105, 'location': 'Region_4'}, 'Supplier_55': {'capacity': 9328, 'location': 'Region_5'}, 'Supplier_56': {'capacity': 2855, 'location': 'Region_6'}, 'Supplier_57': {'capacity': 3358, 'location': 'Region_7'}, 'Supplier_58': {'capacity': 3447, 'location': 'Region_8'}, 'Supplier_59': {'capacity': 6684, 'location': 'Region_9'}, 'Supplier_60': {'capacity': 2396, 'location': 'Region_0'}, 'Supplier_61': {'capacity': 6940, 'location': 'Region_1'}, 'Supplier_62': {'capacity': 5664, 'location': 'Region_2'}, 'Supplier_63': {'capacity': 3234, 'location': 'Region_3'}, 'Supplier_64': {'capacity': 8707, 'location': 'Region_4'}, 'Supplier_65': {'capacity': 9921, 'location': 'Region_5'}, 'Supplier_66': {'capacity': 1908, 'location': 'Region_6'}, 'Supplier_67': {'capacity': 8073, 'location': 'Region_7'}, 'Supplier_68': {'capacity': 7183, 'location': 'Region_8'}, 'Supplier_69': {'capacity': 1610, 'location': 'Region_9'}, 'Supplier_70': {'capacity': 9711, 'location': 'Region_0'}, 'Supplier_71': {'capacity': 3760, 'location': 'Region_1'}, 'Supplier_72': {'capacity': 7060, 'location': 'Region_2'}, 'Supplier_73': {'capacity': 9348, 'location': 'Region_3'}, 'Supplier_74': {'capacity': 3234, 'location': 'Region_4'}, 'Supplier_75': {'capacity': 5626, 'location': 'Region_5'}, 'Supplier_76': {'capacity': 5350, 'location': 'Region_6'}, 'Supplier_77': {'capacity': 8240, 'location': 'Region_7'}, 'Supplier_78': {'capacity': 4416, 'location': 'Region_8'}, 'Supplier_79': {'capacity': 5595, 'location': 'Region_9'}, 'Supplier_80': {'capacity': 3798, 'location': 'Region_0'}, 'Supplier_81': {'capacity': 6899, 'location': 'Region_1'}, 'Supplier_82': {'capacity': 7605, 'location': 'Region_2'}, 'Supplier_83': {'capacity': 8825, 'location': 'Region_3'}, 'Supplier_84': {'capacity': 3684, 'location': 'Region_4'}, 'Supplier_85': {'capacity': 9660, 'location': 'Region_5'}, 'Supplier_86': {'capacity': 7394, 'location': 'Region_6'}, 'Supplier_87': {'capacity': 8438, 'location': 'Region_7'}, 'Supplier_88': {'capacity': 3855, 'location': 'Region_8'}, 'Supplier_89': {'capacity': 2786, 'location': 'Region_9'}, 'Supplier_90': {'capacity': 8895, 'location': 'Region_0'}, 'Supplier_91': {'capacity': 5876, 'location': 'Region_1'}, 'Supplier_92': {'capacity': 1950, 'location': 'Region_2'}, 'Supplier_93': {'capacity': 9130, 'location': 'Region_3'}, 'Supplier_94': {'capacity': 9379, 'location': 'Region_4'}, 'Supplier_95': {'capacity': 7982, 'location': 'Region_5'}, 'Supplier_96': {'capacity': 3960, 'location': 'Region_6'}, 'Supplier_97': {'capacity': 9241, 'location': 'Region_7'}, 'Supplier_98': {'capacity': 1948, 'location': 'Region_8'}, 'Supplier_99': {'capacity': 2641, 'location': 'Region_9'}, 'Supplier_100': {'capacity': 1892, 'location': 'Region_0'}, 'Supplier_101': {'capacity': 3746, 'location': 'Region_1'}, 'Supplier_102': {'capacity': 5932, 'location': 'Region_2'}, 'Supplier_103': {'capacity': 5428, 'location': 'Region_3'}, 'Supplier_104': {'capacity': 8615, 'location': 'Region_4'}, 'Supplier_105': {'capacity': 1067, 'location': 'Region_5'}, 'Supplier_106': {'capacity': 2878, 'location': 'Region_6'}, 'Supplier_107': {'capacity': 6588, 'location': 'Region_7'}, 'Supplier_108': {'capacity': 8984, 'location': 'Region_8'}, 'Supplier_109': {'capacity': 3765, 'location': 'Region_9'}, 'Supplier_110': {'capacity': 6251, 'location': 'Region_0'}, 'Supplier_111': {'capacity': 3011, 'location': 'Region_1'}, 'Supplier_112': {'capacity': 1097, 'location': 'Region_2'}, 'Supplier_113': {'capacity': 2795, 'location': 'Region_3'}, 'Supplier_114': {'capacity': 2738, 'location': 'Region_4'}, 'Supplier_115': {'capacity': 9129, 'location': 'Region_5'}, 'Supplier_116': {'capacity': 6219, 'location': 'Region_6'}, 'Supplier_117': {'capacity': 2800, 'location': 'Region_7'}, 'Supplier_118': {'capacity': 9217, 'location': 'Region_8'}, 'Supplier_119': {'capacity': 6469, 'location': 'Region_9'}, 'Supplier_120': {'capacity': 2547, 'location': 'Region_0'}, 'Supplier_121': {'capacity': 5688, 'location': 'Region_1'}, 'Supplier_122': {'capacity': 2095, 'location': 'Region_2'}, 'Supplier_123': {'capacity': 7113, 'location': 'Region_3'}, 'Supplier_124': {'capacity': 5125, 'location': 'Region_4'}, 'Supplier_125': {'capacity': 9815, 'location': 'Region_5'}, 'Supplier_126': {'capacity': 8555, 'location': 'Region_6'}, 'Supplier_127': {'capacity': 6792, 'location': 'Region_7'}, 'Supplier_128': {'capacity': 4976, 'location': 'Region_8'}, 'Supplier_129': {'capacity': 5136, 'location': 'Region_9'}, 'Supplier_130': {'capacity': 8915, 'location': 'Region_0'}, 'Supplier_131': {'capacity': 4724, 'location': 'Region_1'}, 'Supplier_132': {'capacity': 7015, 'location': 'Region_2'}, 'Supplier_133': {'capacity': 1496, 'location': 'Region_3'}, 'Supplier_134': {'capacity': 1361, 'location': 'Region_4'}, 'Supplier_135': {'capacity': 3056, 'location': 'Region_5'}, 'Supplier_136': {'capacity': 2868, 'location': 'Region_6'}, 'Supplier_137': {'capacity': 4107, 'location': 'Region_7'}, 'Supplier_138': {'capacity': 7607, 'location': 'Region_8'}, 'Supplier_139': {'capacity': 7536, 'location': 'Region_9'}, 'Supplier_140': {'capacity': 9651, 'location': 'Region_0'}, 'Supplier_141': {'capacity': 6267, 'location': 'Region_1'}, 'Supplier_142': {'capacity': 3313, 'location': 'Region_2'}, 'Supplier_143': {'capacity': 7930, 'location': 'Region_3'}, 'Supplier_144': {'capacity': 5624, 'location': 'Region_4'}, 'Supplier_145': {'capacity': 8508, 'location': 'Region_5'}, 'Supplier_146': {'capacity': 3689, 'location': 'Region_6'}, 'Supplier_147': {'capacity': 2646, 'location': 'Region_7'}, 'Supplier_148': {'capacity': 2220, 'location': 'Region_8'}, 'Supplier_149': {'capacity': 4169, 'location': 'Region_9'}}, distributors={'Distributor_0': {'throughput': 43385, 'coverage': 'Zone_0'}, 'Distributor_1': {'throughput': 30762, 'coverage': 'Zone_1'}, 'Distributor_2': {'throughput': 30446, 'coverage': 'Zone_2'}, 'Distributor_3': {'throughput': 20850, 'coverage': 'Zone_3'}, 'Distributor_4': {'throughput': 10245, 'coverage': 'Zone_4'}, 'Distributor_5': {'throughput': 31270, 'coverage': 'Zone_0'}, 'Distributor_6': {'throughput': 31832, 'coverage': 'Zone_1'}, 'Distributor_7': {'throughput': 46778, 'coverage': 'Zone_2'}, 'Distributor_8': {'throughput': 44640, 'coverage': 'Zone_3'}, 'Distributor_9': {'throughput': 34533, 'coverage': 'Zone_4'}, 'Distributor_10': {'throughput': 18095, 'coverage': 'Zone_0'}, 'Distributor_11': {'throughput': 37596, 'coverage': 'Zone_1'}, 'Distributor_12': {'throughput': 27645, 'coverage': 'Zone_2'}, 'Distributor_13': {'throughput': 28443, 'coverage': 'Zone_3'}, 'Distributor_14': {'throughput': 21568, 'coverage': 'Zone_4'}, 'Distributor_15': {'throughput': 45200, 'coverage': 'Zone_0'}, 'Distributor_16': {'throughput': 32073, 'coverage': 'Zone_1'}, 'Distributor_17': {'throughput': 15684, 'coverage': 'Zone_2'}, 'Distributor_18': {'throughput': 15491, 'coverage': 'Zone_3'}, 'Distributor_19': {'throughput': 45868, 'coverage': 'Zone_4'}, 'Distributor_20': {'throughput': 41584, 'coverage': 'Zone_0'}, 'Distributor_21': {'throughput': 35323, 'coverage': 'Zone_1'}, 'Distributor_22': {'throughput': 5248, 'coverage': 'Zone_2'}, 'Distributor_23': {'throughput': 44966, 'coverage': 'Zone_3'}, 'Distributor_24': {'throughput': 21773, 'coverage': 'Zone_4'}, 'Distributor_25': {'throughput': 10323, 'coverage': 'Zone_0'}, 'Distributor_26': {'throughput': 24570, 'coverage': 'Zone_1'}, 'Distributor_27': {'throughput': 5341, 'coverage': 'Zone_2'}, 'Distributor_28': {'throughput': 8403, 'coverage': 'Zone_3'}, 'Distributor_29': {'throughput': 42222, 'coverage': 'Zone_4'}, 'Distributor_30': {'throughput': 13446, 'coverage': 'Zone_0'}, 'Distributor_31': {'throughput': 32624, 'coverage': 'Zone_1'}, 'Distributor_32': {'throughput': 35976, 'coverage': 'Zone_2'}, 'Distributor_33': {'throughput': 45241, 'coverage': 'Zone_3'}, 'Distributor_34': {'throughput': 17377, 'coverage': 'Zone_4'}, 'Distributor_35': {'throughput': 45011, 'coverage': 'Zone_0'}, 'Distributor_36': {'throughput': 39770, 'coverage': 'Zone_1'}, 'Distributor_37': {'throughput': 49251, 'coverage': 'Zone_2'}, 'Distributor_38': {'throughput': 20061, 'coverage': 'Zone_3'}, 'Distributor_39': {'throughput': 16938, 'coverage': 'Zone_4'}, 'Distributor_40': {'throughput': 10499, 'coverage': 'Zone_0'}, 'Distributor_41': {'throughput': 36282, 'coverage': 'Zone_1'}, 'Distributor_42': {'throughput': 36821, 'coverage': 'Zone_2'}, 'Distributor_43': {'throughput': 35076, 'coverage': 'Zone_3'}, 'Distributor_44': {'throughput': 7680, 'coverage': 'Zone_4'}, 'Distributor_45': {'throughput': 48925, 'coverage': 'Zone_0'}, 'Distributor_46': {'throughput': 41852, 'coverage': 'Zone_1'}, 'Distributor_47': {'throughput': 46225, 'coverage': 'Zone_2'}, 'Distributor_48': {'throughput': 25531, 'coverage': 'Zone_3'}, 'Distributor_49': {'throughput': 24966, 'coverage': 'Zone_4'}}, retailers={'Retailer_0': {'demand': 798, 'market': 'Market_0'}, 'Retailer_1': {'demand': 3235, 'market': 'Market_1'}, 'Retailer_2': {'demand': 296, 'market': 'Market_2'}, 'Retailer_3': {'demand': 3575, 'market': 'Market_3'}, 'Retailer_4': {'demand': 4503, 'market': 'Market_4'}, 'Retailer_5': {'demand': 1566, 'market': 'Market_5'}, 'Retailer_6': {'demand': 105, 'market': 'Market_6'}, 'Retailer_7': {'demand': 1733, 'market': 'Market_7'}, 'Retailer_8': {'demand': 873, 'market': 'Market_8'}, 'Retailer_9': {'demand': 2145, 'market': 'Market_9'}, 'Retailer_10': {'demand': 850, 'market': 'Market_10'}, 'Retailer_11': {'demand': 1691, 'market': 'Market_11'}, 'Retailer_12': {'demand': 3016, 'market': 'Market_12'}, 'Retailer_13': {'demand': 4891, 'market': 'Market_13'}, 'Retailer_14': {'demand': 114, 'market': 'Market_14'}, 'Retailer_15': {'demand': 365, 'market': 'Market_15'}, 'Retailer_16': {'demand': 1648, 'market': 'Market_16'}, 'Retailer_17': {'demand': 4100, 'market': 'Market_17'}, 'Retailer_18': {'demand': 4689, 'market': 'Market_18'}, 'Retailer_19': {'demand': 634, 'market': 'Market_19'}, 'Retailer_20': {'demand': 438, 'market': 'Market_0'}, 'Retailer_21': {'demand': 4941, 'market': 'Market_1'}, 'Retailer_22': {'demand': 587, 'market': 'Market_2'}, 'Retailer_23': {'demand': 225, 'market': 'Market_3'}, 'Retailer_24': {'demand': 4201, 'market': 'Market_4'}, 'Retailer_25': {'demand': 1276, 'market': 'Market_5'}, 'Retailer_26': {'demand': 691, 'market': 'Market_6'}, 'Retailer_27': {'demand': 1368, 'market': 'Market_7'}, 'Retailer_28': {'demand': 4102, 'market': 'Market_8'}, 'Retailer_29': {'demand': 4501, 'market': 'Market_9'}, 'Retailer_30': {'demand': 987, 'market': 'Market_10'}, 'Retailer_31': {'demand': 3702, 'market': 'Market_11'}, 'Retailer_32': {'demand': 4790, 'market': 'Market_12'}, 'Retailer_33': {'demand': 286, 'market': 'Market_13'}, 'Retailer_34': {'demand': 2293, 'market': 'Market_14'}, 'Retailer_35': {'demand': 1179, 'market': 'Market_15'}, 'Retailer_36': {'demand': 2907, 'market': 'Market_16'}, 'Retailer_37': {'demand': 1645, 'market': 'Market_17'}, 'Retailer_38': {'demand': 3305, 'market': 'Market_18'}, 'Retailer_39': {'demand': 4652, 'market': 'Market_19'}, 'Retailer_40': {'demand': 109, 'market': 'Market_0'}, 'Retailer_41': {'demand': 1329, 'market': 'Market_1'}, 'Retailer_42': {'demand': 2746, 'market': 'Market_2'}, 'Retailer_43': {'demand': 1275, 'market': 'Market_3'}, 'Retailer_44': {'demand': 2056, 'market': 'Market_4'}, 'Retailer_45': {'demand': 3923, 'market': 'Market_5'}, 'Retailer_46': {'demand': 4607, 'market': 'Market_6'}, 'Retailer_47': {'demand': 511, 'market': 'Market_7'}, 'Retailer_48': {'demand': 232, 'market': 'Market_8'}, 'Retailer_49': {'demand': 3587, 'market': 'Market_9'}, 'Retailer_50': {'demand': 3298, 'market': 'Market_10'}, 'Retailer_51': {'demand': 1695, 'market': 'Market_11'}, 'Retailer_52': {'demand': 3059, 'market': 'Market_12'}, 'Retailer_53': {'demand': 280, 'market': 'Market_13'}, 'Retailer_54': {'demand': 1934, 'market': 'Market_14'}, 'Retailer_55': {'demand': 2141, 'market': 'Market_15'}, 'Retailer_56': {'demand': 2947, 'market': 'Market_16'}, 'Retailer_57': {'demand': 789, 'market': 'Market_17'}, 'Retailer_58': {'demand': 2090, 'market': 'Market_18'}, 'Retailer_59': {'demand': 2297, 'market': 'Market_19'}, 'Retailer_60': {'demand': 2491, 'market': 'Market_0'}, 'Retailer_61': {'demand': 4506, 'market': 'Market_1'}, 'Retailer_62': {'demand': 1338, 'market': 'Market_2'}, 'Retailer_63': {'demand': 4223, 'market': 'Market_3'}, 'Retailer_64': {'demand': 3744, 'market': 'Market_4'}, 'Retailer_65': {'demand': 543, 'market': 'Market_5'}, 'Retailer_66': {'demand': 1036, 'market': 'Market_6'}, 'Retailer_67': {'demand': 3893, 'market': 'Market_7'}, 'Retailer_68': {'demand': 3673, 'market': 'Market_8'}, 'Retailer_69': {'demand': 3279, 'market': 'Market_9'}, 'Retailer_70': {'demand': 1372, 'market': 'Market_10'}, 'Retailer_71': {'demand': 224, 'market': 'Market_11'}, 'Retailer_72': {'demand': 1931, 'market': 'Market_12'}, 'Retailer_73': {'demand': 4041, 'market': 'Market_13'}, 'Retailer_74': {'demand': 3490, 'market': 'Market_14'}, 'Retailer_75': {'demand': 3168, 'market': 'Market_15'}, 'Retailer_76': {'demand': 379, 'market': 'Market_16'}, 'Retailer_77': {'demand': 2810, 'market': 'Market_17'}, 'Retailer_78': {'demand': 3410, 'market': 'Market_18'}, 'Retailer_79': {'demand': 2076, 'market': 'Market_19'}, 'Retailer_80': {'demand': 1912, 'market': 'Market_0'}, 'Retailer_81': {'demand': 2412, 'market': 'Market_1'}, 'Retailer_82': {'demand': 674, 'market': 'Market_2'}, 'Retailer_83': {'demand': 2130, 'market': 'Market_3'}, 'Retailer_84': {'demand': 2306, 'market': 'Market_4'}, 'Retailer_85': {'demand': 3953, 'market': 'Market_5'}, 'Retailer_86': {'demand': 4688, 'market': 'Market_6'}, 'Retailer_87': {'demand': 589, 'market': 'Market_7'}, 'Retailer_88': {'demand': 3832, 'market': 'Market_8'}, 'Retailer_89': {'demand': 3487, 'market': 'Market_9'}, 'Retailer_90': {'demand': 4310, 'market': 'Market_10'}, 'Retailer_91': {'demand': 1264, 'market': 'Market_11'}, 'Retailer_92': {'demand': 343, 'market': 'Market_12'}, 'Retailer_93': {'demand': 4010, 'market': 'Market_13'}, 'Retailer_94': {'demand': 1761, 'market': 'Market_14'}, 'Retailer_95': {'demand': 3321, 'market': 'Market_15'}, 'Retailer_96': {'demand': 1213, 'market': 'Market_16'}, 'Retailer_97': {'demand': 1793, 'market': 'Market_17'}, 'Retailer_98': {'demand': 3468, 'market': 'Market_18'}, 'Retailer_99': {'demand': 379, 'market': 'Market_19'}, 'Retailer_100': {'demand': 3528, 'market': 'Market_0'}, 'Retailer_101': {'demand': 362, 'market': 'Market_1'}, 'Retailer_102': {'demand': 122, 'market': 'Market_2'}, 'Retailer_103': {'demand': 958, 'market': 'Market_3'}, 'Retailer_104': {'demand': 1745, 'market': 'Market_4'}, 'Retailer_105': {'demand': 4107, 'market': 'Market_5'}, 'Retailer_106': {'demand': 3935, 'market': 'Market_6'}, 'Retailer_107': {'demand': 173, 'market': 'Market_7'}, 'Retailer_108': {'demand': 2022, 'market': 'Market_8'}, 'Retailer_109': {'demand': 2037, 'market': 'Market_9'}, 'Retailer_110': {'demand': 1533, 'market': 'Market_10'}, 'Retailer_111': {'demand': 943, 'market': 'Market_11'}, 'Retailer_112': {'demand': 4102, 'market': 'Market_12'}, 'Retailer_113': {'demand': 874, 'market': 'Market_13'}, 'Retailer_114': {'demand': 2079, 'market': 'Market_14'}, 'Retailer_115': {'demand': 3427, 'market': 'Market_15'}, 'Retailer_116': {'demand': 3168, 'market': 'Market_16'}, 'Retailer_117': {'demand': 2469, 'market': 'Market_17'}, 'Retailer_118': {'demand': 2969, 'market': 'Market_18'}, 'Retailer_119': {'demand': 4602, 'market': 'Market_19'}, 'Retailer_120': {'demand': 4487, 'market': 'Market_0'}, 'Retailer_121': {'demand': 3603, 'market': 'Market_1'}, 'Retailer_122': {'demand': 3634, 'market': 'Market_2'}, 'Retailer_123': {'demand': 1331, 'market': 'Market_3'}, 'Retailer_124': {'demand': 3025, 'market': 'Market_4'}, 'Retailer_125': {'demand': 1098, 'market': 'Market_5'}, 'Retailer_126': {'demand': 1607, 'market': 'Market_6'}, 'Retailer_127': {'demand': 1333, 'market': 'Market_7'}, 'Retailer_128': {'demand': 3909, 'market': 'Market_8'}, 'Retailer_129': {'demand': 4283, 'market': 'Market_9'}, 'Retailer_130': {'demand': 4993, 'market': 'Market_10'}, 'Retailer_131': {'demand': 4215, 'market': 'Market_11'}, 'Retailer_132': {'demand': 2205, 'market': 'Market_12'}, 'Retailer_133': {'demand': 2075, 'market': 'Market_13'}, 'Retailer_134': {'demand': 4047, 'market': 'Market_14'}, 'Retailer_135': {'demand': 3907, 'market': 'Market_15'}, 'Retailer_136': {'demand': 284, 'market': 'Market_16'}, 'Retailer_137': {'demand': 183, 'market': 'Market_17'}, 'Retailer_138': {'demand': 1888, 'market': 'Market_18'}, 'Retailer_139': {'demand': 3385, 'market': 'Market_19'}, 'Retailer_140': {'demand': 4267, 'market': 'Market_0'}, 'Retailer_141': {'demand': 425, 'market': 'Market_1'}, 'Retailer_142': {'demand': 3740, 'market': 'Market_2'}, 'Retailer_143': {'demand': 791, 'market': 'Market_3'}, 'Retailer_144': {'demand': 3892, 'market': 'Market_4'}, 'Retailer_145': {'demand': 611, 'market': 'Market_5'}, 'Retailer_146': {'demand': 1007, 'market': 'Market_6'}, 'Retailer_147': {'demand': 3710, 'market': 'Market_7'}, 'Retailer_148': {'demand': 2415, 'market': 'Market_8'}, 'Retailer_149': {'demand': 2299, 'market': 'Market_9'}, 'Retailer_150': {'demand': 3851, 'market': 'Market_10'}, 'Retailer_151': {'demand': 440, 'market': 'Market_11'}, 'Retailer_152': {'demand': 3725, 'market': 'Market_12'}, 'Retailer_153': {'demand': 1504, 'market': 'Market_13'}, 'Retailer_154': {'demand': 2604, 'market': 'Market_14'}, 'Retailer_155': {'demand': 119, 'market': 'Market_15'}, 'Retailer_156': {'demand': 3878, 'market': 'Market_16'}, 'Retailer_157': {'demand': 2492, 'market': 'Market_17'}, 'Retailer_158': {'demand': 3478, 'market': 'Market_18'}, 'Retailer_159': {'demand': 4286, 'market': 'Market_19'}, 'Retailer_160': {'demand': 3862, 'market': 'Market_0'}, 'Retailer_161': {'demand': 4336, 'market': 'Market_1'}, 'Retailer_162': {'demand': 3735, 'market': 'Market_2'}, 'Retailer_163': {'demand': 4995, 'market': 'Market_3'}, 'Retailer_164': {'demand': 3879, 'market': 'Market_4'}, 'Retailer_165': {'demand': 3466, 'market': 'Market_5'}, 'Retailer_166': {'demand': 1523, 'market': 'Market_6'}, 'Retailer_167': {'demand': 999, 'market': 'Market_7'}, 'Retailer_168': {'demand': 3272, 'market': 'Market_8'}, 'Retailer_169': {'demand': 1850, 'market': 'Market_9'}, 'Retailer_170': {'demand': 1335, 'market': 'Market_10'}, 'Retailer_171': {'demand': 4666, 'market': 'Market_11'}, 'Retailer_172': {'demand': 3013, 'market': 'Market_12'}, 'Retailer_173': {'demand': 233, 'market': 'Market_13'}, 'Retailer_174': {'demand': 3216, 'market': 'Market_14'}, 'Retailer_175': {'demand': 834, 'market': 'Market_15'}, 'Retailer_176': {'demand': 3254, 'market': 'Market_16'}, 'Retailer_177': {'demand': 1645, 'market': 'Market_17'}, 'Retailer_178': {'demand': 3339, 'market': 'Market_18'}, 'Retailer_179': {'demand': 4363, 'market': 'Market_19'}, 'Retailer_180': {'demand': 543, 'market': 'Market_0'}, 'Retailer_181': {'demand': 1573, 'market': 'Market_1'}, 'Retailer_182': {'demand': 3574, 'market': 'Market_2'}, 'Retailer_183': {'demand': 2224, 'market': 'Market_3'}, 'Retailer_184': {'demand': 2905, 'market': 'Market_4'}, 'Retailer_185': {'demand': 3454, 'market': 'Market_5'}, 'Retailer_186': {'demand': 3680, 'market': 'Market_6'}, 'Retailer_187': {'demand': 742, 'market': 'Market_7'}, 'Retailer_188': {'demand': 3188, 'market': 'Market_8'}, 'Retailer_189': {'demand': 4009, 'market': 'Market_9'}, 'Retailer_190': {'demand': 638, 'market': 'Market_10'}, 'Retailer_191': {'demand': 736, 'market': 'Market_11'}, 'Retailer_192': {'demand': 3808, 'market': 'Market_12'}, 'Retailer_193': {'demand': 1992, 'market': 'Market_13'}, 'Retailer_194': {'demand': 4163, 'market': 'Market_14'}, 'Retailer_195': {'demand': 4308, 'market': 'Market_15'}, 'Retailer_196': {'demand': 3795, 'market': 'Market_16'}, 'Retailer_197': {'demand': 1139, 'market': 'Market_17'}, 'Retailer_198': {'demand': 2340, 'market': 'Market_18'}, 'Retailer_199': {'demand': 2986, 'market': 'Market_19'}, 'Retailer_200': {'demand': 3816, 'market': 'Market_0'}, 'Retailer_201': {'demand': 1636, 'market': 'Market_1'}, 'Retailer_202': {'demand': 4874, 'market': 'Market_2'}, 'Retailer_203': {'demand': 2011, 'market': 'Market_3'}, 'Retailer_204': {'demand': 1096, 'market': 'Market_4'}, 'Retailer_205': {'demand': 1917, 'market': 'Market_5'}, 'Retailer_206': {'demand': 505, 'market': 'Market_6'}, 'Retailer_207': {'demand': 1970, 'market': 'Market_7'}, 'Retailer_208': {'demand': 1803, 'market': 'Market_8'}, 'Retailer_209': {'demand': 4572, 'market': 'Market_9'}, 'Retailer_210': {'demand': 3650, 'market': 'Market_10'}, 'Retailer_211': {'demand': 302, 'market': 'Market_11'}, 'Retailer_212': {'demand': 1227, 'market': 'Market_12'}, 'Retailer_213': {'demand': 2644, 'market': 'Market_13'}, 'Retailer_214': {'demand': 170, 'market': 'Market_14'}, 'Retailer_215': {'demand': 4311, 'market': 'Market_15'}, 'Retailer_216': {'demand': 3142, 'market': 'Market_16'}, 'Retailer_217': {'demand': 891, 'market': 'Market_17'}, 'Retailer_218': {'demand': 1700, 'market': 'Market_18'}, 'Retailer_219': {'demand': 1843, 'market': 'Market_19'}, 'Retailer_220': {'demand': 174, 'market': 'Market_0'}, 'Retailer_221': {'demand': 3220, 'market': 'Market_1'}, 'Retailer_222': {'demand': 3725, 'market': 'Market_2'}, 'Retailer_223': {'demand': 1903, 'market': 'Market_3'}, 'Retailer_224': {'demand': 814, 'market': 'Market_4'}, 'Retailer_225': {'demand': 4256, 'market': 'Market_5'}, 'Retailer_226': {'demand': 167, 'market': 'Market_6'}, 'Retailer_227': {'demand': 140, 'market': 'Market_7'}, 'Retailer_228': {'demand': 3451, 'market': 'Market_8'}, 'Retailer_229': {'demand': 183, 'market': 'Market_9'}, 'Retailer_230': {'demand': 2932, 'market': 'Market_10'}, 'Retailer_231': {'demand': 3206, 'market': 'Market_11'}, 'Retailer_232': {'demand': 4338, 'market': 'Market_12'}, 'Retailer_233': {'demand': 626, 'market': 'Market_13'}, 'Retailer_234': {'demand': 2968, 'market': 'Market_14'}, 'Retailer_235': {'demand': 2596, 'market': 'Market_15'}, 'Retailer_236': {'demand': 3850, 'market': 'Market_16'}, 'Retailer_237': {'demand': 268, 'market': 'Market_17'}, 'Retailer_238': {'demand': 3482, 'market': 'Market_18'}, 'Retailer_239': {'demand': 383, 'market': 'Market_19'}, 'Retailer_240': {'demand': 2518, 'market': 'Market_0'}, 'Retailer_241': {'demand': 921, 'market': 'Market_1'}, 'Retailer_242': {'demand': 1430, 'market': 'Market_2'}, 'Retailer_243': {'demand': 1023, 'market': 'Market_3'}, 'Retailer_244': {'demand': 856, 'market': 'Market_4'}, 'Retailer_245': {'demand': 4406, 'market': 'Market_5'}, 'Retailer_246': {'demand': 4747, 'market': 'Market_6'}, 'Retailer_247': {'demand': 1231, 'market': 'Market_7'}, 'Retailer_248': {'demand': 3731, 'market': 'Market_8'}, 'Retailer_249': {'demand': 4331, 'market': 'Market_9'}, 'Retailer_250': {'demand': 4801, 'market': 'Market_10'}, 'Retailer_251': {'demand': 4511, 'market': 'Market_11'}, 'Retailer_252': {'demand': 3805, 'market': 'Market_12'}, 'Retailer_253': {'demand': 133, 'market': 'Market_13'}, 'Retailer_254': {'demand': 3002, 'market': 'Market_14'}, 'Retailer_255': {'demand': 4015, 'market': 'Market_15'}, 'Retailer_256': {'demand': 1063, 'market': 'Market_16'}, 'Retailer_257': {'demand': 1199, 'market': 'Market_17'}, 'Retailer_258': {'demand': 2859, 'market': 'Market_18'}, 'Retailer_259': {'demand': 3027, 'market': 'Market_19'}, 'Retailer_260': {'demand': 2855, 'market': 'Market_0'}, 'Retailer_261': {'demand': 546, 'market': 'Market_1'}, 'Retailer_262': {'demand': 3784, 'market': 'Market_2'}, 'Retailer_263': {'demand': 4502, 'market': 'Market_3'}, 'Retailer_264': {'demand': 2123, 'market': 'Market_4'}, 'Retailer_265': {'demand': 2408, 'market': 'Market_5'}, 'Retailer_266': {'demand': 227, 'market': 'Market_6'}, 'Retailer_267': {'demand': 2712, 'market': 'Market_7'}, 'Retailer_268': {'demand': 4335, 'market': 'Market_8'}, 'Retailer_269': {'demand': 3678, 'market': 'Market_9'}, 'Retailer_270': {'demand': 983, 'market': 'Market_10'}, 'Retailer_271': {'demand': 4222, 'market': 'Market_11'}, 'Retailer_272': {'demand': 4686, 'market': 'Market_12'}, 'Retailer_273': {'demand': 538, 'market': 'Market_13'}, 'Retailer_274': {'demand': 1856, 'market': 'Market_14'}, 'Retailer_275': {'demand': 4864, 'market': 'Market_15'}, 'Retailer_276': {'demand': 2708, 'market': 'Market_16'}, 'Retailer_277': {'demand': 4583, 'market': 'Market_17'}, 'Retailer_278': {'demand': 3613, 'market': 'Market_18'}, 'Retailer_279': {'demand': 1739, 'market': 'Market_19'}, 'Retailer_280': {'demand': 2973, 'market': 'Market_0'}, 'Retailer_281': {'demand': 589, 'market': 'Market_1'}, 'Retailer_282': {'demand': 1906, 'market': 'Market_2'}, 'Retailer_283': {'demand': 2485, 'market': 'Market_3'}, 'Retailer_284': {'demand': 2835, 'market': 'Market_4'}, 'Retailer_285': {'demand': 2893, 'market': 'Market_5'}, 'Retailer_286': {'demand': 4771, 'market': 'Market_6'}, 'Retailer_287': {'demand': 2839, 'market': 'Market_7'}, 'Retailer_288': {'demand': 1291, 'market': 'Market_8'}, 'Retailer_289': {'demand': 3680, 'market': 'Market_9'}, 'Retailer_290': {'demand': 1758, 'market': 'Market_10'}, 'Retailer_291': {'demand': 567, 'market': 'Market_11'}, 'Retailer_292': {'demand': 2140, 'market': 'Market_12'}, 'Retailer_293': {'demand': 2920, 'market': 'Market_13'}, 'Retailer_294': {'demand': 1776, 'market': 'Market_14'}, 'Retailer_295': {'demand': 885, 'market': 'Market_15'}, 'Retailer_296': {'demand': 2952, 'market': 'Market_16'}, 'Retailer_297': {'demand': 385, 'market': 'Market_17'}, 'Retailer_298': {'demand': 1102, 'market': 'Market_18'}, 'Retailer_299': {'demand': 3043, 'market': 'Market_19'}, 'Retailer_300': {'demand': 3082, 'market': 'Market_0'}, 'Retailer_301': {'demand': 905, 'market': 'Market_1'}, 'Retailer_302': {'demand': 3528, 'market': 'Market_2'}, 'Retailer_303': {'demand': 924, 'market': 'Market_3'}, 'Retailer_304': {'demand': 764, 'market': 'Market_4'}, 'Retailer_305': {'demand': 1767, 'market': 'Market_5'}, 'Retailer_306': {'demand': 1551, 'market': 'Market_6'}, 'Retailer_307': {'demand': 3617, 'market': 'Market_7'}, 'Retailer_308': {'demand': 4210, 'market': 'Market_8'}, 'Retailer_309': {'demand': 1953, 'market': 'Market_9'}, 'Retailer_310': {'demand': 556, 'market': 'Market_10'}, 'Retailer_311': {'demand': 1373, 'market': 'Market_11'}, 'Retailer_312': {'demand': 212, 'market': 'Market_12'}, 'Retailer_313': {'demand': 4245, 'market': 'Market_13'}, 'Retailer_314': {'demand': 2928, 'market': 'Market_14'}, 'Retailer_315': {'demand': 1544, 'market': 'Market_15'}, 'Retailer_316': {'demand': 2439, 'market': 'Market_16'}, 'Retailer_317': {'demand': 4986, 'market': 'Market_17'}, 'Retailer_318': {'demand': 4347, 'market': 'Market_18'}, 'Retailer_319': {'demand': 1727, 'market': 'Market_19'}, 'Retailer_320': {'demand': 2904, 'market': 'Market_0'}, 'Retailer_321': {'demand': 4609, 'market': 'Market_1'}, 'Retailer_322': {'demand': 2245, 'market': 'Market_2'}, 'Retailer_323': {'demand': 3238, 'market': 'Market_3'}, 'Retailer_324': {'demand': 1104, 'market': 'Market_4'}, 'Retailer_325': {'demand': 3699, 'market': 'Market_5'}, 'Retailer_326': {'demand': 619, 'market': 'Market_6'}, 'Retailer_327': {'demand': 4957, 'market': 'Market_7'}, 'Retailer_328': {'demand': 4733, 'market': 'Market_8'}, 'Retailer_329': {'demand': 4927, 'market': 'Market_9'}, 'Retailer_330': {'demand': 1826, 'market': 'Market_10'}, 'Retailer_331': {'demand': 2773, 'market': 'Market_11'}, 'Retailer_332': {'demand': 2973, 'market': 'Market_12'}, 'Retailer_333': {'demand': 815, 'market': 'Market_13'}, 'Retailer_334': {'demand': 4773, 'market': 'Market_14'}, 'Retailer_335': {'demand': 3451, 'market': 'Market_15'}, 'Retailer_336': {'demand': 3520, 'market': 'Market_16'}, 'Retailer_337': {'demand': 1080, 'market': 'Market_17'}, 'Retailer_338': {'demand': 1360, 'market': 'Market_18'}, 'Retailer_339': {'demand': 4041, 'market': 'Market_19'}, 'Retailer_340': {'demand': 4602, 'market': 'Market_0'}, 'Retailer_341': {'demand': 2370, 'market': 'Market_1'}, 'Retailer_342': {'demand': 4444, 'market': 'Market_2'}, 'Retailer_343': {'demand': 2990, 'market': 'Market_3'}, 'Retailer_344': {'demand': 384, 'market': 'Market_4'}, 'Retailer_345': {'demand': 861, 'market': 'Market_5'}, 'Retailer_346': {'demand': 809, 'market': 'Market_6'}, 'Retailer_347': {'demand': 1939, 'market': 'Market_7'}, 'Retailer_348': {'demand': 2778, 'market': 'Market_8'}, 'Retailer_349': {'demand': 4916, 'market': 'Market_9'}, 'Retailer_350': {'demand': 3954, 'market': 'Market_10'}, 'Retailer_351': {'demand': 1266, 'market': 'Market_11'}, 'Retailer_352': {'demand': 1818, 'market': 'Market_12'}, 'Retailer_353': {'demand': 4015, 'market': 'Market_13'}, 'Retailer_354': {'demand': 578, 'market': 'Market_14'}, 'Retailer_355': {'demand': 2406, 'market': 'Market_15'}, 'Retailer_356': {'demand': 1911, 'market': 'Market_16'}, 'Retailer_357': {'demand': 3182, 'market': 'Market_17'}, 'Retailer_358': {'demand': 942, 'market': 'Market_18'}, 'Retailer_359': {'demand': 1773, 'market': 'Market_19'}, 'Retailer_360': {'demand': 724, 'market': 'Market_0'}, 'Retailer_361': {'demand': 3036, 'market': 'Market_1'}, 'Retailer_362': {'demand': 3084, 'market': 'Market_2'}, 'Retailer_363': {'demand': 1050, 'market': 'Market_3'}, 'Retailer_364': {'demand': 3599, 'market': 'Market_4'}, 'Retailer_365': {'demand': 594, 'market': 'Market_5'}, 'Retailer_366': {'demand': 3509, 'market': 'Market_6'}, 'Retailer_367': {'demand': 2274, 'market': 'Market_7'}, 'Retailer_368': {'demand': 3236, 'market': 'Market_8'}, 'Retailer_369': {'demand': 2266, 'market': 'Market_9'}, 'Retailer_370': {'demand': 780, 'market': 'Market_10'}, 'Retailer_371': {'demand': 687, 'market': 'Market_11'}, 'Retailer_372': {'demand': 3953, 'market': 'Market_12'}, 'Retailer_373': {'demand': 1783, 'market': 'Market_13'}, 'Retailer_374': {'demand': 2994, 'market': 'Market_14'}, 'Retailer_375': {'demand': 259, 'market': 'Market_15'}, 'Retailer_376': {'demand': 680, 'market': 'Market_16'}, 'Retailer_377': {'demand': 2567, 'market': 'Market_17'}, 'Retailer_378': {'demand': 1203, 'market': 'Market_18'}, 'Retailer_379': {'demand': 3547, 'market': 'Market_19'}, 'Retailer_380': {'demand': 2429, 'market': 'Market_0'}, 'Retailer_381': {'demand': 4862, 'market': 'Market_1'}, 'Retailer_382': {'demand': 2860, 'market': 'Market_2'}, 'Retailer_383': {'demand': 4506, 'market': 'Market_3'}, 'Retailer_384': {'demand': 204, 'market': 'Market_4'}, 'Retailer_385': {'demand': 1799, 'market': 'Market_5'}, 'Retailer_386': {'demand': 2362, 'market': 'Market_6'}, 'Retailer_387': {'demand': 2003, 'market': 'Market_7'}, 'Retailer_388': {'demand': 2369, 'market': 'Market_8'}, 'Retailer_389': {'demand': 981, 'market': 'Market_9'}, 'Retailer_390': {'demand': 2963, 'market': 'Market_10'}, 'Retailer_391': {'demand': 3325, 'market': 'Market_11'}, 'Retailer_392': {'demand': 1753, 'market': 'Market_12'}, 'Retailer_393': {'demand': 4097, 'market': 'Market_13'}, 'Retailer_394': {'demand': 4821, 'market': 'Market_14'}, 'Retailer_395': {'demand': 274, 'market': 'Market_15'}, 'Retailer_396': {'demand': 4970, 'market': 'Market_16'}, 'Retailer_397': {'demand': 1989, 'market': 'Market_17'}, 'Retailer_398': {'demand': 1579, 'market': 'Market_18'}, 'Retailer_399': {'demand': 2288, 'market': 'Market_19'}, 'Retailer_400': {'demand': 1241, 'market': 'Market_0'}, 'Retailer_401': {'demand': 3237, 'market': 'Market_1'}, 'Retailer_402': {'demand': 2293, 'market': 'Market_2'}, 'Retailer_403': {'demand': 3139, 'market': 'Market_3'}, 'Retailer_404': {'demand': 1730, 'market': 'Market_4'}, 'Retailer_405': {'demand': 4108, 'market': 'Market_5'}, 'Retailer_406': {'demand': 4657, 'market': 'Market_6'}, 'Retailer_407': {'demand': 1349, 'market': 'Market_7'}, 'Retailer_408': {'demand': 2464, 'market': 'Market_8'}, 'Retailer_409': {'demand': 4266, 'market': 'Market_9'}, 'Retailer_410': {'demand': 4565, 'market': 'Market_10'}, 'Retailer_411': {'demand': 4983, 'market': 'Market_11'}, 'Retailer_412': {'demand': 1330, 'market': 'Market_12'}, 'Retailer_413': {'demand': 2749, 'market': 'Market_13'}, 'Retailer_414': {'demand': 1506, 'market': 'Market_14'}, 'Retailer_415': {'demand': 1188, 'market': 'Market_15'}, 'Retailer_416': {'demand': 2552, 'market': 'Market_16'}, 'Retailer_417': {'demand': 4583, 'market': 'Market_17'}, 'Retailer_418': {'demand': 1706, 'market': 'Market_18'}, 'Retailer_419': {'demand': 2085, 'market': 'Market_19'}, 'Retailer_420': {'demand': 4412, 'market': 'Market_0'}, 'Retailer_421': {'demand': 3121, 'market': 'Market_1'}, 'Retailer_422': {'demand': 1652, 'market': 'Market_2'}, 'Retailer_423': {'demand': 1887, 'market': 'Market_3'}, 'Retailer_424': {'demand': 3799, 'market': 'Market_4'}, 'Retailer_425': {'demand': 2466, 'market': 'Market_5'}, 'Retailer_426': {'demand': 434, 'market': 'Market_6'}, 'Retailer_427': {'demand': 2077, 'market': 'Market_7'}, 'Retailer_428': {'demand': 3185, 'market': 'Market_8'}, 'Retailer_429': {'demand': 4573, 'market': 'Market_9'}, 'Retailer_430': {'demand': 4400, 'market': 'Market_10'}, 'Retailer_431': {'demand': 4371, 'market': 'Market_11'}, 'Retailer_432': {'demand': 3195, 'market': 'Market_12'}, 'Retailer_433': {'demand': 3504, 'market': 'Market_13'}, 'Retailer_434': {'demand': 1436, 'market': 'Market_14'}, 'Retailer_435': {'demand': 3163, 'market': 'Market_15'}, 'Retailer_436': {'demand': 3026, 'market': 'Market_16'}, 'Retailer_437': {'demand': 4269, 'market': 'Market_17'}, 'Retailer_438': {'demand': 4476, 'market': 'Market_18'}, 'Retailer_439': {'demand': 2618, 'market': 'Market_19'}, 'Retailer_440': {'demand': 2831, 'market': 'Market_0'}, 'Retailer_441': {'demand': 4139, 'market': 'Market_1'}, 'Retailer_442': {'demand': 1926, 'market': 'Market_2'}, 'Retailer_443': {'demand': 1635, 'market': 'Market_3'}, 'Retailer_444': {'demand': 4382, 'market': 'Market_4'}, 'Retailer_445': {'demand': 2757, 'market': 'Market_5'}, 'Retailer_446': {'demand': 3613, 'market': 'Market_6'}, 'Retailer_447': {'demand': 1764, 'market': 'Market_7'}, 'Retailer_448': {'demand': 1901, 'market': 'Market_8'}, 'Retailer_449': {'demand': 1584, 'market': 'Market_9'}, 'Retailer_450': {'demand': 1548, 'market': 'Market_10'}, 'Retailer_451': {'demand': 1152, 'market': 'Market_11'}, 'Retailer_452': {'demand': 4200, 'market': 'Market_12'}, 'Retailer_453': {'demand': 145, 'market': 'Market_13'}, 'Retailer_454': {'demand': 2106, 'market': 'Market_14'}, 'Retailer_455': {'demand': 410, 'market': 'Market_15'}, 'Retailer_456': {'demand': 3686, 'market': 'Market_16'}, 'Retailer_457': {'demand': 1844, 'market': 'Market_17'}, 'Retailer_458': {'demand': 2835, 'market': 'Market_18'}, 'Retailer_459': {'demand': 2198, 'market': 'Market_19'}, 'Retailer_460': {'demand': 992, 'market': 'Market_0'}, 'Retailer_461': {'demand': 1249, 'market': 'Market_1'}, 'Retailer_462': {'demand': 437, 'market': 'Market_2'}, 'Retailer_463': {'demand': 383, 'market': 'Market_3'}, 'Retailer_464': {'demand': 1354, 'market': 'Market_4'}, 'Retailer_465': {'demand': 4332, 'market': 'Market_5'}, 'Retailer_466': {'demand': 465, 'market': 'Market_6'}, 'Retailer_467': {'demand': 1870, 'market': 'Market_7'}, 'Retailer_468': {'demand': 3394, 'market': 'Market_8'}, 'Retailer_469': {'demand': 1655, 'market': 'Market_9'}, 'Retailer_470': {'demand': 2545, 'market': 'Market_10'}, 'Retailer_471': {'demand': 4046, 'market': 'Market_11'}, 'Retailer_472': {'demand': 1048, 'market': 'Market_12'}, 'Retailer_473': {'demand': 2083, 'market': 'Market_13'}, 'Retailer_474': {'demand': 1592, 'market': 'Market_14'}, 'Retailer_475': {'demand': 1622, 'market': 'Market_15'}, 'Retailer_476': {'demand': 2159, 'market': 'Market_16'}, 'Retailer_477': {'demand': 819, 'market': 'Market_17'}, 'Retailer_478': {'demand': 2155, 'market': 'Market_18'}, 'Retailer_479': {'demand': 3758, 'market': 'Market_19'}, 'Retailer_480': {'demand': 1050, 'market': 'Market_0'}, 'Retailer_481': {'demand': 188, 'market': 'Market_1'}, 'Retailer_482': {'demand': 3050, 'market': 'Market_2'}, 'Retailer_483': {'demand': 3975, 'market': 'Market_3'}, 'Retailer_484': {'demand': 4150, 'market': 'Market_4'}, 'Retailer_485': {'demand': 3389, 'market': 'Market_5'}, 'Retailer_486': {'demand': 2636, 'market': 'Market_6'}, 'Retailer_487': {'demand': 1295, 'market': 'Market_7'}, 'Retailer_488': {'demand': 3328, 'market': 'Market_8'}, 'Retailer_489': {'demand': 1010, 'market': 'Market_9'}, 'Retailer_490': {'demand': 3640, 'market': 'Market_10'}, 'Retailer_491': {'demand': 4177, 'market': 'Market_11'}, 'Retailer_492': {'demand': 2859, 'market': 'Market_12'}, 'Retailer_493': {'demand': 2765, 'market': 'Market_13'}, 'Retailer_494': {'demand': 3134, 'market': 'Market_14'}, 'Retailer_495': {'demand': 2576, 'market': 'Market_15'}, 'Retailer_496': {'demand': 1559, 'market': 'Market_16'}, 'Retailer_497': {'demand': 1032, 'market': 'Market_17'}, 'Retailer_498': {'demand': 2395, 'market': 'Market_18'}, 'Retailer_499': {'demand': 2624, 'market': 'Market_19'}}, optimization_algorithm='Ultra_Civilization_Fusion_Logistics', quantum_advantage=9568.1, total_cost_reduction=0.45, delivery_time_improvement=0.6, network_efficiency=0.7, sustainability_score=0.8827240000000001, civilization_strategy='Norse, Aztec, Egyptian, Celtic, Persian, Babylonian')",
+    "multinational_network": "QuantumSupplyChain(network_name='Global_Multinational_Network', suppliers={'Supplier_0': {'capacity': 6093, 'location': 'Region_0'}, 'Supplier_1': {'capacity': 9277, 'location': 'Region_1'}, 'Supplier_2': {'capacity': 3968, 'location': 'Region_2'}, 'Supplier_3': {'capacity': 2917, 'location': 'Region_3'}, 'Supplier_4': {'capacity': 5093, 'location': 'Region_4'}, 'Supplier_5': {'capacity': 6248, 'location': 'Region_5'}, 'Supplier_6': {'capacity': 2645, 'location': 'Region_6'}, 'Supplier_7': {'capacity': 7352, 'location': 'Region_7'}, 'Supplier_8': {'capacity': 7617, 'location': 'Region_8'}, 'Supplier_9': {'capacity': 7069, 'location': 'Region_9'}, 'Supplier_10': {'capacity': 7353, 'location': 'Region_0'}, 'Supplier_11': {'capacity': 6406, 'location': 'Region_1'}, 'Supplier_12': {'capacity': 1799, 'location': 'Region_2'}, 'Supplier_13': {'capacity': 7269, 'location': 'Region_3'}, 'Supplier_14': {'capacity': 7756, 'location': 'Region_4'}, 'Supplier_15': {'capacity': 1740, 'location': 'Region_5'}, 'Supplier_16': {'capacity': 7336, 'location': 'Region_6'}, 'Supplier_17': {'capacity': 2210, 'location': 'Region_7'}, 'Supplier_18': {'capacity': 7799, 'location': 'Region_8'}, 'Supplier_19': {'capacity': 9714, 'location': 'Region_9'}, 'Supplier_20': {'capacity': 6038, 'location': 'Region_0'}, 'Supplier_21': {'capacity': 1485, 'location': 'Region_1'}, 'Supplier_22': {'capacity': 3183, 'location': 'Region_2'}, 'Supplier_23': {'capacity': 1318, 'location': 'Region_3'}, 'Supplier_24': {'capacity': 7729, 'location': 'Region_4'}, 'Supplier_25': {'capacity': 1024, 'location': 'Region_5'}, 'Supplier_26': {'capacity': 1276, 'location': 'Region_6'}, 'Supplier_27': {'capacity': 9964, 'location': 'Region_7'}, 'Supplier_28': {'capacity': 9711, 'location': 'Region_8'}, 'Supplier_29': {'capacity': 2892, 'location': 'Region_9'}, 'Supplier_30': {'capacity': 9782, 'location': 'Region_0'}, 'Supplier_31': {'capacity': 9918, 'location': 'Region_1'}, 'Supplier_32': {'capacity': 3974, 'location': 'Region_2'}, 'Supplier_33': {'capacity': 5833, 'location': 'Region_3'}, 'Supplier_34': {'capacity': 3381, 'location': 'Region_4'}, 'Supplier_35': {'capacity': 8517, 'location': 'Region_5'}, 'Supplier_36': {'capacity': 4705, 'location': 'Region_6'}, 'Supplier_37': {'capacity': 7565, 'location': 'Region_7'}, 'Supplier_38': {'capacity': 6609, 'location': 'Region_8'}, 'Supplier_39': {'capacity': 6366, 'location': 'Region_9'}, 'Supplier_40': {'capacity': 5663, 'location': 'Region_0'}, 'Supplier_41': {'capacity': 5018, 'location': 'Region_1'}, 'Supplier_42': {'capacity': 4235, 'location': 'Region_2'}, 'Supplier_43': {'capacity': 6411, 'location': 'Region_3'}, 'Supplier_44': {'capacity': 9219, 'location': 'Region_4'}, 'Supplier_45': {'capacity': 3358, 'location': 'Region_5'}, 'Supplier_46': {'capacity': 1424, 'location': 'Region_6'}, 'Supplier_47': {'capacity': 8645, 'location': 'Region_7'}, 'Supplier_48': {'capacity': 5776, 'location': 'Region_8'}, 'Supplier_49': {'capacity': 4961, 'location': 'Region_9'}, 'Supplier_50': {'capacity': 4119, 'location': 'Region_0'}, 'Supplier_51': {'capacity': 3077, 'location': 'Region_1'}, 'Supplier_52': {'capacity': 2258, 'location': 'Region_2'}, 'Supplier_53': {'capacity': 1907, 'location': 'Region_3'}, 'Supplier_54': {'capacity': 2092, 'location': 'Region_4'}, 'Supplier_55': {'capacity': 3225, 'location': 'Region_5'}, 'Supplier_56': {'capacity': 6538, 'location': 'Region_6'}, 'Supplier_57': {'capacity': 4189, 'location': 'Region_7'}, 'Supplier_58': {'capacity': 6463, 'location': 'Region_8'}, 'Supplier_59': {'capacity': 7024, 'location': 'Region_9'}, 'Supplier_60': {'capacity': 7549, 'location': 'Region_0'}, 'Supplier_61': {'capacity': 2424, 'location': 'Region_1'}, 'Supplier_62': {'capacity': 3599, 'location': 'Region_2'}, 'Supplier_63': {'capacity': 4757, 'location': 'Region_3'}, 'Supplier_64': {'capacity': 1562, 'location': 'Region_4'}, 'Supplier_65': {'capacity': 4939, 'location': 'Region_5'}, 'Supplier_66': {'capacity': 2621, 'location': 'Region_6'}, 'Supplier_67': {'capacity': 9963, 'location': 'Region_7'}, 'Supplier_68': {'capacity': 5168, 'location': 'Region_8'}, 'Supplier_69': {'capacity': 3330, 'location': 'Region_9'}, 'Supplier_70': {'capacity': 4297, 'location': 'Region_0'}, 'Supplier_71': {'capacity': 3781, 'location': 'Region_1'}, 'Supplier_72': {'capacity': 4195, 'location': 'Region_2'}, 'Supplier_73': {'capacity': 1405, 'location': 'Region_3'}, 'Supplier_74': {'capacity': 6401, 'location': 'Region_4'}}, distributors={'Distributor_0': {'throughput': 25087, 'coverage': 'Zone_0'}, 'Distributor_1': {'throughput': 20805, 'coverage': 'Zone_1'}, 'Distributor_2': {'throughput': 32758, 'coverage': 'Zone_2'}, 'Distributor_3': {'throughput': 27169, 'coverage': 'Zone_3'}, 'Distributor_4': {'throughput': 16471, 'coverage': 'Zone_4'}, 'Distributor_5': {'throughput': 18554, 'coverage': 'Zone_0'}, 'Distributor_6': {'throughput': 9447, 'coverage': 'Zone_1'}, 'Distributor_7': {'throughput': 18166, 'coverage': 'Zone_2'}, 'Distributor_8': {'throughput': 39871, 'coverage': 'Zone_3'}, 'Distributor_9': {'throughput': 43202, 'coverage': 'Zone_4'}, 'Distributor_10': {'throughput': 25993, 'coverage': 'Zone_0'}, 'Distributor_11': {'throughput': 13461, 'coverage': 'Zone_1'}, 'Distributor_12': {'throughput': 7859, 'coverage': 'Zone_2'}, 'Distributor_13': {'throughput': 7190, 'coverage': 'Zone_3'}, 'Distributor_14': {'throughput': 11268, 'coverage': 'Zone_4'}, 'Distributor_15': {'throughput': 29323, 'coverage': 'Zone_0'}, 'Distributor_16': {'throughput': 29222, 'coverage': 'Zone_1'}, 'Distributor_17': {'throughput': 31303, 'coverage': 'Zone_2'}, 'Distributor_18': {'throughput': 22053, 'coverage': 'Zone_3'}, 'Distributor_19': {'throughput': 6853, 'coverage': 'Zone_4'}, 'Distributor_20': {'throughput': 39896, 'coverage': 'Zone_0'}, 'Distributor_21': {'throughput': 36722, 'coverage': 'Zone_1'}, 'Distributor_22': {'throughput': 45995, 'coverage': 'Zone_2'}, 'Distributor_23': {'throughput': 23791, 'coverage': 'Zone_3'}, 'Distributor_24': {'throughput': 5967, 'coverage': 'Zone_4'}}, retailers={'Retailer_0': {'demand': 793, 'market': 'Market_0'}, 'Retailer_1': {'demand': 1457, 'market': 'Market_1'}, 'Retailer_2': {'demand': 1121, 'market': 'Market_2'}, 'Retailer_3': {'demand': 775, 'market': 'Market_3'}, 'Retailer_4': {'demand': 2515, 'market': 'Market_4'}, 'Retailer_5': {'demand': 4365, 'market': 'Market_5'}, 'Retailer_6': {'demand': 494, 'market': 'Market_6'}, 'Retailer_7': {'demand': 3246, 'market': 'Market_7'}, 'Retailer_8': {'demand': 1253, 'market': 'Market_8'}, 'Retailer_9': {'demand': 4168, 'market': 'Market_9'}, 'Retailer_10': {'demand': 2331, 'market': 'Market_10'}, 'Retailer_11': {'demand': 1522, 'market': 'Market_11'}, 'Retailer_12': {'demand': 1740, 'market': 'Market_12'}, 'Retailer_13': {'demand': 3679, 'market': 'Market_13'}, 'Retailer_14': {'demand': 3757, 'market': 'Market_14'}, 'Retailer_15': {'demand': 316, 'market': 'Market_15'}, 'Retailer_16': {'demand': 2171, 'market': 'Market_16'}, 'Retailer_17': {'demand': 4035, 'market': 'Market_17'}, 'Retailer_18': {'demand': 3123, 'market': 'Market_18'}, 'Retailer_19': {'demand': 4574, 'market': 'Market_19'}, 'Retailer_20': {'demand': 680, 'market': 'Market_0'}, 'Retailer_21': {'demand': 3041, 'market': 'Market_1'}, 'Retailer_22': {'demand': 3497, 'market': 'Market_2'}, 'Retailer_23': {'demand': 3269, 'market': 'Market_3'}, 'Retailer_24': {'demand': 4224, 'market': 'Market_4'}, 'Retailer_25': {'demand': 540, 'market': 'Market_5'}, 'Retailer_26': {'demand': 1288, 'market': 'Market_6'}, 'Retailer_27': {'demand': 3868, 'market': 'Market_7'}, 'Retailer_28': {'demand': 3743, 'market': 'Market_8'}, 'Retailer_29': {'demand': 4772, 'market': 'Market_9'}, 'Retailer_30': {'demand': 1478, 'market': 'Market_10'}, 'Retailer_31': {'demand': 4992, 'market': 'Market_11'}, 'Retailer_32': {'demand': 3679, 'market': 'Market_12'}, 'Retailer_33': {'demand': 2039, 'market': 'Market_13'}, 'Retailer_34': {'demand': 4170, 'market': 'Market_14'}, 'Retailer_35': {'demand': 2749, 'market': 'Market_15'}, 'Retailer_36': {'demand': 1989, 'market': 'Market_16'}, 'Retailer_37': {'demand': 862, 'market': 'Market_17'}, 'Retailer_38': {'demand': 558, 'market': 'Market_18'}, 'Retailer_39': {'demand': 3413, 'market': 'Market_19'}, 'Retailer_40': {'demand': 2799, 'market': 'Market_0'}, 'Retailer_41': {'demand': 3192, 'market': 'Market_1'}, 'Retailer_42': {'demand': 2500, 'market': 'Market_2'}, 'Retailer_43': {'demand': 980, 'market': 'Market_3'}, 'Retailer_44': {'demand': 2234, 'market': 'Market_4'}, 'Retailer_45': {'demand': 1439, 'market': 'Market_5'}, 'Retailer_46': {'demand': 1925, 'market': 'Market_6'}, 'Retailer_47': {'demand': 3500, 'market': 'Market_7'}, 'Retailer_48': {'demand': 3697, 'market': 'Market_8'}, 'Retailer_49': {'demand': 2672, 'market': 'Market_9'}, 'Retailer_50': {'demand': 3530, 'market': 'Market_10'}, 'Retailer_51': {'demand': 2663, 'market': 'Market_11'}, 'Retailer_52': {'demand': 3028, 'market': 'Market_12'}, 'Retailer_53': {'demand': 1990, 'market': 'Market_13'}, 'Retailer_54': {'demand': 529, 'market': 'Market_14'}, 'Retailer_55': {'demand': 307, 'market': 'Market_15'}, 'Retailer_56': {'demand': 1669, 'market': 'Market_16'}, 'Retailer_57': {'demand': 473, 'market': 'Market_17'}, 'Retailer_58': {'demand': 1379, 'market': 'Market_18'}, 'Retailer_59': {'demand': 3147, 'market': 'Market_19'}, 'Retailer_60': {'demand': 3298, 'market': 'Market_0'}, 'Retailer_61': {'demand': 4290, 'market': 'Market_1'}, 'Retailer_62': {'demand': 1308, 'market': 'Market_2'}, 'Retailer_63': {'demand': 4555, 'market': 'Market_3'}, 'Retailer_64': {'demand': 3282, 'market': 'Market_4'}, 'Retailer_65': {'demand': 530, 'market': 'Market_5'}, 'Retailer_66': {'demand': 2788, 'market': 'Market_6'}, 'Retailer_67': {'demand': 4162, 'market': 'Market_7'}, 'Retailer_68': {'demand': 1907, 'market': 'Market_8'}, 'Retailer_69': {'demand': 2120, 'market': 'Market_9'}, 'Retailer_70': {'demand': 1204, 'market': 'Market_10'}, 'Retailer_71': {'demand': 4476, 'market': 'Market_11'}, 'Retailer_72': {'demand': 2280, 'market': 'Market_12'}, 'Retailer_73': {'demand': 725, 'market': 'Market_13'}, 'Retailer_74': {'demand': 1931, 'market': 'Market_14'}, 'Retailer_75': {'demand': 3242, 'market': 'Market_15'}, 'Retailer_76': {'demand': 3316, 'market': 'Market_16'}, 'Retailer_77': {'demand': 1947, 'market': 'Market_17'}, 'Retailer_78': {'demand': 4248, 'market': 'Market_18'}, 'Retailer_79': {'demand': 4189, 'market': 'Market_19'}, 'Retailer_80': {'demand': 3621, 'market': 'Market_0'}, 'Retailer_81': {'demand': 4381, 'market': 'Market_1'}, 'Retailer_82': {'demand': 2405, 'market': 'Market_2'}, 'Retailer_83': {'demand': 1552, 'market': 'Market_3'}, 'Retailer_84': {'demand': 2343, 'market': 'Market_4'}, 'Retailer_85': {'demand': 600, 'market': 'Market_5'}, 'Retailer_86': {'demand': 2143, 'market': 'Market_6'}, 'Retailer_87': {'demand': 2083, 'market': 'Market_7'}, 'Retailer_88': {'demand': 4502, 'market': 'Market_8'}, 'Retailer_89': {'demand': 757, 'market': 'Market_9'}, 'Retailer_90': {'demand': 3065, 'market': 'Market_10'}, 'Retailer_91': {'demand': 4330, 'market': 'Market_11'}, 'Retailer_92': {'demand': 4533, 'market': 'Market_12'}, 'Retailer_93': {'demand': 2731, 'market': 'Market_13'}, 'Retailer_94': {'demand': 3264, 'market': 'Market_14'}, 'Retailer_95': {'demand': 424, 'market': 'Market_15'}, 'Retailer_96': {'demand': 677, 'market': 'Market_16'}, 'Retailer_97': {'demand': 4929, 'market': 'Market_17'}, 'Retailer_98': {'demand': 356, 'market': 'Market_18'}, 'Retailer_99': {'demand': 3349, 'market': 'Market_19'}, 'Retailer_100': {'demand': 2308, 'market': 'Market_0'}, 'Retailer_101': {'demand': 2994, 'market': 'Market_1'}, 'Retailer_102': {'demand': 1404, 'market': 'Market_2'}, 'Retailer_103': {'demand': 3886, 'market': 'Market_3'}, 'Retailer_104': {'demand': 1005, 'market': 'Market_4'}, 'Retailer_105': {'demand': 4721, 'market': 'Market_5'}, 'Retailer_106': {'demand': 4667, 'market': 'Market_6'}, 'Retailer_107': {'demand': 3859, 'market': 'Market_7'}, 'Retailer_108': {'demand': 2646, 'market': 'Market_8'}, 'Retailer_109': {'demand': 4238, 'market': 'Market_9'}, 'Retailer_110': {'demand': 4387, 'market': 'Market_10'}, 'Retailer_111': {'demand': 641, 'market': 'Market_11'}, 'Retailer_112': {'demand': 1555, 'market': 'Market_12'}, 'Retailer_113': {'demand': 4950, 'market': 'Market_13'}, 'Retailer_114': {'demand': 1846, 'market': 'Market_14'}, 'Retailer_115': {'demand': 1689, 'market': 'Market_15'}, 'Retailer_116': {'demand': 1747, 'market': 'Market_16'}, 'Retailer_117': {'demand': 1197, 'market': 'Market_17'}, 'Retailer_118': {'demand': 3931, 'market': 'Market_18'}, 'Retailer_119': {'demand': 3017, 'market': 'Market_19'}, 'Retailer_120': {'demand': 4130, 'market': 'Market_0'}, 'Retailer_121': {'demand': 4693, 'market': 'Market_1'}, 'Retailer_122': {'demand': 610, 'market': 'Market_2'}, 'Retailer_123': {'demand': 2713, 'market': 'Market_3'}, 'Retailer_124': {'demand': 4084, 'market': 'Market_4'}, 'Retailer_125': {'demand': 3710, 'market': 'Market_5'}, 'Retailer_126': {'demand': 4924, 'market': 'Market_6'}, 'Retailer_127': {'demand': 3065, 'market': 'Market_7'}, 'Retailer_128': {'demand': 3815, 'market': 'Market_8'}, 'Retailer_129': {'demand': 2665, 'market': 'Market_9'}, 'Retailer_130': {'demand': 4319, 'market': 'Market_10'}, 'Retailer_131': {'demand': 3376, 'market': 'Market_11'}, 'Retailer_132': {'demand': 1527, 'market': 'Market_12'}, 'Retailer_133': {'demand': 1606, 'market': 'Market_13'}, 'Retailer_134': {'demand': 2999, 'market': 'Market_14'}, 'Retailer_135': {'demand': 2284, 'market': 'Market_15'}, 'Retailer_136': {'demand': 1374, 'market': 'Market_16'}, 'Retailer_137': {'demand': 4768, 'market': 'Market_17'}, 'Retailer_138': {'demand': 4551, 'market': 'Market_18'}, 'Retailer_139': {'demand': 1971, 'market': 'Market_19'}, 'Retailer_140': {'demand': 2583, 'market': 'Market_0'}, 'Retailer_141': {'demand': 1086, 'market': 'Market_1'}, 'Retailer_142': {'demand': 1842, 'market': 'Market_2'}, 'Retailer_143': {'demand': 3571, 'market': 'Market_3'}, 'Retailer_144': {'demand': 1594, 'market': 'Market_4'}, 'Retailer_145': {'demand': 2455, 'market': 'Market_5'}, 'Retailer_146': {'demand': 1348, 'market': 'Market_6'}, 'Retailer_147': {'demand': 2421, 'market': 'Market_7'}, 'Retailer_148': {'demand': 306, 'market': 'Market_8'}, 'Retailer_149': {'demand': 4422, 'market': 'Market_9'}, 'Retailer_150': {'demand': 4090, 'market': 'Market_10'}, 'Retailer_151': {'demand': 4514, 'market': 'Market_11'}, 'Retailer_152': {'demand': 3598, 'market': 'Market_12'}, 'Retailer_153': {'demand': 1420, 'market': 'Market_13'}, 'Retailer_154': {'demand': 1059, 'market': 'Market_14'}, 'Retailer_155': {'demand': 1756, 'market': 'Market_15'}, 'Retailer_156': {'demand': 940, 'market': 'Market_16'}, 'Retailer_157': {'demand': 4985, 'market': 'Market_17'}, 'Retailer_158': {'demand': 1944, 'market': 'Market_18'}, 'Retailer_159': {'demand': 2348, 'market': 'Market_19'}, 'Retailer_160': {'demand': 1404, 'market': 'Market_0'}, 'Retailer_161': {'demand': 4435, 'market': 'Market_1'}, 'Retailer_162': {'demand': 4083, 'market': 'Market_2'}, 'Retailer_163': {'demand': 3382, 'market': 'Market_3'}, 'Retailer_164': {'demand': 2059, 'market': 'Market_4'}, 'Retailer_165': {'demand': 2589, 'market': 'Market_5'}, 'Retailer_166': {'demand': 3069, 'market': 'Market_6'}, 'Retailer_167': {'demand': 4022, 'market': 'Market_7'}, 'Retailer_168': {'demand': 2872, 'market': 'Market_8'}, 'Retailer_169': {'demand': 4374, 'market': 'Market_9'}, 'Retailer_170': {'demand': 3360, 'market': 'Market_10'}, 'Retailer_171': {'demand': 2625, 'market': 'Market_11'}, 'Retailer_172': {'demand': 3713, 'market': 'Market_12'}, 'Retailer_173': {'demand': 3267, 'market': 'Market_13'}, 'Retailer_174': {'demand': 1780, 'market': 'Market_14'}, 'Retailer_175': {'demand': 1426, 'market': 'Market_15'}, 'Retailer_176': {'demand': 2915, 'market': 'Market_16'}, 'Retailer_177': {'demand': 2556, 'market': 'Market_17'}, 'Retailer_178': {'demand': 470, 'market': 'Market_18'}, 'Retailer_179': {'demand': 4537, 'market': 'Market_19'}, 'Retailer_180': {'demand': 3835, 'market': 'Market_0'}, 'Retailer_181': {'demand': 1261, 'market': 'Market_1'}, 'Retailer_182': {'demand': 242, 'market': 'Market_2'}, 'Retailer_183': {'demand': 1656, 'market': 'Market_3'}, 'Retailer_184': {'demand': 3444, 'market': 'Market_4'}, 'Retailer_185': {'demand': 3852, 'market': 'Market_5'}, 'Retailer_186': {'demand': 2049, 'market': 'Market_6'}, 'Retailer_187': {'demand': 2921, 'market': 'Market_7'}, 'Retailer_188': {'demand': 452, 'market': 'Market_8'}, 'Retailer_189': {'demand': 3361, 'market': 'Market_9'}, 'Retailer_190': {'demand': 3163, 'market': 'Market_10'}, 'Retailer_191': {'demand': 3958, 'market': 'Market_11'}, 'Retailer_192': {'demand': 735, 'market': 'Market_12'}, 'Retailer_193': {'demand': 4605, 'market': 'Market_13'}, 'Retailer_194': {'demand': 3133, 'market': 'Market_14'}, 'Retailer_195': {'demand': 471, 'market': 'Market_15'}, 'Retailer_196': {'demand': 3433, 'market': 'Market_16'}, 'Retailer_197': {'demand': 1700, 'market': 'Market_17'}, 'Retailer_198': {'demand': 2682, 'market': 'Market_18'}, 'Retailer_199': {'demand': 1659, 'market': 'Market_19'}}, optimization_algorithm='Persian_Caravan_Trade_Networks', quantum_advantage=128.6, total_cost_reduction=0.15428666666666666, delivery_time_improvement=0.20643, network_efficiency=0.3085733333333333, sustainability_score=0.505144, civilization_strategy='Persian, Islamic')"
+  },
+  "route_optimization": {
+    "international_routes": [
+      "QuantumRoute(route_id='QRoute_international_1', origin='New York', destination='London', waypoints=['Boston', 'Reykjavik'], distance_km=4827.230899537881, estimated_time_hours=50.89912714321067, fuel_efficiency=9.297979999999999, carbon_footprint_kg=475.94686457856176, optimization_algorithm='Norse_Longship_Navigation_Supreme', quantum_advantage=234.7, cost_savings=0.09075066666666666)",
+      "QuantumRoute(route_id='QRoute_international_2', origin='Shanghai', destination='Los Angeles', waypoints=['Tokyo', 'Honolulu'], distance_km=3024.643139409375, estimated_time_hours=31.892341369122356, fuel_efficiency=9.297979999999999, carbon_footprint_kg=298.21847113399156, optimization_algorithm='Norse_Longship_Navigation_Supreme', quantum_advantage=234.7, cost_savings=0.09075066666666666)",
+      "QuantumRoute(route_id='QRoute_international_3', origin='Hamburg', destination='Mumbai', waypoints=['Istanbul', 'Dubai'], distance_km=2125.547047990839, estimated_time_hours=22.41212233185674, fuel_efficiency=9.297979999999999, carbon_footprint_kg=209.57096813046675, optimization_algorithm='Norse_Longship_Navigation_Supreme', quantum_advantage=234.7, cost_savings=0.09075066666666666)",
+      "QuantumRoute(route_id='QRoute_international_4', origin='S\u00e3o Paulo', destination='Lagos', waypoints=['Casablanca', 'Dakar'], distance_km=6894.509161577271, estimated_time_hours=72.696853684531, fuel_efficiency=9.297979999999999, carbon_footprint_kg=679.7727489221629, optimization_algorithm='Norse_Longship_Navigation_Supreme', quantum_advantage=234.7, cost_savings=0.09075066666666666)",
+      "QuantumRoute(route_id='QRoute_international_5', origin='Sydney', destination='Vancouver', waypoints=['Auckland', 'Fiji'], distance_km=5774.778967653162, estimated_time_hours=60.890231898096225, fuel_efficiency=9.297979999999999, carbon_footprint_kg=569.371550789473, optimization_algorithm='Norse_Longship_Navigation_Supreme', quantum_advantage=234.7, cost_savings=0.09075066666666666)"
+    ],
+    "continental_routes": [
+      "QuantumRoute(route_id='QRoute_continental_1', origin='Berlin', destination='Madrid', waypoints=['Paris', 'Lyon'], distance_km=3925.313048933048, estimated_time_hours=44.859785960889845, fuel_efficiency=8.93724, carbon_footprint_kg=433.8746645811921, optimization_algorithm='Persian_Caravan_Trade_Networks', quantum_advantage=128.6, cost_savings=0.04972533333333334)",
+      "QuantumRoute(route_id='QRoute_continental_2', origin='Chicago', destination='Miami', waypoints=['Atlanta', 'Jacksonville'], distance_km=6118.301548876374, estimated_time_hours=69.92198953440882, fuel_efficiency=8.93724, carbon_footprint_kg=676.2711659511779, optimization_algorithm='Persian_Caravan_Trade_Networks', quantum_advantage=128.6, cost_savings=0.04972533333333334)",
+      "QuantumRoute(route_id='QRoute_continental_3', origin='Delhi', destination='Bangkok', waypoints=['Kolkata', 'Yangon'], distance_km=5563.6596153805, estimated_time_hours=63.58335663777348, fuel_efficiency=8.93724, carbon_footprint_kg=614.9652064370451, optimization_algorithm='Persian_Caravan_Trade_Networks', quantum_advantage=128.6, cost_savings=0.04972533333333334)",
+      "QuantumRoute(route_id='QRoute_continental_4', origin='Cairo', destination='Cape Town', waypoints=['Addis Ababa', 'Nairobi'], distance_km=5181.325070188405, estimated_time_hours=59.21391001046983, fuel_efficiency=8.93724, carbon_footprint_kg=572.7048133205999, optimization_algorithm='Persian_Caravan_Trade_Networks', quantum_advantage=128.6, cost_savings=0.04972533333333334)"
+    ],
+    "total_routes": 9
+  },
+  "inventory_management": {
+    "warehouse_count": 25,
+    "total_inventory_items": 653396,
+    "total_inventory_value": 353877955.7085276,
+    "algorithm": "Egyptian_Pyramid_Storage_Mastery",
+    "quantum_advantage": 156.9,
+    "classical_optimization_hours": 2.1275015642725736,
+    "quantum_optimization_minutes": 0.8135761240048083,
+    "storage_efficiency_improvement": 0.1569,
+    "optimized_storage_efficiency": 0.9671082468295973,
+    "demand_prediction_accuracy": 0.82845,
+    "stockout_reduction": 0.3138,
+    "carrying_cost_reduction": 0.13075,
+    "warehouses": {
+      "Warehouse_1": {
+        "location": "Zone_0",
+        "item_count": 15226,
+        "total_value": 14216426.622572485,
+        "storage_efficiency": 0.8898318845118091,
+        "turnover_rate": 0.05806060874632246
+      },
+      "Warehouse_2": {
+        "location": "Zone_1",
+        "item_count": 40907,
+        "total_value": 35108070.428865336,
+        "storage_efficiency": 0.8203007002944753,
+        "turnover_rate": 0.22670572929419452
+      },
+      "Warehouse_3": {
+        "location": "Zone_2",
+        "item_count": 38902,
+        "total_value": 34918198.44415891,
+        "storage_efficiency": 0.8538515728873406,
+        "turnover_rate": 0.24170360495738225
+      },
+      "Warehouse_4": {
+        "location": "Zone_3",
+        "item_count": 21033,
+        "total_value": 3864998.1117779254,
+        "storage_efficiency": 0.7543504611319194,
+        "turnover_rate": 0.16114476144966194
+      },
+      "Warehouse_5": {
+        "location": "Zone_4",
+        "item_count": 18579,
+        "total_value": 17410547.584241364,
+        "storage_efficiency": 0.7806867095378727,
+        "turnover_rate": 0.10130448026181108
+      },
+      "Warehouse_6": {
+        "location": "Zone_0",
+        "item_count": 19690,
+        "total_value": 6398400.489398746,
+        "storage_efficiency": 0.8844816001795935,
+        "turnover_rate": 0.19407907746716258
+      },
+      "Warehouse_7": {
+        "location": "Zone_1",
+        "item_count": 25560,
+        "total_value": 1132149.2299489763,
+        "storage_efficiency": 0.8489756482341526,
+        "turnover_rate": 0.09535382456396657
+      },
+      "Warehouse_8": {
+        "location": "Zone_2",
+        "item_count": 39559,
+        "total_value": 8541970.682262322,
+        "storage_efficiency": 0.8275148188544033,
+        "turnover_rate": 0.18038253336044852
+      },
+      "Warehouse_9": {
+        "location": "Zone_3",
+        "item_count": 16987,
+        "total_value": 4673257.304686216,
+        "storage_efficiency": 0.8080554198331441,
+        "turnover_rate": 0.15674469207966812
+      },
+      "Warehouse_10": {
+        "location": "Zone_4",
+        "item_count": 31351,
+        "total_value": 21813071.58778302,
+        "storage_efficiency": 0.7367362657175303,
+        "turnover_rate": 0.13739039057712948
+      },
+      "Warehouse_11": {
+        "location": "Zone_0",
+        "item_count": 12741,
+        "total_value": 6609938.061027634,
+        "storage_efficiency": 0.7437972841243725,
+        "turnover_rate": 0.07938034952525518
+      },
+      "Warehouse_12": {
+        "location": "Zone_1",
+        "item_count": 11022,
+        "total_value": 4804120.418817294,
+        "storage_efficiency": 0.7675796013781195,
+        "turnover_rate": 0.1223855628152924
+      },
+      "Warehouse_13": {
+        "location": "Zone_2",
+        "item_count": 10165,
+        "total_value": 3946472.242793562,
+        "storage_efficiency": 0.7983457781283025,
+        "turnover_rate": 0.09272169797119588
+      },
+      "Warehouse_14": {
+        "location": "Zone_3",
+        "item_count": 39371,
+        "total_value": 26496837.991933882,
+        "storage_efficiency": 0.7613200852730259,
+        "turnover_rate": 0.0782709055313611
+      },
+      "Warehouse_15": {
+        "location": "Zone_4",
+        "item_count": 38738,
+        "total_value": 794151.0674210254,
+        "storage_efficiency": 0.8713504743762627,
+        "turnover_rate": 0.2276963333164701
+      },
+      "Warehouse_16": {
+        "location": "Zone_0",
+        "item_count": 7090,
+        "total_value": 3655823.9914466366,
+        "storage_efficiency": 0.7588098132960229,
+        "turnover_rate": 0.22268729157423667
+      },
+      "Warehouse_17": {
+        "location": "Zone_1",
+        "item_count": 17812,
+        "total_value": 10427132.551333703,
+        "storage_efficiency": 0.8877673766027143,
+        "turnover_rate": 0.19036759999831215
+      },
+      "Warehouse_18": {
+        "location": "Zone_2",
+        "item_count": 46228,
+        "total_value": 22881019.8776772,
+        "storage_efficiency": 0.885345223094632,
+        "turnover_rate": 0.14756199406660478
+      },
+      "Warehouse_19": {
+        "location": "Zone_3",
+        "item_count": 23615,
+        "total_value": 22543519.281160243,
+        "storage_efficiency": 0.7500072672433772,
+        "turnover_rate": 0.20359676865116189
+      },
+      "Warehouse_20": {
+        "location": "Zone_4",
+        "item_count": 40252,
+        "total_value": 24822585.429948885,
+        "storage_efficiency": 0.8612951288668497,
+        "turnover_rate": 0.07995552667896394
+      },
+      "Warehouse_21": {
+        "location": "Zone_0",
+        "item_count": 43459,
+        "total_value": 36965037.90316413,
+        "storage_efficiency": 0.8212586690613898,
+        "turnover_rate": 0.08579267821568407
+      },
+      "Warehouse_22": {
+        "location": "Zone_1",
+        "item_count": 34109,
+        "total_value": 6694988.791934847,
+        "storage_efficiency": 0.7412162108853992,
+        "turnover_rate": 0.22459483099800337
+      },
+      "Warehouse_23": {
+        "location": "Zone_2",
+        "item_count": 16279,
+        "total_value": 5084776.48305963,
+        "storage_efficiency": 0.829970954466131,
+        "turnover_rate": 0.17110478830618997
+      },
+      "Warehouse_24": {
+        "location": "Zone_3",
+        "item_count": 8586,
+        "total_value": 6023699.829606215,
+        "storage_efficiency": 0.8271370857484069,
+        "turnover_rate": 0.14189839074670518
+      },
+      "Warehouse_25": {
+        "location": "Zone_4",
+        "item_count": 36135,
+        "total_value": 24050761.30150739,
+        "storage_efficiency": 0.7452201370126887,
+        "turnover_rate": 0.19964072950367323
+      }
+    },
+    "optimization_benefits": [
+      "Storage efficiency improved by 15.7%",
+      "Demand prediction accuracy: 82.8%",
+      "Stockout events reduced by 31.4%",
+      "Carrying costs reduced by 13.1%"
+    ]
+  },
+  "demand_forecasting": {
+    "product_count": 150,
+    "forecast_horizon_days": 365,
+    "algorithm": "Babylonian_Commercial_Mathematics",
+    "quantum_advantage": 119.4,
+    "classical_forecasting_hours": 2.0742871954333775,
+    "quantum_forecasting_minutes": 1.0423553745896368,
+    "classical_accuracy": 0.6891735440742868,
+    "quantum_accuracy": 0.8384235440742868,
+    "accuracy_improvement": 0.14925,
+    "prediction_granularity_hours": 11,
+    "market_factors_analyzed": 23,
+    "base_annual_revenue": 72793178171.25441,
+    "additional_revenue": 8691505473.647778,
+    "revenue_improvement_percentage": 0.1194,
+    "product_portfolio": {
+      "Product_1": {
+        "category": "Home",
+        "base_demand": 9072,
+        "seasonality": 0.4157859186279792,
+        "trend_factor": 0.04396620081177258,
+        "price": 259.927356018689
+      },
+      "Product_2": {
+        "category": "Home",
+        "base_demand": 2307,
+        "seasonality": 0.746006553594099,
+        "trend_factor": 0.2200837134225704,
+        "price": 337.9659655977314
+      },
+      "Product_3": {
+        "category": "Electronics",
+        "base_demand": 7574,
+        "seasonality": 0.44262568514902556,
+        "trend_factor": -0.03629877350954169,
+        "price": 391.22073106998
+      },
+      "Product_4": {
+        "category": "Automotive",
+        "base_demand": 6755,
+        "seasonality": 0.5970006848481078,
+        "trend_factor": -0.016079536630559138,
+        "price": 405.7647819616642
+      },
+      "Product_5": {
+        "category": "Home",
+        "base_demand": 6341,
+        "seasonality": 0.7637957536967298,
+        "trend_factor": 0.007290489994799504,
+        "price": 208.6463847522763
+      },
+      "Product_6": {
+        "category": "Food",
+        "base_demand": 3499,
+        "seasonality": 0.16753764734466,
+        "trend_factor": 0.047344800024789746,
+        "price": 171.46561759126743
+      },
+      "Product_7": {
+        "category": "Food",
+        "base_demand": 3302,
+        "seasonality": 0.46882192966529657,
+        "trend_factor": 0.01549178046099789,
+        "price": 370.243641622869
+      },
+      "Product_8": {
+        "category": "Electronics",
+        "base_demand": 9011,
+        "seasonality": 0.10149384161136221,
+        "trend_factor": 0.16668345721879876,
+        "price": 302.8016240853194
+      },
+      "Product_9": {
+        "category": "Home",
+        "base_demand": 9669,
+        "seasonality": 0.18897500973568285,
+        "trend_factor": 0.11634361462800014,
+        "price": 157.8988760589751
+      },
+      "Product_10": {
+        "category": "Health",
+        "base_demand": 4867,
+        "seasonality": 0.4651940092805833,
+        "trend_factor": 0.17796012091377392,
+        "price": 47.68729936230757
+      },
+      "Product_11": {
+        "category": "Food",
+        "base_demand": 6561,
+        "seasonality": 0.18303796456228869,
+        "trend_factor": 0.0930556118040479,
+        "price": 108.40332144159086
+      },
+      "Product_12": {
+        "category": "Health",
+        "base_demand": 9765,
+        "seasonality": 0.44736112204869316,
+        "trend_factor": -0.024416578588525126,
+        "price": 16.009407163606525
+      },
+      "Product_13": {
+        "category": "Health",
+        "base_demand": 8568,
+        "seasonality": 0.44604269431047994,
+        "trend_factor": 0.0240106930786856,
+        "price": 302.451453320376
+      },
+      "Product_14": {
+        "category": "Food",
+        "base_demand": 1054,
+        "seasonality": 0.13789256757277743,
+        "trend_factor": 0.021623883922995232,
+        "price": 191.6337837708636
+      },
+      "Product_15": {
+        "category": "Food",
+        "base_demand": 2135,
+        "seasonality": 0.6899903548040229,
+        "trend_factor": 0.035130628748050396,
+        "price": 28.358428692215963
+      },
+      "Product_16": {
+        "category": "Food",
+        "base_demand": 9329,
+        "seasonality": 0.6590940223391709,
+        "trend_factor": 0.19023254868800502,
+        "price": 363.81898218589714
+      },
+      "Product_17": {
+        "category": "Food",
+        "base_demand": 9399,
+        "seasonality": 0.4835755183814704,
+        "trend_factor": 0.04321584861506378,
+        "price": 211.38694063218418
+      },
+      "Product_18": {
+        "category": "Electronics",
+        "base_demand": 339,
+        "seasonality": 0.17623596395653712,
+        "trend_factor": 0.2608732006420811,
+        "price": 129.05130061846745
+      },
+      "Product_19": {
+        "category": "Clothing",
+        "base_demand": 3458,
+        "seasonality": 0.15241004268495253,
+        "trend_factor": 0.16871785880236242,
+        "price": 490.92514317969597
+      },
+      "Product_20": {
+        "category": "Electronics",
+        "base_demand": 4749,
+        "seasonality": 0.4469902183632639,
+        "trend_factor": -0.011478613174481955,
+        "price": 33.13652629986845
+      },
+      "Product_21": {
+        "category": "Food",
+        "base_demand": 831,
+        "seasonality": 0.5636108562027803,
+        "trend_factor": 0.07890067316852253,
+        "price": 410.90309577378787
+      },
+      "Product_22": {
+        "category": "Home",
+        "base_demand": 7318,
+        "seasonality": 0.381163555548071,
+        "trend_factor": 0.038764897474862725,
+        "price": 106.22961729732216
+      },
+      "Product_23": {
+        "category": "Food",
+        "base_demand": 5582,
+        "seasonality": 0.2185755143958586,
+        "trend_factor": 0.02866416137581837,
+        "price": 11.302021599203284
+      },
+      "Product_24": {
+        "category": "Automotive",
+        "base_demand": 7406,
+        "seasonality": 0.5674477743009219,
+        "trend_factor": -0.07631139843896184,
+        "price": 375.23028500754424
+      },
+      "Product_25": {
+        "category": "Food",
+        "base_demand": 6233,
+        "seasonality": 0.39366475842192994,
+        "trend_factor": 0.20082600355767902,
+        "price": 147.62721176434454
+      },
+      "Product_26": {
+        "category": "Food",
+        "base_demand": 7126,
+        "seasonality": 0.7707358725328963,
+        "trend_factor": 0.11072847930009427,
+        "price": 152.47782545468942
+      },
+      "Product_27": {
+        "category": "Health",
+        "base_demand": 4743,
+        "seasonality": 0.5336899315447232,
+        "trend_factor": 0.2681396757497503,
+        "price": 124.43027632690726
+      },
+      "Product_28": {
+        "category": "Health",
+        "base_demand": 5840,
+        "seasonality": 0.41436955871367886,
+        "trend_factor": 0.11029267272236126,
+        "price": 220.91352681845837
+      },
+      "Product_29": {
+        "category": "Electronics",
+        "base_demand": 3848,
+        "seasonality": 0.21498459851905444,
+        "trend_factor": -0.02274951298115435,
+        "price": 112.97284304879958
+      },
+      "Product_30": {
+        "category": "Home",
+        "base_demand": 5756,
+        "seasonality": 0.5006854443077549,
+        "trend_factor": 0.18689607899395252,
+        "price": 421.88133550368724
+      },
+      "Product_31": {
+        "category": "Electronics",
+        "base_demand": 4828,
+        "seasonality": 0.13237539985508567,
+        "trend_factor": 0.052712539183841,
+        "price": 24.610772167146052
+      },
+      "Product_32": {
+        "category": "Health",
+        "base_demand": 5483,
+        "seasonality": 0.251854910181312,
+        "trend_factor": 0.16241136339947163,
+        "price": 293.4397164230525
+      },
+      "Product_33": {
+        "category": "Food",
+        "base_demand": 5368,
+        "seasonality": 0.7838498300824908,
+        "trend_factor": 0.09217272035676746,
+        "price": 356.6011003468503
+      },
+      "Product_34": {
+        "category": "Health",
+        "base_demand": 7594,
+        "seasonality": 0.47514382351055895,
+        "trend_factor": 0.146843316606258,
+        "price": 364.7325750743283
+      },
+      "Product_35": {
+        "category": "Clothing",
+        "base_demand": 3602,
+        "seasonality": 0.23997538097377985,
+        "trend_factor": 0.032424808093763996,
+        "price": 261.43672381585077
+      },
+      "Product_36": {
+        "category": "Clothing",
+        "base_demand": 9416,
+        "seasonality": 0.43304799687222995,
+        "trend_factor": -0.0647515404694389,
+        "price": 130.8623612218837
+      },
+      "Product_37": {
+        "category": "Electronics",
+        "base_demand": 5069,
+        "seasonality": 0.5013333144952453,
+        "trend_factor": 0.0838715179634443,
+        "price": 387.16638050034436
+      },
+      "Product_38": {
+        "category": "Clothing",
+        "base_demand": 1267,
+        "seasonality": 0.7830799860624679,
+        "trend_factor": 0.18542583537661586,
+        "price": 97.03619823879487
+      },
+      "Product_39": {
+        "category": "Clothing",
+        "base_demand": 6824,
+        "seasonality": 0.14845401592982113,
+        "trend_factor": -0.0690953203988717,
+        "price": 33.69468159379693
+      },
+      "Product_40": {
+        "category": "Health",
+        "base_demand": 9471,
+        "seasonality": 0.14573383052581426,
+        "trend_factor": 0.23266039893797627,
+        "price": 61.52238711930338
+      },
+      "Product_41": {
+        "category": "Health",
+        "base_demand": 266,
+        "seasonality": 0.6917759931820707,
+        "trend_factor": 0.05254078707810658,
+        "price": 100.25892965549401
+      },
+      "Product_42": {
+        "category": "Automotive",
+        "base_demand": 1975,
+        "seasonality": 0.6272736555718903,
+        "trend_factor": -0.07092844983399088,
+        "price": 444.54141100983946
+      },
+      "Product_43": {
+        "category": "Home",
+        "base_demand": 2450,
+        "seasonality": 0.7179947791208297,
+        "trend_factor": -0.08406157790531231,
+        "price": 252.49195113152416
+      },
+      "Product_44": {
+        "category": "Food",
+        "base_demand": 5082,
+        "seasonality": 0.7160453936869596,
+        "trend_factor": 0.029373948864297533,
+        "price": 306.19197748357755
+      },
+      "Product_45": {
+        "category": "Health",
+        "base_demand": 5260,
+        "seasonality": 0.46785951623890265,
+        "trend_factor": 0.1819269734869565,
+        "price": 108.37443144909372
+      },
+      "Product_46": {
+        "category": "Electronics",
+        "base_demand": 1039,
+        "seasonality": 0.4488279410146011,
+        "trend_factor": 0.1454780352869284,
+        "price": 123.97000456750438
+      },
+      "Product_47": {
+        "category": "Electronics",
+        "base_demand": 5845,
+        "seasonality": 0.5803758403587431,
+        "trend_factor": -0.04452437063650705,
+        "price": 457.6211602937297
+      },
+      "Product_48": {
+        "category": "Health",
+        "base_demand": 3528,
+        "seasonality": 0.16801698813619387,
+        "trend_factor": 0.13633521762503406,
+        "price": 480.29241129011723
+      },
+      "Product_49": {
+        "category": "Food",
+        "base_demand": 8881,
+        "seasonality": 0.7734235122009184,
+        "trend_factor": 0.17968443736870646,
+        "price": 307.35272862392395
+      },
+      "Product_50": {
+        "category": "Clothing",
+        "base_demand": 7353,
+        "seasonality": 0.7057096102288337,
+        "trend_factor": 0.18015875157579062,
+        "price": 350.04789907610046
+      },
+      "Product_51": {
+        "category": "Home",
+        "base_demand": 5167,
+        "seasonality": 0.30431898451492034,
+        "trend_factor": 0.10070074199561857,
+        "price": 251.2307153828151
+      },
+      "Product_52": {
+        "category": "Automotive",
+        "base_demand": 2037,
+        "seasonality": 0.3174290614220553,
+        "trend_factor": 0.16024736153406058,
+        "price": 22.29848184427044
+      },
+      "Product_53": {
+        "category": "Electronics",
+        "base_demand": 5579,
+        "seasonality": 0.4731563776888611,
+        "trend_factor": 0.13450627144582508,
+        "price": 30.21028242410633
+      },
+      "Product_54": {
+        "category": "Health",
+        "base_demand": 6237,
+        "seasonality": 0.6116902056553362,
+        "trend_factor": 0.14019874731035606,
+        "price": 293.5209766984267
+      },
+      "Product_55": {
+        "category": "Clothing",
+        "base_demand": 4419,
+        "seasonality": 0.15127785888752185,
+        "trend_factor": 0.292823826858554,
+        "price": 21.049185243968235
+      },
+      "Product_56": {
+        "category": "Electronics",
+        "base_demand": 4607,
+        "seasonality": 0.4640797154970778,
+        "trend_factor": 0.02586026397202476,
+        "price": 272.11770670170677
+      },
+      "Product_57": {
+        "category": "Automotive",
+        "base_demand": 7938,
+        "seasonality": 0.6081782019404752,
+        "trend_factor": 0.14577225927591406,
+        "price": 203.05809515791904
+      },
+      "Product_58": {
+        "category": "Food",
+        "base_demand": 4965,
+        "seasonality": 0.7151412529090233,
+        "trend_factor": 0.03970292790085961,
+        "price": 387.6178380352724
+      },
+      "Product_59": {
+        "category": "Food",
+        "base_demand": 4984,
+        "seasonality": 0.5557465227151828,
+        "trend_factor": 0.018746236440301225,
+        "price": 375.9323816126274
+      },
+      "Product_60": {
+        "category": "Food",
+        "base_demand": 3835,
+        "seasonality": 0.4825308335750159,
+        "trend_factor": 0.1008961549099269,
+        "price": 367.05042934055626
+      },
+      "Product_61": {
+        "category": "Health",
+        "base_demand": 7141,
+        "seasonality": 0.1946053889057574,
+        "trend_factor": -0.017669895962880086,
+        "price": 75.62040926653478
+      },
+      "Product_62": {
+        "category": "Electronics",
+        "base_demand": 2495,
+        "seasonality": 0.4400746125416375,
+        "trend_factor": 0.00503196789677865,
+        "price": 270.9959012113555
+      },
+      "Product_63": {
+        "category": "Clothing",
+        "base_demand": 6452,
+        "seasonality": 0.7020392880852406,
+        "trend_factor": 0.02724513368917353,
+        "price": 475.6543282194561
+      },
+      "Product_64": {
+        "category": "Clothing",
+        "base_demand": 5255,
+        "seasonality": 0.4757963341178778,
+        "trend_factor": 0.23277111950273197,
+        "price": 404.0705643798605
+      },
+      "Product_65": {
+        "category": "Health",
+        "base_demand": 1664,
+        "seasonality": 0.5509364524993059,
+        "trend_factor": 0.15612147148545794,
+        "price": 152.64381065631508
+      },
+      "Product_66": {
+        "category": "Food",
+        "base_demand": 9541,
+        "seasonality": 0.798635048358141,
+        "trend_factor": 0.22826977073869484,
+        "price": 245.09917031626932
+      },
+      "Product_67": {
+        "category": "Clothing",
+        "base_demand": 6623,
+        "seasonality": 0.17195355276280577,
+        "trend_factor": -0.0651960576241736,
+        "price": 20.714665987456677
+      },
+      "Product_68": {
+        "category": "Home",
+        "base_demand": 6042,
+        "seasonality": 0.30824717497636667,
+        "trend_factor": 0.18169669339291208,
+        "price": 490.0822559764688
+      },
+      "Product_69": {
+        "category": "Electronics",
+        "base_demand": 4177,
+        "seasonality": 0.5614767028155815,
+        "trend_factor": 0.12388499515897963,
+        "price": 456.8330285303761
+      },
+      "Product_70": {
+        "category": "Home",
+        "base_demand": 9188,
+        "seasonality": 0.3021930760265343,
+        "trend_factor": 0.12370841513933303,
+        "price": 263.09392869213707
+      },
+      "Product_71": {
+        "category": "Automotive",
+        "base_demand": 7429,
+        "seasonality": 0.6802955917320079,
+        "trend_factor": 0.02039852357396965,
+        "price": 339.38528246943645
+      },
+      "Product_72": {
+        "category": "Automotive",
+        "base_demand": 7965,
+        "seasonality": 0.6964346278804631,
+        "trend_factor": 0.06709823573225693,
+        "price": 190.66790965197322
+      },
+      "Product_73": {
+        "category": "Food",
+        "base_demand": 4786,
+        "seasonality": 0.5634890470315511,
+        "trend_factor": -0.015375469352090304,
+        "price": 358.46312880388416
+      },
+      "Product_74": {
+        "category": "Clothing",
+        "base_demand": 8718,
+        "seasonality": 0.539027875817553,
+        "trend_factor": 0.13531938739649782,
+        "price": 58.390886267556866
+      },
+      "Product_75": {
+        "category": "Food",
+        "base_demand": 9247,
+        "seasonality": 0.7367359639891075,
+        "trend_factor": -0.02236655029302778,
+        "price": 378.3871608809777
+      },
+      "Product_76": {
+        "category": "Clothing",
+        "base_demand": 458,
+        "seasonality": 0.6799374076696034,
+        "trend_factor": 0.2603362035554071,
+        "price": 43.60606605310518
+      },
+      "Product_77": {
+        "category": "Automotive",
+        "base_demand": 3248,
+        "seasonality": 0.5972128139483062,
+        "trend_factor": 0.006013188583954235,
+        "price": 436.0215374160595
+      },
+      "Product_78": {
+        "category": "Home",
+        "base_demand": 103,
+        "seasonality": 0.6387379136854807,
+        "trend_factor": -0.06626069425103834,
+        "price": 431.5173496397815
+      },
+      "Product_79": {
+        "category": "Health",
+        "base_demand": 2435,
+        "seasonality": 0.28028814915026334,
+        "trend_factor": 0.2645047209846928,
+        "price": 354.9221458567659
+      },
+      "Product_80": {
+        "category": "Electronics",
+        "base_demand": 8589,
+        "seasonality": 0.22884753677639955,
+        "trend_factor": 0.25122717603801636,
+        "price": 145.93266104906607
+      },
+      "Product_81": {
+        "category": "Electronics",
+        "base_demand": 5542,
+        "seasonality": 0.31753444163830313,
+        "trend_factor": -0.021066478780459127,
+        "price": 405.75607008030175
+      },
+      "Product_82": {
+        "category": "Clothing",
+        "base_demand": 6110,
+        "seasonality": 0.34658277995477466,
+        "trend_factor": -0.08656089665201035,
+        "price": 442.8349095097661
+      },
+      "Product_83": {
+        "category": "Health",
+        "base_demand": 1904,
+        "seasonality": 0.21646982323686068,
+        "trend_factor": 0.029593341177087812,
+        "price": 224.78426106895967
+      },
+      "Product_84": {
+        "category": "Home",
+        "base_demand": 6873,
+        "seasonality": 0.7774330633823242,
+        "trend_factor": -0.0966206680123301,
+        "price": 175.05965376805648
+      },
+      "Product_85": {
+        "category": "Health",
+        "base_demand": 8205,
+        "seasonality": 0.7700009251318295,
+        "trend_factor": -0.06186111314338345,
+        "price": 208.2940661683252
+      },
+      "Product_86": {
+        "category": "Clothing",
+        "base_demand": 8896,
+        "seasonality": 0.47182342673951894,
+        "trend_factor": 0.07631089852325487,
+        "price": 237.11688521318203
+      },
+      "Product_87": {
+        "category": "Electronics",
+        "base_demand": 6780,
+        "seasonality": 0.35983205528580364,
+        "trend_factor": 0.10568307794521328,
+        "price": 170.09393087018955
+      },
+      "Product_88": {
+        "category": "Electronics",
+        "base_demand": 7006,
+        "seasonality": 0.12016538668898061,
+        "trend_factor": -0.04950625777348532,
+        "price": 230.97034226240285
+      },
+      "Product_89": {
+        "category": "Electronics",
+        "base_demand": 7423,
+        "seasonality": 0.4554237751504806,
+        "trend_factor": 0.008571189249571634,
+        "price": 130.55662111545772
+      },
+      "Product_90": {
+        "category": "Health",
+        "base_demand": 1289,
+        "seasonality": 0.10181181029832194,
+        "trend_factor": 0.2876666062964277,
+        "price": 265.54122010002584
+      },
+      "Product_91": {
+        "category": "Electronics",
+        "base_demand": 5028,
+        "seasonality": 0.48577030608051563,
+        "trend_factor": 0.027258998845494625,
+        "price": 259.68276654073327
+      },
+      "Product_92": {
+        "category": "Electronics",
+        "base_demand": 3409,
+        "seasonality": 0.564389131712392,
+        "trend_factor": 0.02388964013277181,
+        "price": 269.1316487871581
+      },
+      "Product_93": {
+        "category": "Food",
+        "base_demand": 8828,
+        "seasonality": 0.4710154643469736,
+        "trend_factor": 0.154259452128878,
+        "price": 311.5997199743619
+      },
+      "Product_94": {
+        "category": "Automotive",
+        "base_demand": 6792,
+        "seasonality": 0.10746895168795954,
+        "trend_factor": 0.057784197244019536,
+        "price": 77.85740317471726
+      },
+      "Product_95": {
+        "category": "Home",
+        "base_demand": 9437,
+        "seasonality": 0.5101150347946046,
+        "trend_factor": 0.27490405047521904,
+        "price": 212.80350471129222
+      },
+      "Product_96": {
+        "category": "Electronics",
+        "base_demand": 9696,
+        "seasonality": 0.5838940131171375,
+        "trend_factor": -0.06629311801933216,
+        "price": 368.6346443234409
+      },
+      "Product_97": {
+        "category": "Home",
+        "base_demand": 3881,
+        "seasonality": 0.1578354047023905,
+        "trend_factor": -0.08087705842573084,
+        "price": 82.57196204290727
+      },
+      "Product_98": {
+        "category": "Automotive",
+        "base_demand": 8112,
+        "seasonality": 0.3692795880182962,
+        "trend_factor": 0.05427025900795962,
+        "price": 47.14642340500639
+      },
+      "Product_99": {
+        "category": "Automotive",
+        "base_demand": 8849,
+        "seasonality": 0.12517940950124645,
+        "trend_factor": 0.0060245260238035725,
+        "price": 35.68034749165959
+      },
+      "Product_100": {
+        "category": "Health",
+        "base_demand": 3815,
+        "seasonality": 0.6332163287489537,
+        "trend_factor": -0.04488989933784171,
+        "price": 96.45312452003374
+      },
+      "Product_101": {
+        "category": "Health",
+        "base_demand": 6149,
+        "seasonality": 0.37693223805088805,
+        "trend_factor": 0.07369939214314855,
+        "price": 183.53368138867637
+      },
+      "Product_102": {
+        "category": "Home",
+        "base_demand": 8577,
+        "seasonality": 0.26995138706626154,
+        "trend_factor": 0.12146103403528771,
+        "price": 159.79927005639667
+      },
+      "Product_103": {
+        "category": "Health",
+        "base_demand": 1168,
+        "seasonality": 0.5667874856559024,
+        "trend_factor": 0.20447224753030183,
+        "price": 12.592271121396632
+      },
+      "Product_104": {
+        "category": "Clothing",
+        "base_demand": 8663,
+        "seasonality": 0.13397175719291743,
+        "trend_factor": 0.2912645026745896,
+        "price": 417.00698472206545
+      },
+      "Product_105": {
+        "category": "Clothing",
+        "base_demand": 252,
+        "seasonality": 0.5209411799261949,
+        "trend_factor": 0.100174851004148,
+        "price": 329.0269174969932
+      },
+      "Product_106": {
+        "category": "Health",
+        "base_demand": 8627,
+        "seasonality": 0.37849933680901837,
+        "trend_factor": 0.018051252459762468,
+        "price": 337.5097192617347
+      },
+      "Product_107": {
+        "category": "Home",
+        "base_demand": 185,
+        "seasonality": 0.47473853565709057,
+        "trend_factor": 0.1908719510114835,
+        "price": 404.2617459339462
+      },
+      "Product_108": {
+        "category": "Home",
+        "base_demand": 8734,
+        "seasonality": 0.6899213832734707,
+        "trend_factor": -0.049169498984409234,
+        "price": 404.2769705465948
+      },
+      "Product_109": {
+        "category": "Clothing",
+        "base_demand": 6318,
+        "seasonality": 0.7256031306139046,
+        "trend_factor": 0.0920173588487061,
+        "price": 327.11120108518685
+      },
+      "Product_110": {
+        "category": "Home",
+        "base_demand": 4247,
+        "seasonality": 0.294432538255032,
+        "trend_factor": 0.2110905548709945,
+        "price": 378.1630057156037
+      },
+      "Product_111": {
+        "category": "Electronics",
+        "base_demand": 9788,
+        "seasonality": 0.542744285971533,
+        "trend_factor": -0.04966483698608526,
+        "price": 138.0205436449101
+      },
+      "Product_112": {
+        "category": "Health",
+        "base_demand": 656,
+        "seasonality": 0.6625939581561083,
+        "trend_factor": 0.22501730691928382,
+        "price": 393.5061476856714
+      },
+      "Product_113": {
+        "category": "Automotive",
+        "base_demand": 291,
+        "seasonality": 0.5709243579653576,
+        "trend_factor": 0.03209085424783481,
+        "price": 313.34787097231236
+      },
+      "Product_114": {
+        "category": "Electronics",
+        "base_demand": 8259,
+        "seasonality": 0.43214793185598,
+        "trend_factor": 0.29641607963660965,
+        "price": 308.9974020433755
+      },
+      "Product_115": {
+        "category": "Food",
+        "base_demand": 1824,
+        "seasonality": 0.4928496778931213,
+        "trend_factor": -0.04570439049625215,
+        "price": 498.40530615242074
+      },
+      "Product_116": {
+        "category": "Health",
+        "base_demand": 1507,
+        "seasonality": 0.21707697104951484,
+        "trend_factor": 0.03406798544655615,
+        "price": 440.2844306948319
+      },
+      "Product_117": {
+        "category": "Food",
+        "base_demand": 2630,
+        "seasonality": 0.6405175157780801,
+        "trend_factor": 0.12467505154940617,
+        "price": 178.5628862209838
+      },
+      "Product_118": {
+        "category": "Clothing",
+        "base_demand": 201,
+        "seasonality": 0.20614336640340875,
+        "trend_factor": -0.08430054375674426,
+        "price": 154.84708760662463
+      },
+      "Product_119": {
+        "category": "Automotive",
+        "base_demand": 6533,
+        "seasonality": 0.775554978280114,
+        "trend_factor": -0.08714628664963336,
+        "price": 60.36731567980232
+      },
+      "Product_120": {
+        "category": "Electronics",
+        "base_demand": 6311,
+        "seasonality": 0.5000950436401826,
+        "trend_factor": -0.08706819682039542,
+        "price": 76.32551473123384
+      },
+      "Product_121": {
+        "category": "Food",
+        "base_demand": 3369,
+        "seasonality": 0.4313254295590685,
+        "trend_factor": -0.08490046526018431,
+        "price": 309.0002058409295
+      },
+      "Product_122": {
+        "category": "Home",
+        "base_demand": 3923,
+        "seasonality": 0.520091931029483,
+        "trend_factor": -0.07427479474483017,
+        "price": 202.31703558237263
+      },
+      "Product_123": {
+        "category": "Electronics",
+        "base_demand": 3747,
+        "seasonality": 0.19189615170924443,
+        "trend_factor": 0.019874680483629212,
+        "price": 66.93437130364708
+      },
+      "Product_124": {
+        "category": "Electronics",
+        "base_demand": 7153,
+        "seasonality": 0.439590371982731,
+        "trend_factor": 0.27710308435708175,
+        "price": 410.0718861028074
+      },
+      "Product_125": {
+        "category": "Clothing",
+        "base_demand": 7968,
+        "seasonality": 0.7667348195515337,
+        "trend_factor": -0.039786796841388396,
+        "price": 386.955988379051
+      },
+      "Product_126": {
+        "category": "Food",
+        "base_demand": 5942,
+        "seasonality": 0.27200196060557025,
+        "trend_factor": 0.0689077887414555,
+        "price": 332.56635654072676
+      },
+      "Product_127": {
+        "category": "Clothing",
+        "base_demand": 7021,
+        "seasonality": 0.6508686321790387,
+        "trend_factor": 0.025233486841625963,
+        "price": 242.17422079192195
+      },
+      "Product_128": {
+        "category": "Food",
+        "base_demand": 9808,
+        "seasonality": 0.71465650018685,
+        "trend_factor": -0.012785214753172666,
+        "price": 81.47853543495806
+      },
+      "Product_129": {
+        "category": "Electronics",
+        "base_demand": 4801,
+        "seasonality": 0.31805216021671956,
+        "trend_factor": 0.1673042143645165,
+        "price": 462.34413938287133
+      },
+      "Product_130": {
+        "category": "Home",
+        "base_demand": 1722,
+        "seasonality": 0.7358049352158939,
+        "trend_factor": 0.03875092642497871,
+        "price": 132.1594567262694
+      },
+      "Product_131": {
+        "category": "Home",
+        "base_demand": 171,
+        "seasonality": 0.16497898117468535,
+        "trend_factor": 0.20768382754368916,
+        "price": 395.4581627560189
+      },
+      "Product_132": {
+        "category": "Home",
+        "base_demand": 3077,
+        "seasonality": 0.5150620397769634,
+        "trend_factor": 0.12155114892423519,
+        "price": 164.0618167182114
+      },
+      "Product_133": {
+        "category": "Clothing",
+        "base_demand": 1337,
+        "seasonality": 0.6427399180425399,
+        "trend_factor": 0.2600475192135959,
+        "price": 480.75415476568605
+      },
+      "Product_134": {
+        "category": "Clothing",
+        "base_demand": 1718,
+        "seasonality": 0.7509312198237375,
+        "trend_factor": 0.08503535089997097,
+        "price": 140.91390642044416
+      },
+      "Product_135": {
+        "category": "Clothing",
+        "base_demand": 6316,
+        "seasonality": 0.6888348540980823,
+        "trend_factor": 0.05550303238488491,
+        "price": 427.8478714264889
+      },
+      "Product_136": {
+        "category": "Food",
+        "base_demand": 6033,
+        "seasonality": 0.2108121801783373,
+        "trend_factor": 0.23679764741988,
+        "price": 219.51317596795025
+      },
+      "Product_137": {
+        "category": "Clothing",
+        "base_demand": 4651,
+        "seasonality": 0.36022337360924406,
+        "trend_factor": 0.06956228869039874,
+        "price": 473.86197216948295
+      },
+      "Product_138": {
+        "category": "Home",
+        "base_demand": 1118,
+        "seasonality": 0.3125097310394026,
+        "trend_factor": 0.049001317746101,
+        "price": 467.251068083441
+      },
+      "Product_139": {
+        "category": "Health",
+        "base_demand": 7535,
+        "seasonality": 0.4835994190624373,
+        "trend_factor": 0.05871045514294668,
+        "price": 29.291644506037407
+      },
+      "Product_140": {
+        "category": "Food",
+        "base_demand": 7482,
+        "seasonality": 0.48954887054333585,
+        "trend_factor": 0.26424420322187114,
+        "price": 476.13206155842823
+      },
+      "Product_141": {
+        "category": "Automotive",
+        "base_demand": 9999,
+        "seasonality": 0.6476575997963373,
+        "trend_factor": -0.08659073131976536,
+        "price": 479.05704916053634
+      },
+      "Product_142": {
+        "category": "Food",
+        "base_demand": 7914,
+        "seasonality": 0.478105068249116,
+        "trend_factor": 0.05159572174177249,
+        "price": 404.95394730950943
+      },
+      "Product_143": {
+        "category": "Health",
+        "base_demand": 508,
+        "seasonality": 0.22772329490795376,
+        "trend_factor": 0.0347362972599802,
+        "price": 46.76163136939263
+      },
+      "Product_144": {
+        "category": "Food",
+        "base_demand": 1772,
+        "seasonality": 0.6319743790656954,
+        "trend_factor": 0.2811898179949275,
+        "price": 175.66713177837374
+      },
+      "Product_145": {
+        "category": "Electronics",
+        "base_demand": 7025,
+        "seasonality": 0.6377584223222315,
+        "trend_factor": 0.21604092775016095,
+        "price": 261.87614841322613
+      },
+      "Product_146": {
+        "category": "Home",
+        "base_demand": 4412,
+        "seasonality": 0.7196202871099597,
+        "trend_factor": 0.011568731342209398,
+        "price": 16.73499568733306
+      },
+      "Product_147": {
+        "category": "Automotive",
+        "base_demand": 4760,
+        "seasonality": 0.620604074836784,
+        "trend_factor": 0.02111385542548047,
+        "price": 48.5298957594722
+      },
+      "Product_148": {
+        "category": "Automotive",
+        "base_demand": 6965,
+        "seasonality": 0.19625006018168528,
+        "trend_factor": 0.20173272061433936,
+        "price": 280.14236344386046
+      },
+      "Product_149": {
+        "category": "Health",
+        "base_demand": 7935,
+        "seasonality": 0.19301988385232915,
+        "trend_factor": 0.1996768158431215,
+        "price": 457.4037823042203
+      },
+      "Product_150": {
+        "category": "Electronics",
+        "base_demand": 6408,
+        "seasonality": 0.3756234281281796,
+        "trend_factor": -0.0656264233947518,
+        "price": 216.12182003427156
+      }
+    },
+    "forecasting_capabilities": [
+      "Real-time predictions every 11 hours",
+      "Analysis of 23 market factors",
+      "Seasonal pattern recognition",
+      "Cross-product demand correlation",
+      "Economic indicator integration",
+      "Supply chain disruption prediction"
+    ]
+  },
+  "fleet_optimization": {
+    "fleet_size": 750,
+    "vehicle_composition": {
+      "trucks": {
+        "count": 300,
+        "capacity": 20000,
+        "cost_per_km": 1.5
+      },
+      "vans": {
+        "count": 225,
+        "capacity": 2000,
+        "cost_per_km": 0.8
+      },
+      "motorcycles": {
+        "count": 150,
+        "capacity": 50,
+        "cost_per_km": 0.3
+      },
+      "drones": {
+        "count": 75,
+        "capacity": 10,
+        "cost_per_km": 0.1
+      }
+    },
+    "total_capacity_kg": 6458250,
+    "algorithm": "Aztec_Calendar_Precision_Logistics",
+    "quantum_advantage": 187.3,
+    "classical_optimization_hours": 2296.3966338592295,
+    "quantum_optimization_minutes": 735.6315965379272,
+    "daily_distance_km": 269374.22239713784,
+    "daily_fuel_cost": 55466.775,
+    "fuel_efficiency_gain": 0.18730000000000002,
+    "route_efficiency_gain": 0.23412500000000003,
+    "maintenance_cost_reduction": 0.15608333333333335,
+    "driver_productivity_gain": 0.20811111111111114,
+    "daily_cost_savings": 15979.03125,
+    "annual_cost_savings": 5832346.40625,
+    "optimization_features": [
+      "Real-time route optimization",
+      "Dynamic load balancing",
+      "Predictive maintenance scheduling",
+      "Driver schedule optimization",
+      "Fuel consumption minimization",
+      "Delivery time window optimization"
+    ]
+  },
+  "quantum_algorithms_deployed": [
+    "Ultra_Civilization_Fusion_Logistics",
+    "Norse_Longship_Navigation_Supreme",
+    "Aztec_Calendar_Precision_Logistics",
+    "Egyptian_Pyramid_Storage_Mastery",
+    "Celtic_Spiral_Efficiency_Flow",
+    "Persian_Caravan_Trade_Networks",
+    "Babylonian_Commercial_Mathematics"
+  ],
+  "logistics_breakthroughs": [
+    "Global supply chain optimization with 9568.1x speedup",
+    "Route optimization reducing distances by up to 25%",
+    "Inventory management with 82.8% demand accuracy",
+    "Fleet operations optimized for 750 vehicles",
+    "Demand forecasting with 83.8% accuracy",
+    "Multi-civilization wisdom applied to logistics challenges",
+    "Real-time optimization across global networks"
+  ],
+  "timestamp": "2025-07-21T10:55:05.728741",
+  "session_id": "quantum_logistics_1753120505"
+}

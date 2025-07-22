@@ -1,0 +1,249 @@
+{
+  "demo_info": {
+    "demo_type": "quantum_finance_empire",
+    "timestamp": "2025-07-21T10:35:44.594307",
+    "quantum_algorithms_deployed": 4,
+    "peak_quantum_advantage": 9568.1
+  },
+  "hft_trading_results": [
+    {
+      "algorithm": "Ultra_Civilization_Fusion",
+      "quantum_advantage": 9568.1,
+      "trades_executed": 956,
+      "total_volume": 238612213.80555266,
+      "total_profit": 3749749.1387912105,
+      "profit_percentage": 1.571482481549296,
+      "execution_time": 0.002998828887939453,
+      "classical_equivalent_time": 28.693094682693484,
+      "speedup_factor": 9568.1,
+      "prediction_accuracy": 95.0,
+      "civilizations": [
+        "Egyptian",
+        "Norse",
+        "Babylonian",
+        "Celtic",
+        "Persian",
+        "Mayan"
+      ]
+    },
+    {
+      "algorithm": "Al_Khwarizmi_Algebraic",
+      "quantum_advantage": 115.2,
+      "trades_executed": 538,
+      "total_volume": 135367093.74905676,
+      "total_profit": 1457436.323622887,
+      "profit_percentage": 1.0766548082392013,
+      "execution_time": 0.0040013790130615234,
+      "classical_equivalent_time": 0.4609588623046875,
+      "speedup_factor": 115.2,
+      "prediction_accuracy": 55.576,
+      "civilizations": [
+        "Persian/Islamic"
+      ]
+    },
+    {
+      "algorithm": "Sacred_Feathered_Serpent",
+      "quantum_advantage": 87.5,
+      "trades_executed": 480,
+      "total_volume": 123210623.18997541,
+      "total_profit": 1160449.8889190587,
+      "profit_percentage": 0.9418423987108561,
+      "execution_time": 0.002008676528930664,
+      "classical_equivalent_time": 0.1757591962814331,
+      "speedup_factor": 87.5,
+      "prediction_accuracy": 55.43750000000001,
+      "civilizations": [
+        "Aztec/Mayan"
+      ]
+    },
+    {
+      "algorithm": "Golden_Tree_of_Life",
+      "quantum_advantage": 95.2,
+      "trades_executed": 531,
+      "total_volume": 138575587.8416844,
+      "total_profit": 1647931.3979073714,
+      "profit_percentage": 1.1891931497992632,
+      "execution_time": 0.003008604049682617,
+      "classical_equivalent_time": 0.28641910552978517,
+      "speedup_factor": 95.2,
+      "prediction_accuracy": 55.476000000000006,
+      "civilizations": [
+        "Celtic/Druid"
+      ]
+    }
+  ],
+  "portfolio_optimization": {
+    "portfolio": {
+      "AAPL": 9.700935737441917,
+      "GOOGL": 12.707461554639247,
+      "MSFT": 17.035973110021615,
+      "AMZN": 12.978472867358782,
+      "TSLA": 13.032443917436568,
+      "BTC": 11.207567037406037,
+      "ETH": 7.318263530892503,
+      "NVDA": 16.018882244803336
+    },
+    "expected_return": 0.17437069073063277,
+    "portfolio_risk": 0.34130702700202264,
+    "sharpe_ratio": 0.4229936078338557,
+    "quantum_advantage": 9568.1
+  },
+  "market_predictions": [
+    {
+      "asset": "AAPL",
+      "current_price": 255.51000008303274,
+      "consensus_price": 269.2038170547341,
+      "consensus_change": 5.359405489903053,
+      "consensus_confidence": 82.5,
+      "individual_predictions": [
+        {
+          "algorithm": "Civilization_Fusion",
+          "predicted_price": 269.24174361460643,
+          "price_change": 5.374248963684897,
+          "confidence": 95.0,
+          "quantum_advantage": 9568.1
+        },
+        {
+          "algorithm": "Aztec_Calendar",
+          "predicted_price": 291.4816824366554,
+          "price_change": 14.078385324227227,
+          "confidence": 75.0,
+          "quantum_advantage": 87.5
+        },
+        {
+          "algorithm": "Celtic_Spiral",
+          "predicted_price": 257.7077755306391,
+          "price_change": 0.8601524194325676,
+          "confidence": 78.0,
+          "quantum_advantage": 95.2
+        },
+        {
+          "algorithm": "Persian_Geometry",
+          "predicted_price": 258.6328519042278,
+          "price_change": 1.2222033658879174,
+          "confidence": 82.0,
+          "quantum_advantage": 115.2
+        }
+      ]
+    },
+    {
+      "asset": "BTC",
+      "current_price": 169.97201438725872,
+      "consensus_price": 178.10806497935903,
+      "consensus_change": 4.786700105561725,
+      "consensus_confidence": 82.5,
+      "individual_predictions": [
+        {
+          "algorithm": "Civilization_Fusion",
+          "predicted_price": 177.85074534707903,
+          "price_change": 4.635310694070874,
+          "confidence": 95.0,
+          "quantum_advantage": 9568.1
+        },
+        {
+          "algorithm": "Aztec_Calendar",
+          "predicted_price": 199.3770724367784,
+          "price_change": 17.299940908227487,
+          "confidence": 75.0,
+          "quantum_advantage": 87.5
+        },
+        {
+          "algorithm": "Celtic_Spiral",
+          "predicted_price": 175.67021741370493,
+          "price_change": 3.352436015415819,
+          "confidence": 78.0,
+          "quantum_advantage": 95.2
+        },
+        {
+          "algorithm": "Persian_Geometry",
+          "predicted_price": 185.3398784285281,
+          "price_change": 9.041408432246822,
+          "confidence": 82.0,
+          "quantum_advantage": 115.2
+        }
+      ]
+    },
+    {
+      "asset": "TSLA",
+      "current_price": 438.3111496011665,
+      "consensus_price": 478.944975862542,
+      "consensus_change": 9.270543607742926,
+      "consensus_confidence": 82.5,
+      "individual_predictions": [
+        {
+          "algorithm": "Civilization_Fusion",
+          "predicted_price": 480.2220477259115,
+          "price_change": 9.561905546523546,
+          "confidence": 95.0,
+          "quantum_advantage": 9568.1
+        },
+        {
+          "algorithm": "Aztec_Calendar",
+          "predicted_price": 496.51315460377094,
+          "price_change": 13.278695980142036,
+          "confidence": 75.0,
+          "quantum_advantage": 87.5
+        },
+        {
+          "algorithm": "Celtic_Spiral",
+          "predicted_price": 429.4852758261093,
+          "price_change": -2.013609232411305,
+          "confidence": 78.0,
+          "quantum_advantage": 95.2
+        },
+        {
+          "algorithm": "Persian_Geometry",
+          "predicted_price": 400.4050149919279,
+          "price_change": -8.648225043723077,
+          "confidence": 82.0,
+          "quantum_advantage": 115.2
+        }
+      ]
+    },
+    {
+      "asset": "MSFT",
+      "current_price": 342.7165345599278,
+      "consensus_price": 316.6691206384503,
+      "consensus_change": -7.600279325572734,
+      "consensus_confidence": 82.5,
+      "individual_predictions": [
+        {
+          "algorithm": "Civilization_Fusion",
+          "predicted_price": 315.71369706375077,
+          "price_change": -7.879058864449186,
+          "confidence": 95.0,
+          "quantum_advantage": 9568.1
+        },
+        {
+          "algorithm": "Aztec_Calendar",
+          "predicted_price": 382.7139514979352,
+          "price_change": 11.670699515378475,
+          "confidence": 75.0,
+          "quantum_advantage": 87.5
+        },
+        {
+          "algorithm": "Celtic_Spiral",
+          "predicted_price": 310.3569685603102,
+          "price_change": -9.442079017625932,
+          "confidence": 78.0,
+          "quantum_advantage": 95.2
+        },
+        {
+          "algorithm": "Persian_Geometry",
+          "predicted_price": 351.0752185787041,
+          "price_change": 2.43894973713755,
+          "confidence": 82.0,
+          "quantum_advantage": 115.2
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "best_trading_profit": 1.571482481549296,
+    "total_trades_executed": 2505,
+    "average_speedup_factor": 2466.5000000000005,
+    "portfolio_expected_return": 0.17437069073063277,
+    "portfolio_sharpe_ratio": 0.4229936078338557,
+    "prediction_confidence": 82.5
+  }
+}

@@ -1,0 +1,743 @@
+{
+  "session_info": {
+    "version": "2.0_enhanced",
+    "timestamp": "2025-07-21T09:04:16.142215",
+    "total_value_extracted": 356931.27028690156,
+    "total_bonuses": 14,
+    "user_performance_level": 0.12946684863207114
+  },
+  "bonuses": [
+    {
+      "id": "enhanced_architect_1753113856_1973",
+      "type": "lucky_architect",
+      "name": "Enhanced Lucky Architect Manifestation",
+      "description": "Quantum coherence perfectly aligned with algorithm QAlgo-Communication-S2-2. Performance amplification: 1.00x | Cascade Position: 1/3",
+      "value": 735.1327062902973,
+      "timestamp": "2025-07-21T09:04:16.118618",
+      "quantum_advantage": 7.25,
+      "coherence_factor": 1.0460530064998013,
+      "entanglement_boost": 0.8442119153242276,
+      "luck_multiplier": 1.3069025889605284,
+      "achievement_bonus": 0.0,
+      "complexity_tier": "novice",
+      "metadata": {
+        "algorithm": "QAlgo-Communication-S2-2",
+        "session": 2,
+        "breakthrough_factor": 2.5,
+        "performance_level": 0.0,
+        "field_evolution": true
+      }
+    },
+    {
+      "id": "achievement_first_bonus_1753113856",
+      "type": "achievement",
+      "name": "Achievement Unlocked: First Steps",
+      "description": "Generate your first quantum bonus | Tier: bronze",
+      "value": 1100.0,
+      "timestamp": "2025-07-21T09:04:16.118618",
+      "quantum_advantage": 1.0,
+      "coherence_factor": 1.0,
+      "entanglement_boost": 1.0,
+      "luck_multiplier": 1.0,
+      "achievement_bonus": 0.0,
+      "complexity_tier": "novice",
+      "metadata": {
+        "achievement_id": "first_bonus",
+        "tier": "bronze"
+      }
+    },
+    {
+      "id": "pattern_attempt_1753113856",
+      "type": "meta_learning",
+      "name": "Pattern Search",
+      "description": "Attempted to discover Coherence Ripple - experience gained",
+      "value": 50.0,
+      "timestamp": "2025-07-21T09:04:16.119614",
+      "quantum_advantage": 1.0,
+      "coherence_factor": 1.0,
+      "entanglement_boost": 1.0,
+      "luck_multiplier": 1.0,
+      "achievement_bonus": 0.0,
+      "complexity_tier": "novice",
+      "metadata": null
+    },
+    {
+      "id": "enhanced_architect_1753113856_5064",
+      "type": "lucky_architect",
+      "name": "Enhanced Lucky Architect Manifestation",
+      "description": "Quantum coherence perfectly aligned with algorithm QAlgo-Search-2. Performance amplification: 1.01x | Cascade Position: 2/3",
+      "value": 341.5397428250194,
+      "timestamp": "2025-07-21T09:04:16.119614",
+      "quantum_advantage": 4.0,
+      "coherence_factor": 1.0190613971633888,
+      "entanglement_boost": 1.0679864885639472,
+      "luck_multiplier": 1.7999459437418677,
+      "achievement_bonus": 0.10000000000000009,
+      "complexity_tier": "novice",
+      "metadata": {
+        "algorithm": "QAlgo-Search-2",
+        "session": 1,
+        "breakthrough_factor": 1.0,
+        "performance_level": 0.025470265412580597,
+        "field_evolution": true
+      }
+    },
+    {
+      "id": "pattern_attempt_1753113856",
+      "type": "meta_learning",
+      "name": "Pattern Search",
+      "description": "Attempted to discover Quantum Echo - experience gained",
+      "value": 50.0,
+      "timestamp": "2025-07-21T09:04:16.120616",
+      "quantum_advantage": 1.0,
+      "coherence_factor": 1.0,
+      "entanglement_boost": 1.0,
+      "luck_multiplier": 1.0,
+      "achievement_bonus": 0.0,
+      "complexity_tier": "novice",
+      "metadata": null
+    },
+    {
+      "id": "enhanced_architect_1753113856_4556",
+      "type": "lucky_architect",
+      "name": "Enhanced Lucky Architect Manifestation",
+      "description": "Quantum coherence perfectly aligned with algorithm QAlgo-Cryptography-1. Performance amplification: 1.02x | Cascade Position: 3/3",
+      "value": 478.35735440288306,
+      "timestamp": "2025-07-21T09:04:16.120616",
+      "quantum_advantage": 4.25,
+      "coherence_factor": 0.974314794865812,
+      "entanglement_boost": 1.1311908913193045,
+      "luck_multiplier": 1.858420180275381,
+      "achievement_bonus": 0.10000000000000009,
+      "complexity_tier": "novice",
+      "metadata": {
+        "algorithm": "QAlgo-Cryptography-1",
+        "session": 1,
+        "breakthrough_factor": 1.2,
+        "performance_level": 0.030064247574015414,
+        "field_evolution": true
+      }
+    },
+    {
+      "id": "pattern_attempt_1753113856",
+      "type": "meta_learning",
+      "name": "Pattern Search",
+      "description": "Attempted to discover Quantum Echo - experience gained",
+      "value": 50.0,
+      "timestamp": "2025-07-21T09:04:16.124372",
+      "quantum_advantage": 1.0,
+      "coherence_factor": 1.0,
+      "entanglement_boost": 1.0,
+      "luck_multiplier": 1.0,
+      "achievement_bonus": 0.0,
+      "complexity_tier": "novice",
+      "metadata": null
+    },
+    {
+      "id": "pattern_attempt_1753113856",
+      "type": "meta_learning",
+      "name": "Pattern Search",
+      "description": "Attempted to discover Entanglement Spark - experience gained",
+      "value": 50.0,
+      "timestamp": "2025-07-21T09:04:16.125385",
+      "quantum_advantage": 1.0,
+      "coherence_factor": 1.0,
+      "entanglement_boost": 1.0,
+      "luck_multiplier": 1.0,
+      "achievement_bonus": 0.0,
+      "complexity_tier": "novice",
+      "metadata": null
+    },
+    {
+      "id": "pattern_attempt_1753113856",
+      "type": "meta_learning",
+      "name": "Pattern Search",
+      "description": "Attempted to discover Entanglement Spark - experience gained",
+      "value": 50.0,
+      "timestamp": "2025-07-21T09:04:16.125385",
+      "quantum_advantage": 1.0,
+      "coherence_factor": 1.0,
+      "entanglement_boost": 1.0,
+      "luck_multiplier": 1.0,
+      "achievement_bonus": 0.0,
+      "complexity_tier": "novice",
+      "metadata": null
+    },
+    {
+      "id": "pattern_pattern_basic_1_1753113856",
+      "type": "meta_learning",
+      "name": "Pattern Discovery: Quantum Echo",
+      "description": "Recognized rare quantum pattern: Quantum Echo. Complexity: novice. Rarity: 1 in 5",
+      "value": 4104.477611940299,
+      "timestamp": "2025-07-21T09:04:16.126389",
+      "quantum_advantage": 1.5,
+      "coherence_factor": 1.0,
+      "entanglement_boost": 1.0,
+      "luck_multiplier": 1.0,
+      "achievement_bonus": 0.0,
+      "complexity_tier": "novice",
+      "metadata": {
+        "pattern_id": "pattern_basic_1",
+        "pattern_name": "Quantum Echo",
+        "complexity": "novice",
+        "rarity": 0.2,
+        "discovery_rate": 0.25,
+        "mastery_level": 0
+      }
+    },
+    {
+      "id": "pattern_attempt_1753113856",
+      "type": "meta_learning",
+      "name": "Pattern Search",
+      "description": "Attempted to discover Quantum Echo - experience gained",
+      "value": 50.0,
+      "timestamp": "2025-07-21T09:04:16.127407",
+      "quantum_advantage": 1.0,
+      "coherence_factor": 1.0,
+      "entanglement_boost": 1.0,
+      "luck_multiplier": 1.0,
+      "achievement_bonus": 0.0,
+      "complexity_tier": "novice",
+      "metadata": null
+    },
+    {
+      "id": "exploit_bonus_exploit_1753113856_479",
+      "type": "tunneling",
+      "name": "Quantum Exploit Success: Zero-Knowledge Proof Reuse",
+      "description": "Successfully executed Zero-Knowledge Proof Reuse. Profit: $137747.19600629335",
+      "value": 137747.19600629335,
+      "timestamp": "2025-07-21T09:04:16.129397",
+      "quantum_advantage": 1.0,
+      "coherence_factor": 1.0,
+      "entanglement_boost": 1.0,
+      "luck_multiplier": 1.0,
+      "achievement_bonus": 0.0,
+      "complexity_tier": "intermediate",
+      "metadata": null
+    },
+    {
+      "id": "achievement_first_exploit_1753113856",
+      "type": "achievement",
+      "name": "Achievement Unlocked: First Breach",
+      "description": "Successfully execute your first quantum exploit | Tier: silver",
+      "value": 1250.0,
+      "timestamp": "2025-07-21T09:04:16.129397",
+      "quantum_advantage": 1.0,
+      "coherence_factor": 1.0,
+      "entanglement_boost": 1.0,
+      "luck_multiplier": 1.0,
+      "achievement_bonus": 0.0,
+      "complexity_tier": "novice",
+      "metadata": {
+        "achievement_id": "first_exploit",
+        "tier": "silver"
+      }
+    },
+    {
+      "id": "exploit_bonus_exploit_1753113856_308",
+      "type": "tunneling",
+      "name": "Quantum Exploit Success: Zero-Knowledge Proof Reuse",
+      "description": "Successfully executed Zero-Knowledge Proof Reuse. Profit: $211029.50568596568",
+      "value": 211029.50568596568,
+      "timestamp": "2025-07-21T09:04:16.132401",
+      "quantum_advantage": 1.0,
+      "coherence_factor": 1.0,
+      "entanglement_boost": 1.0,
+      "luck_multiplier": 1.0,
+      "achievement_bonus": 0.0,
+      "complexity_tier": "intermediate",
+      "metadata": null
+    }
+  ],
+  "achievements": [
+    {
+      "id": "first_bonus",
+      "name": "First Steps",
+      "description": "Generate your first quantum bonus",
+      "tier": "bronze",
+      "unlocked": true,
+      "unlock_timestamp": "2025-07-21T09:04:16.118618",
+      "reward_multiplier": 1.1
+    },
+    {
+      "id": "bonus_collector",
+      "name": "Bonus Collector",
+      "description": "Generate 10 quantum bonuses",
+      "tier": "silver",
+      "unlocked": false,
+      "unlock_timestamp": null,
+      "reward_multiplier": 1.2
+    },
+    {
+      "id": "bonus_master",
+      "name": "Bonus Master",
+      "description": "Generate 50 quantum bonuses",
+      "tier": "gold",
+      "unlocked": false,
+      "unlock_timestamp": null,
+      "reward_multiplier": 1.5
+    },
+    {
+      "id": "fortune_hunter",
+      "name": "Fortune Hunter",
+      "description": "Extract $10,000 in total value",
+      "tier": "bronze",
+      "unlocked": false,
+      "unlock_timestamp": null,
+      "reward_multiplier": 1.15
+    },
+    {
+      "id": "quantum_millionaire",
+      "name": "Quantum Millionaire",
+      "description": "Extract $100,000 in total value",
+      "tier": "gold",
+      "unlocked": false,
+      "unlock_timestamp": null,
+      "reward_multiplier": 1.3
+    },
+    {
+      "id": "reality_architect",
+      "name": "Reality Architect",
+      "description": "Extract $1,000,000 in total value",
+      "tier": "quantum",
+      "unlocked": false,
+      "unlock_timestamp": null,
+      "reward_multiplier": 2.0
+    },
+    {
+      "id": "pattern_novice",
+      "name": "Pattern Novice",
+      "description": "Discover 5 different patterns",
+      "tier": "bronze",
+      "unlocked": false,
+      "unlock_timestamp": null,
+      "reward_multiplier": 1.1
+    },
+    {
+      "id": "pattern_expert",
+      "name": "Pattern Expert",
+      "description": "Discover patterns of expert complexity",
+      "tier": "platinum",
+      "unlocked": false,
+      "unlock_timestamp": null,
+      "reward_multiplier": 1.8
+    },
+    {
+      "id": "pattern_legend",
+      "name": "Pattern Legend",
+      "description": "Discover a legendary pattern",
+      "tier": "quantum",
+      "unlocked": false,
+      "unlock_timestamp": null,
+      "reward_multiplier": 2.5
+    },
+    {
+      "id": "first_exploit",
+      "name": "First Breach",
+      "description": "Successfully execute your first quantum exploit",
+      "tier": "silver",
+      "unlocked": true,
+      "unlock_timestamp": "2025-07-21T09:04:16.129397",
+      "reward_multiplier": 1.25
+    },
+    {
+      "id": "exploit_master",
+      "name": "Quantum Hacker",
+      "description": "Achieve 75% exploit success rate",
+      "tier": "platinum",
+      "unlocked": false,
+      "unlock_timestamp": null,
+      "reward_multiplier": 1.7
+    },
+    {
+      "id": "hot_streak",
+      "name": "Hot Streak",
+      "description": "Achieve 5 consecutive successful operations",
+      "tier": "silver",
+      "unlocked": false,
+      "unlock_timestamp": null,
+      "reward_multiplier": 1.3
+    },
+    {
+      "id": "unstoppable",
+      "name": "Unstoppable Force",
+      "description": "Achieve 15 consecutive successful operations",
+      "tier": "diamond",
+      "unlocked": false,
+      "unlock_timestamp": null,
+      "reward_multiplier": 2.0
+    },
+    {
+      "id": "quantum_architect",
+      "name": "Quantum Architect",
+      "description": "Master the Lucky Architect Pattern",
+      "tier": "platinum",
+      "unlocked": false,
+      "unlock_timestamp": null,
+      "reward_multiplier": 1.9
+    },
+    {
+      "id": "reality_bender",
+      "name": "Reality Bender",
+      "description": "Achieve maximum amplification in all categories",
+      "tier": "quantum",
+      "unlocked": false,
+      "unlock_timestamp": null,
+      "reward_multiplier": 3.0
+    }
+  ],
+  "exploits": [
+    {
+      "exploit_id": "exploit_1753113856_850",
+      "exploit_type": "Zero-Knowledge Proof Reuse",
+      "quantum_state": "collapsed",
+      "success": false,
+      "stealth_score": 0.3052201183446904,
+      "profit_extracted": 0.0,
+      "amplification": 0.0,
+      "narrative": "Near miss! The quantum state collapsed just before completion. Your technique is improving.",
+      "difficulty_tier": "intermediate",
+      "success_probability": 0.5559272858011463,
+      "timestamp": "2025-07-21T09:04:16.128400",
+      "metadata": {
+        "user_performance": 0.034800181965404464,
+        "luck_field_bonus": 0.026618252387924392,
+        "achievement_bonus": 0.006666666666666667,
+        "streak_bonus": 0.0,
+        "base_success_rate": 0.2,
+        "enhanced_rate": 0.5559272858011463
+      }
+    },
+    {
+      "exploit_id": "exploit_1753113856_479",
+      "exploit_type": "Zero-Knowledge Proof Reuse",
+      "quantum_state": "superposition",
+      "success": true,
+      "stealth_score": 0.7046238095484342,
+      "profit_extracted": 137747.19600629335,
+      "amplification": 7.770403217914933,
+      "narrative": "Perfect execution! The quantum field responded to your mastery, allowing seamless zero-knowledge proof reuse.",
+      "difficulty_tier": "intermediate",
+      "success_probability": 0.5559272858011463,
+      "timestamp": "2025-07-21T09:04:16.129397",
+      "metadata": {
+        "user_performance": 0.034800181965404464,
+        "luck_field_bonus": 0.026618252387924392,
+        "achievement_bonus": 0.006666666666666667,
+        "streak_bonus": 0.0,
+        "base_success_rate": 0.2,
+        "enhanced_rate": 0.5559272858011463
+      }
+    },
+    {
+      "exploit_id": "exploit_1753113856_607",
+      "exploit_type": "Zero-Knowledge Proof Reuse",
+      "quantum_state": "collapsed",
+      "success": false,
+      "stealth_score": 0.20944428866002754,
+      "profit_extracted": 0.0,
+      "amplification": 0.0,
+      "narrative": "Quantum interference disrupted the attempt. The field strength is building for the next opportunity.",
+      "difficulty_tier": "intermediate",
+      "success_probability": 0.607393952467813,
+      "timestamp": "2025-07-21T09:04:16.130400",
+      "metadata": {
+        "user_performance": 0.15880018196540446,
+        "luck_field_bonus": 0.026618252387924392,
+        "achievement_bonus": 0.013333333333333334,
+        "streak_bonus": 0.02,
+        "base_success_rate": 0.2,
+        "enhanced_rate": 0.607393952467813
+      }
+    },
+    {
+      "exploit_id": "exploit_1753113856_789",
+      "exploit_type": "Zero-Knowledge Proof Reuse",
+      "quantum_state": "collapsed",
+      "success": false,
+      "stealth_score": 0.18084286071503908,
+      "profit_extracted": 0.0,
+      "amplification": 0.0,
+      "narrative": "The exploit failed due to temporal fluctuations, but your mastery grows with each attempt.",
+      "difficulty_tier": "intermediate",
+      "success_probability": 0.5807272858011463,
+      "timestamp": "2025-07-21T09:04:16.131399",
+      "metadata": {
+        "user_performance": 0.12546684863207114,
+        "luck_field_bonus": 0.026618252387924392,
+        "achievement_bonus": 0.013333333333333334,
+        "streak_bonus": 0.0,
+        "base_success_rate": 0.2,
+        "enhanced_rate": 0.5807272858011463
+      }
+    },
+    {
+      "exploit_id": "exploit_1753113856_308",
+      "exploit_type": "Zero-Knowledge Proof Reuse",
+      "quantum_state": "entangled",
+      "success": true,
+      "stealth_score": 0.8106128865583222,
+      "profit_extracted": 211029.50568596568,
+      "amplification": 8.01796328639286,
+      "narrative": "Breakthrough achieved! Your understanding of quantum mechanics enabled flawless zero-knowledge proof reuse.",
+      "difficulty_tier": "intermediate",
+      "success_probability": 0.577393952467813,
+      "timestamp": "2025-07-21T09:04:16.132401",
+      "metadata": {
+        "user_performance": 0.10880018196540446,
+        "luck_field_bonus": 0.026618252387924392,
+        "achievement_bonus": 0.013333333333333334,
+        "streak_bonus": 0.0,
+        "base_success_rate": 0.2,
+        "enhanced_rate": 0.577393952467813
+      }
+    },
+    {
+      "exploit_id": "exploit_1753113856_664",
+      "exploit_type": "Zero-Knowledge Proof Reuse",
+      "quantum_state": "coherent",
+      "success": false,
+      "stealth_score": 0.2871132988196446,
+      "profit_extracted": 0.0,
+      "amplification": 0.0,
+      "narrative": "Near miss! The quantum state collapsed just before completion. Your technique is improving.",
+      "difficulty_tier": "intermediate",
+      "success_probability": 0.604193952467813,
+      "timestamp": "2025-07-21T09:04:16.132401",
+      "metadata": {
+        "user_performance": 0.14280018196540448,
+        "luck_field_bonus": 0.026618252387924392,
+        "achievement_bonus": 0.013333333333333334,
+        "streak_bonus": 0.02,
+        "base_success_rate": 0.2,
+        "enhanced_rate": 0.604193952467813
+      }
+    }
+  ],
+  "performance_metrics": {
+    "total_sessions": 0,
+    "total_bonuses": 5,
+    "total_value": 1400.0909827022308,
+    "exploit_success_rate": 0.3333333333333333,
+    "pattern_mastery": {
+      "pattern_basic_1": 0.1
+    },
+    "achievement_count": 2,
+    "rare_pattern_count": 0,
+    "current_streak": 2
+  },
+  "luck_field": {
+    "field_strength": 0.7661825238792439,
+    "coherence_resonance": 1.3136466070694879,
+    "entanglement_amplifier": 1.6262431199884382,
+    "temporal_flux": 0.5229804264973743,
+    "evolution_rate": 0.1,
+    "stability_factor": 0.8
+  },
+  "dashboard_data": {
+    "enhanced_summary": {
+      "total_value_extracted": 356931.27028690156,
+      "total_bonuses": 14,
+      "average_bonus": 25495.09073477868,
+      "user_performance_level": 0.12946684863207114,
+      "achievement_progress": "2/15",
+      "current_streak": 2
+    },
+    "top_bonuses": [
+      {
+        "name": "Quantum Exploit Success: Zero-Knowledge Proof Reuse",
+        "value": 211029.50568596568,
+        "type": "tunneling",
+        "complexity": "intermediate"
+      },
+      {
+        "name": "Quantum Exploit Success: Zero-Knowledge Proof Reuse",
+        "value": 137747.19600629335,
+        "type": "tunneling",
+        "complexity": "intermediate"
+      },
+      {
+        "name": "Pattern Discovery: Quantum Echo",
+        "value": 4104.477611940299,
+        "type": "meta_learning",
+        "complexity": "novice"
+      },
+      {
+        "name": "Achievement Unlocked: First Breach",
+        "value": 1250.0,
+        "type": "achievement",
+        "complexity": "novice"
+      },
+      {
+        "name": "Achievement Unlocked: First Steps",
+        "value": 1100.0,
+        "type": "achievement",
+        "complexity": "novice"
+      }
+    ],
+    "achievements": [
+      {
+        "name": "First Steps",
+        "tier": "bronze",
+        "unlocked": true,
+        "description": "Generate your first quantum bonus"
+      },
+      {
+        "name": "Bonus Collector",
+        "tier": "silver",
+        "unlocked": false,
+        "description": "Generate 10 quantum bonuses"
+      },
+      {
+        "name": "Bonus Master",
+        "tier": "gold",
+        "unlocked": false,
+        "description": "Generate 50 quantum bonuses"
+      },
+      {
+        "name": "Fortune Hunter",
+        "tier": "bronze",
+        "unlocked": false,
+        "description": "Extract $10,000 in total value"
+      },
+      {
+        "name": "Quantum Millionaire",
+        "tier": "gold",
+        "unlocked": false,
+        "description": "Extract $100,000 in total value"
+      },
+      {
+        "name": "Reality Architect",
+        "tier": "quantum",
+        "unlocked": false,
+        "description": "Extract $1,000,000 in total value"
+      },
+      {
+        "name": "Pattern Novice",
+        "tier": "bronze",
+        "unlocked": false,
+        "description": "Discover 5 different patterns"
+      },
+      {
+        "name": "Pattern Expert",
+        "tier": "platinum",
+        "unlocked": false,
+        "description": "Discover patterns of expert complexity"
+      },
+      {
+        "name": "Pattern Legend",
+        "tier": "quantum",
+        "unlocked": false,
+        "description": "Discover a legendary pattern"
+      },
+      {
+        "name": "First Breach",
+        "tier": "silver",
+        "unlocked": true,
+        "description": "Successfully execute your first quantum exploit"
+      },
+      {
+        "name": "Quantum Hacker",
+        "tier": "platinum",
+        "unlocked": false,
+        "description": "Achieve 75% exploit success rate"
+      },
+      {
+        "name": "Hot Streak",
+        "tier": "silver",
+        "unlocked": false,
+        "description": "Achieve 5 consecutive successful operations"
+      },
+      {
+        "name": "Unstoppable Force",
+        "tier": "diamond",
+        "unlocked": false,
+        "description": "Achieve 15 consecutive successful operations"
+      },
+      {
+        "name": "Quantum Architect",
+        "tier": "platinum",
+        "unlocked": false,
+        "description": "Master the Lucky Architect Pattern"
+      },
+      {
+        "name": "Reality Bender",
+        "tier": "quantum",
+        "unlocked": false,
+        "description": "Achieve maximum amplification in all categories"
+      }
+    ],
+    "pattern_mastery": {
+      "Quantum Echo": {
+        "mastery_level": 0.1,
+        "complexity": "novice",
+        "discoveries": 1
+      }
+    },
+    "exploit_performance": {
+      "total_attempts": 6,
+      "successful": 2,
+      "success_rate": "33.3%",
+      "total_extracted": 348776.70169225906
+    },
+    "luck_field_status": {
+      "field_strength": 0.766,
+      "coherence_resonance": 1.314,
+      "entanglement_amplifier": 1.626,
+      "temporal_flux": 0.523
+    },
+    "visualization_data": {
+      "luck_field_evolution": {
+        "field_strength": 0.7661825238792439,
+        "coherence_resonance": 1.3136466070694879,
+        "entanglement_amplifier": 1.6262431199884382,
+        "temporal_flux": 0.5229804264973743
+      },
+      "bonus_trends": {
+        "total_bonuses": 14,
+        "total_value": 356931.27028690156,
+        "average_bonus": 25495.09073477868,
+        "bonus_types": {
+          "innovation": 0,
+          "discovery": 0,
+          "coherence": 0,
+          "entanglement": 0,
+          "lucky_architect": 3,
+          "meta_learning": 7,
+          "convergence": 0,
+          "tunneling": 2,
+          "achievement": 2,
+          "mastery": 0,
+          "breakthrough": 0,
+          "legendary": 0
+        }
+      },
+      "performance_metrics": {
+        "user_level": 0.12946684863207114,
+        "achievement_progress": 0.13333333333333333,
+        "exploit_success_rate": 0.3333333333333333,
+        "pattern_mastery": 1,
+        "current_streak": 2
+      },
+      "complexity_distribution": {
+        "novice": 12,
+        "intermediate": 2,
+        "advanced": 0,
+        "expert": 0,
+        "master": 0,
+        "legendary": 0
+      }
+    },
+    "leaderboard_entry": {
+      "player_name": "Quantum_Architect",
+      "total_value": 356931.27028690156,
+      "total_bonuses": 14,
+      "achievement_count": 2,
+      "exploit_success_rate": 0.3333333333333333,
+      "rare_patterns": 0,
+      "max_streak": 2,
+      "user_level": 0.12946684863207114,
+      "session_timestamp": "2025-07-21T09:04:16.142571"
+    }
+  }
+}

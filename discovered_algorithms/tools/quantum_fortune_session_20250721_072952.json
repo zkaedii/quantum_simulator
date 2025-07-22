@@ -1,0 +1,389 @@
+{
+  "session_info": {
+    "timestamp": "2025-07-21T07:29:52.442645",
+    "total_value_extracted": 274478.0514448859,
+    "luck_field_state": {
+      "field_strength": 1.3987156644123775,
+      "coherence_resonance": 1.0899548089074091,
+      "entanglement_amplifier": 1.7174642732356384,
+      "temporal_flux": 192.22261667251587
+    }
+  },
+  "bonuses": [
+    {
+      "id": "lucky_architect_1753108192_6287",
+      "type": "lucky_architect",
+      "name": "Lucky Architect Manifestation",
+      "description": "Harnessed coherent chance fields for QAlgo-Communication-S2-2 with quantum resonance 0.000",
+      "value": 300.0,
+      "timestamp": "2025-07-21T07:29:52.224651",
+      "metadata": {
+        "algorithm": "QAlgo-Communication-S2-2",
+        "coherence": 0.9738107148663881,
+        "entanglement_strength": 0.0,
+        "luck_index": 1.1962331039097467,
+        "quantum_luck": true,
+        "quantum_resonance": 0.0,
+        "base_reward": 100.0,
+        "luck_multiplier": 3.0
+      },
+      "coherence_factor": 0.9738107148663881,
+      "entanglement_strength": 0.0,
+      "luck_index": 1.1962331039097467,
+      "quantum_advantage": 6.67
+    },
+    {
+      "id": "lucky_architect_1753108192_6834",
+      "type": "lucky_architect",
+      "name": "Lucky Architect Manifestation",
+      "description": "Harnessed coherent chance fields for QAlgo-Search-2 with quantum resonance 0.342",
+      "value": 155.69427413630615,
+      "timestamp": "2025-07-21T07:29:52.226684",
+      "metadata": {
+        "algorithm": "QAlgo-Search-2",
+        "coherence": 0.9464660396158371,
+        "entanglement_strength": 0.09039844244881703,
+        "luck_index": 1.109228801530977,
+        "quantum_luck": true,
+        "quantum_resonance": 0.3422362232478881,
+        "base_reward": 100.0,
+        "luck_multiplier": 1.5569427413630617
+      },
+      "coherence_factor": 0.9464660396158371,
+      "entanglement_strength": 0.09039844244881703,
+      "luck_index": 1.109228801530977,
+      "quantum_advantage": 4.0
+    },
+    {
+      "id": "lucky_architect_1753108192_7652",
+      "type": "lucky_architect",
+      "name": "Lucky Architect Manifestation",
+      "description": "Harnessed coherent chance fields for QAlgo-Optimization-S2-4 with quantum resonance 3.708",
+      "value": 473.8124553596217,
+      "timestamp": "2025-07-21T07:29:52.234814",
+      "metadata": {
+        "algorithm": "QAlgo-Optimization-S2-4",
+        "coherence": 1.052128820473195,
+        "entanglement_strength": 0.5283822646319156,
+        "luck_index": 1.5624878787772996,
+        "quantum_luck": true,
+        "quantum_resonance": 3.708027813003706,
+        "base_reward": 100.0,
+        "luck_multiplier": 4.738124553596217
+      },
+      "coherence_factor": 1.052128820473195,
+      "entanglement_strength": 0.5283822646319156,
+      "luck_index": 1.5624878787772996,
+      "quantum_advantage": 6.67
+    },
+    {
+      "id": "lucky_architect_1753108192_9085",
+      "type": "lucky_architect",
+      "name": "Lucky Architect Manifestation",
+      "description": "Harnessed coherent chance fields for QAlgo-Error-S2-1 with quantum resonance 5.204",
+      "value": 378.1123338938821,
+      "timestamp": "2025-07-21T07:29:52.234814",
+      "metadata": {
+        "algorithm": "QAlgo-Error-S2-1",
+        "coherence": 0.8910445291678097,
+        "entanglement_strength": 0.9026879823643383,
+        "luck_index": 1.711286204854525,
+        "quantum_luck": true,
+        "quantum_resonance": 5.20404866785633,
+        "base_reward": 100.0,
+        "luck_multiplier": 3.781123338938821
+      },
+      "coherence_factor": 0.8910445291678097,
+      "entanglement_strength": 0.9026879823643383,
+      "luck_index": 1.711286204854525,
+      "quantum_advantage": 6.47
+    },
+    {
+      "id": "meta_learning_1753108192",
+      "type": "meta_learning",
+      "name": "Unlikely Convergence Recognition",
+      "description": "Meta-learner recognized pattern_88 with 0.003195 probability",
+      "value": 76411.61327222557,
+      "timestamp": "2025-07-21T07:29:52.234814",
+      "metadata": {
+        "pattern_id": "pattern_88",
+        "detection_rate": 0.003194888178913738,
+        "adaptation_time": 2.172589114215376,
+        "reward_amplification": 37.31035804307889,
+        "luck_bias": 4.6637947553848615,
+        "meta_learning": true
+      },
+      "coherence_factor": 0.9968051118210862,
+      "entanglement_strength": 1.1659486888462154,
+      "luck_index": 1.3987156644123775,
+      "quantum_advantage": 37.31035804307889
+    },
+    {
+      "id": "meta_learning_1753108192",
+      "type": "meta_learning",
+      "name": "Unlikely Convergence Recognition",
+      "description": "Meta-learner recognized pattern_4 with 0.003195 probability",
+      "value": 65209.086599574264,
+      "timestamp": "2025-07-21T07:29:52.236831",
+      "metadata": {
+        "pattern_id": "pattern_4",
+        "detection_rate": 0.003194888178913738,
+        "adaptation_time": 1.7408013815450125,
+        "reward_amplification": 31.84037431619837,
+        "luck_bias": 3.9800467895247964,
+        "meta_learning": true
+      },
+      "coherence_factor": 0.9968051118210862,
+      "entanglement_strength": 0.9950116973811991,
+      "luck_index": 1.3987156644123775,
+      "quantum_advantage": 31.84037431619837
+    },
+    {
+      "id": "meta_learning_1753108192",
+      "type": "meta_learning",
+      "name": "Unlikely Convergence Recognition",
+      "description": "Meta-learner recognized pattern_91 with 0.021277 probability",
+      "value": 18306.049466498396,
+      "timestamp": "2025-07-21T07:29:52.240867",
+      "metadata": {
+        "pattern_id": "pattern_91",
+        "detection_rate": 0.02127659574468085,
+        "adaptation_time": 1.4014770525013427,
+        "reward_amplification": 8.93850071606367,
+        "luck_bias": 4.469250358031835,
+        "meta_learning": true
+      },
+      "coherence_factor": 0.9787234042553191,
+      "entanglement_strength": 1.1173125895079588,
+      "luck_index": 1.3987156644123775,
+      "quantum_advantage": 8.93850071606367
+    },
+    {
+      "id": "meta_learning_1753108192",
+      "type": "meta_learning",
+      "name": "Unlikely Convergence Recognition",
+      "description": "Meta-learner recognized pattern_92 with 0.043478 probability",
+      "value": 20214.45029336476,
+      "timestamp": "2025-07-21T07:29:52.273289",
+      "metadata": {
+        "pattern_id": "pattern_92",
+        "detection_rate": 0.043478260869565216,
+        "adaptation_time": 2.2352329488394345,
+        "reward_amplification": 9.870337057307012,
+        "luck_bias": 4.935168528653506,
+        "meta_learning": true
+      },
+      "coherence_factor": 0.9565217391304348,
+      "entanglement_strength": 1.2337921321633765,
+      "luck_index": 1.3987156644123775,
+      "quantum_advantage": 9.870337057307012
+    },
+    {
+      "id": "meta_learning_1753108192",
+      "type": "meta_learning",
+      "name": "Unlikely Convergence Recognition",
+      "description": "Meta-learner recognized pattern_93 with 0.003195 probability",
+      "value": 69603.5892498331,
+      "timestamp": "2025-07-21T07:29:52.287312",
+      "metadata": {
+        "pattern_id": "pattern_93",
+        "detection_rate": 0.003194888178913738,
+        "adaptation_time": 1.9760816006687525,
+        "reward_amplification": 33.986127563395065,
+        "luck_bias": 4.248265945424383,
+        "meta_learning": true
+      },
+      "coherence_factor": 0.9968051118210862,
+      "entanglement_strength": 1.0620664863560958,
+      "luck_index": 1.3987156644123775,
+      "quantum_advantage": 33.986127563395065
+    },
+    {
+      "id": "discovery_QAlgo-Communication-S2-2_1753108192",
+      "type": "algorithm_discovery",
+      "name": "Quantum Algorithm Discovery",
+      "description": "Discovered breakthrough algorithm: QAlgo-Communication-S2-2",
+      "value": 10005.0,
+      "timestamp": "2025-07-21T07:29:52.364738",
+      "metadata": {
+        "algorithm": "QAlgo-Communication-S2-2",
+        "discovery_bonus": true,
+        "breakthrough_tier": 3.0
+      },
+      "coherence_factor": 1.0,
+      "entanglement_strength": 0.0,
+      "luck_index": 1.2122037161684929,
+      "quantum_advantage": 6.67
+    },
+    {
+      "id": "discovery_QAlgo-Search-2_1753108192",
+      "type": "algorithm_discovery",
+      "name": "Quantum Algorithm Discovery",
+      "description": "Discovered breakthrough algorithm: QAlgo-Search-2",
+      "value": 4000.0,
+      "timestamp": "2025-07-21T07:29:52.365754",
+      "metadata": {
+        "algorithm": "QAlgo-Search-2",
+        "discovery_bonus": true,
+        "breakthrough_tier": 2.0
+      },
+      "coherence_factor": 1.0,
+      "entanglement_strength": 0.083,
+      "luck_index": 1.1376003668859347,
+      "quantum_advantage": 4.0
+    },
+    {
+      "id": "discovery_QAlgo-Error-S2-1_1753108192",
+      "type": "algorithm_discovery",
+      "name": "Quantum Algorithm Discovery",
+      "description": "Discovered breakthrough algorithm: QAlgo-Error-S2-1",
+      "value": 9420.6435,
+      "timestamp": "2025-07-21T07:29:52.365754",
+      "metadata": {
+        "algorithm": "QAlgo-Error-S2-1",
+        "discovery_bonus": true,
+        "breakthrough_tier": 3.0
+      },
+      "coherence_factor": 0.9707,
+      "entanglement_strength": 0.778,
+      "luck_index": 1.670926604100352,
+      "quantum_advantage": 6.47
+    }
+  ],
+  "meta_events": [
+    {
+      "pattern_id": "pattern_88",
+      "detection_rate": 0.003194888178913738,
+      "adaptation_time": 2.172589114215376,
+      "reward_amplification": 37.31035804307889,
+      "luck_bias": 4.6637947553848615,
+      "narrative": "Pattern pattern_88 materialized from quantum foam: 0.3% probability, 100% manifestation."
+    },
+    {
+      "pattern_id": "pattern_4",
+      "detection_rate": 0.003194888178913738,
+      "adaptation_time": 1.7408013815450125,
+      "reward_amplification": 31.84037431619837,
+      "luck_bias": 3.9800467895247964,
+      "narrative": "Coherence cascade triggered: pattern_4 self-organized from pure entropy."
+    },
+    {
+      "pattern_id": "pattern_91",
+      "detection_rate": 0.02127659574468085,
+      "adaptation_time": 1.4014770525013427,
+      "reward_amplification": 8.93850071606367,
+      "luck_bias": 4.469250358031835,
+      "narrative": "Quantum tunnel opened: pattern_91 appeared where logic said it couldn't exist."
+    },
+    {
+      "pattern_id": "pattern_92",
+      "detection_rate": 0.043478260869565216,
+      "adaptation_time": 2.2352329488394345,
+      "reward_amplification": 9.870337057307012,
+      "luck_bias": 4.935168528653506,
+      "narrative": "Coherence cascade triggered: pattern_92 self-organized from pure entropy."
+    },
+    {
+      "pattern_id": "pattern_93",
+      "detection_rate": 0.003194888178913738,
+      "adaptation_time": 1.9760816006687525,
+      "reward_amplification": 33.986127563395065,
+      "luck_bias": 4.248265945424383,
+      "narrative": "Meta-learner achieved breakthrough: pattern_93 recognized despite impossible odds."
+    }
+  ],
+  "exploits": [
+    {
+      "exploit_type": "Zero-Knowledge Proof Reuse",
+      "quantum_state": "collapsed",
+      "amplification_chance": 0.14281628103441604,
+      "success": "False",
+      "amplification": 1.0,
+      "stealth_score": 0.40630767417198843,
+      "profit_extracted": 0.0,
+      "narrative": "Reality held firm. Some barriers exist beyond probability."
+    },
+    {
+      "exploit_type": "Cryptographic Veil Breach",
+      "quantum_state": "coherent",
+      "amplification_chance": 0.2735809133494555,
+      "success": "False",
+      "amplification": 1.0,
+      "stealth_score": 0.5017551235092378,
+      "profit_extracted": 0.0,
+      "narrative": "Coherence scattered. The exploit remained theoretical."
+    },
+    {
+      "exploit_type": "Quantum State Collapse",
+      "quantum_state": "coherent",
+      "amplification_chance": 0.24672907246177686,
+      "success": "False",
+      "amplification": 1.0,
+      "stealth_score": 0.3836139178751382,
+      "profit_extracted": 0.0,
+      "narrative": "The quantum tunnel collapsed. Fortune favors preparation, not desperation."
+    }
+  ],
+  "dashboard": {
+    "quantum_fortune_summary": {
+      "total_value_extracted": 274478.0514448859,
+      "total_bonuses": 12,
+      "average_bonus": 22873.170953740493,
+      "luck_field_status": {
+        "field_strength": 1.3987156644123775,
+        "coherence_resonance": 1.0899548089074091,
+        "entanglement_amplifier": 1.7174642732356384,
+        "temporal_flux": 192.22261667251587
+      }
+    },
+    "top_bonuses": [
+      {
+        "name": "Unlikely Convergence Recognition",
+        "value": 76411.61327222557,
+        "type": "meta_learning",
+        "quantum_advantage": 37.31035804307889
+      },
+      {
+        "name": "Unlikely Convergence Recognition",
+        "value": 69603.5892498331,
+        "type": "meta_learning",
+        "quantum_advantage": 33.986127563395065
+      },
+      {
+        "name": "Unlikely Convergence Recognition",
+        "value": 65209.086599574264,
+        "type": "meta_learning",
+        "quantum_advantage": 31.84037431619837
+      },
+      {
+        "name": "Unlikely Convergence Recognition",
+        "value": 20214.45029336476,
+        "type": "meta_learning",
+        "quantum_advantage": 9.870337057307012
+      },
+      {
+        "name": "Unlikely Convergence Recognition",
+        "value": 18306.049466498396,
+        "type": "meta_learning",
+        "quantum_advantage": 8.93850071606367
+      }
+    ],
+    "meta_learning_patterns": {
+      "total_patterns": 5,
+      "rarest_pattern": 0.003194888178913738,
+      "highest_amplification": 37.31035804307889
+    },
+    "quantum_exploits": {
+      "total_attempts": 3,
+      "successful_exploits": 0,
+      "total_extracted": "0",
+      "success_rate": 0.0
+    },
+    "algorithm_integration": {
+      "algorithms_available": 10,
+      "session_1_algorithms": 5,
+      "session_2_algorithms": 5,
+      "total_quantum_advantage": 50.53000000000001
+    }
+  }
+}

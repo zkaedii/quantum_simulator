@@ -1,0 +1,127 @@
+{
+  "demo_info": {
+    "demo_type": "quantum_healthcare_revolution",
+    "timestamp": "2025-07-21T10:40:12.755896",
+    "algorithms_deployed": 5,
+    "peak_quantum_advantage": 9568.1
+  },
+  "drug_discoveries": [
+    {
+      "drug_candidate": "QD_covid_spike_protein_04862",
+      "target": "covid_spike_protein",
+      "quantum_advantage": 9568.1,
+      "effectiveness": 1.9562400000000002,
+      "discovery_confidence": 0.98,
+      "civilizations": [
+        "Egyptian",
+        "Norse",
+        "Babylonian",
+        "Celtic",
+        "Persian",
+        "Mayan"
+      ]
+    },
+    {
+      "drug_candidate": "QD_alzheimer_amyloid_02262",
+      "target": "alzheimer_amyloid",
+      "quantum_advantage": 9568.1,
+      "effectiveness": 1.9562400000000002,
+      "discovery_confidence": 0.98,
+      "civilizations": [
+        "Egyptian",
+        "Norse",
+        "Babylonian",
+        "Celtic",
+        "Persian",
+        "Mayan"
+      ]
+    },
+    {
+      "drug_candidate": "QD_cancer_p53_00416",
+      "target": "cancer_p53",
+      "quantum_advantage": 9568.1,
+      "effectiveness": 1.9562400000000002,
+      "discovery_confidence": 0.98,
+      "civilizations": [
+        "Egyptian",
+        "Norse",
+        "Babylonian",
+        "Celtic",
+        "Persian",
+        "Mayan"
+      ]
+    },
+    {
+      "drug_candidate": "QD_diabetes_insulin_03588",
+      "target": "diabetes_insulin",
+      "quantum_advantage": 9568.1,
+      "effectiveness": 1.9562400000000002,
+      "discovery_confidence": 0.98,
+      "civilizations": [
+        "Egyptian",
+        "Norse",
+        "Babylonian",
+        "Celtic",
+        "Persian",
+        "Mayan"
+      ]
+    }
+  ],
+  "protein_foldings": [
+    {
+      "protein": "COVID-19 Spike Protein",
+      "amino_acids": 1273,
+      "quantum_advantage": 9568.1,
+      "accuracy": 0.891362,
+      "conformations": 1000000,
+      "confidence": 0.9766484075219999
+    },
+    {
+      "protein": "Insulin",
+      "amino_acids": 51,
+      "quantum_advantage": 9568.1,
+      "accuracy": 0.891362,
+      "conformations": 1000000,
+      "confidence": 0.9766484075219999
+    },
+    {
+      "protein": "Amyloid Beta",
+      "amino_acids": 42,
+      "quantum_advantage": 9568.1,
+      "accuracy": 0.891362,
+      "conformations": 1000000,
+      "confidence": 0.9766484075219999
+    },
+    {
+      "protein": "Alpha Synuclein",
+      "amino_acids": 140,
+      "quantum_advantage": 9568.1,
+      "accuracy": 0.891362,
+      "conformations": 1000000,
+      "confidence": 0.9766484075219999
+    }
+  ],
+  "performance_summary": {
+    "quantum_healthcare_summary": {
+      "total_drug_discoveries": 4,
+      "total_protein_foldings": 4,
+      "average_drug_effectiveness": 1.9562400000000002,
+      "average_folding_accuracy": 0.891362,
+      "total_quantum_advantage": 0,
+      "report_timestamp": "2025-07-21T10:40:12.743378"
+    },
+    "best_drug_discovery": {
+      "drug_candidate": "QD_covid_spike_protein_04862",
+      "target": "covid_spike_protein",
+      "effectiveness": 1.9562400000000002,
+      "quantum_advantage": 9568.1,
+      "discovery_confidence": 0.98
+    },
+    "best_protein_folding": {
+      "protein": "COVID-19 Spike Protein",
+      "accuracy": 0.891362,
+      "quantum_advantage": 9568.1,
+      "conformations_explored": 1000000
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "demo_timestamp": "2025-07-22T02:57:14.761587",
+  "initial_capital": 240000.0,
+  "final_capital": NaN,
+  "total_profit": NaN,
+  "quantum_advantage": 9568.1,
+  "trade_history": [
+    {
+      "trade_id": 1,
+      "asset": "AMZN",
+      "direction": "LONG",
+      "entry_price": 155.0,
+      "exit_price": 172.3986320606991,
+      "position_size": 1194.945501212274,
+      "profit": 20790.417108180016,
+      "strategy": "\ud83d\udd25 Norse Probability Mastery",
+      "timestamp": "2025-07-22T02:57:13.099408"
+    },
+    {
+      "trade_id": 2,
+      "asset": "TSLA",
+      "direction": "LONG",
+      "entry_price": 246.0311633873006,
+      "exit_price": 290.66613529707183,
+      "position_size": 1812.2995019380082,
+      "profit": 80891.93736109535,
+      "strategy": "\ud83d\udc8e Egyptian Sacred Geometry",
+      "timestamp": "2025-07-22T02:57:13.200548"
+    },
+    {
+      "trade_id": 3,
+      "asset": "AMZN",
+      "direction": "LONG",
+      "entry_price": 154.91010905876888,
+      "exit_price": 182.53004951465527,
+      "position_size": 4378.342714433764,
+      "profit": 120929.5650681246,
+      "strategy": "\ud83c\udf1f Aztec Calendar Timing",
+      "timestamp": "2025-07-22T02:57:13.200548"
+    },
+    {
+      "trade_id": 4,
+      "asset": "BTC/USD",
+      "direction": "LONG",
+      "entry_price": 43157.06080806803,
+      "exit_price": 47991.76699418805,
+      "position_size": 9712.787467764761,
+      "profit": 46958473.654871315,
+      "strategy": "\ud83d\udcdc Babylonian Mathematics",
+      "timestamp": "2025-07-22T02:57:13.200548"
+    },
+    {
+      "trade_id": 5,
+      "asset": "NVDA",
+      "direction": "LONG",
+      "entry_price": 862.8843660256024,
+      "exit_price": 938.2692632676401,
+      "position_size": 1512918.5621591348,
+      "profit": 114051210.34393772,
+      "strategy": "\ud83c\udf00 Celtic Natural Harmony",
+      "timestamp": "2025-07-22T02:57:13.200548"
+    },
+    {
+      "trade_id": 6,
+      "asset": "AAPL",
+      "direction": "LONG",
+      "entry_price": 195.99991393793346,
+      "exit_price": 247.98037113290593,
+      "position_size": 783226.4764282994,
+      "profit": 40712470.33195034,
+      "strategy": "\u26a1 Quantum Fusion Supreme",
+      "timestamp": "2025-07-22T02:57:13.200548"
+    },
+    {
+      "trade_id": 7,
+      "asset": "AMZN",
+      "direction": "LONG",
+      "entry_price": 154.497341661527,
+      "exit_price": 196.1289636318591,
+      "position_size": 1585464.9801261015,
+      "profit": 66005478.69980994,
+      "strategy": "\ud83d\udd25 Norse Probability Mastery",
+      "timestamp": "2025-07-22T02:57:13.200548"
+    },
+    {
+      "trade_id": 8,
+      "asset": "ETH/USD",
+      "direction": "SHORT",
+      "entry_price": 2633.485473401215,
+      "exit_price": 1825.665509729003,
+      "position_size": 3070517.9523621444,
+      "profit": 2480425700.732063,
+      "strategy": "\ud83d\udc8e Egyptian Sacred Geometry",
+      "timestamp": "2025-07-22T02:57:13.200548"
+    },
+    {
+      "trade_id": 9,
+      "asset": "TSLA",
+      "direction": "LONG",
+      "entry_price": 238.0459922847391,
+      "exit_price": 311.61546963232865,
+      "position_size": 46872097.67931524,
+      "profit": 3448355728.452386,
+      "strategy": "\ud83c\udf1f Aztec Calendar Timing",
+      "timestamp": "2025-07-22T02:57:13.200548"
+    },
+    {
+      "trade_id": 10,
+      "asset": "TSLA",
+      "direction": "LONG",
+      "entry_price": 238.40225849750135,
+      "exit_price": 288.1955633796474,
+      "position_size": 172007472.05369857,
+      "profit": 8564820497.977034,
+      "strategy": "\ud83d\udcdc Babylonian Mathematics",
+      "timestamp": "2025-07-22T02:57:13.200548"
+    }
+  ],
+  "performance_metrics": {
+    "total_profit": NaN,
+    "return_percentage": NaN,
+    "trades_executed": 750,
+    "success_rate": 0.9453333333333334,
+    "quantum_advantage": 9568.1,
+    "execution_time": 1.6549580097198486
+  }
+}

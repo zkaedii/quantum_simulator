@@ -1,0 +1,121 @@
+{
+  "test_info": {
+    "timestamp": "2025-07-22T00:29:55.078269",
+    "total_battles": 5,
+    "test_type": "ultimate_alien_mathematics_battle_test"
+  },
+  "leaderboard": {
+    "VR Universe Defender": {
+      "wins": 3,
+      "total_score": 7392.660395505455,
+      "best_score": 2886.125396333341
+    },
+    "Arcturian Stellar Council": {
+      "wins": 1,
+      "total_score": 2002.1974491755032,
+      "best_score": 2002.1974491755032
+    },
+    "Pleiadian Harmony Collective": {
+      "wins": 1,
+      "total_score": 1372.8711268218426,
+      "best_score": 1372.8711268218426
+    }
+  },
+  "battle_results": [
+    {
+      "battle_id": "battle_20250722_002942_8586",
+      "battle_type": "quantum_algorithm_supremacy_duel",
+      "arena": "quantum_dimension_alpha_arena",
+      "participants": [
+        "QAlgo-Search-2 Champion",
+        "VR Universe Defender"
+      ],
+      "winner": "VR Universe Defender",
+      "duration_seconds": 1.0039350986480713,
+      "final_scores": {
+        "QAlgo-Search-2 Champion": 1490.6,
+        "VR Universe Defender": 2289.932889809845
+      },
+      "quantum_explosions": 2,
+      "reality_distortions_count": 2,
+      "epic_moments_count": 13
+    },
+    {
+      "battle_id": "battle_20250722_002944_1094",
+      "battle_type": "alien_world_conquest_war",
+      "arena": "reality_nexus_prime_battleground",
+      "participants": [
+        "Arcturian Stellar Council",
+        "Pleiadian Harmony Collective",
+        "Andromedan Reality Shapers"
+      ],
+      "winner": "Arcturian Stellar Council",
+      "duration_seconds": 2.2062411308288574,
+      "final_scores": {
+        "Arcturian Stellar Council": 2002.1974491755032,
+        "Pleiadian Harmony Collective": 1564.7182040629666,
+        "Andromedan Reality Shapers": 1866.9811863193008
+      },
+      "quantum_explosions": 11,
+      "reality_distortions_count": 4,
+      "epic_moments_count": 36
+    },
+    {
+      "battle_id": "battle_20250722_002947_5238",
+      "battle_type": "vr_arena_immersive_combat",
+      "arena": "vr_consciousness_combat_realm",
+      "participants": [
+        "VR Universe Defender",
+        "Andromedan Reality Shapers"
+      ],
+      "winner": "VR Universe Defender",
+      "duration_seconds": 1.203993558883667,
+      "final_scores": {
+        "VR Universe Defender": 2216.6021093622685,
+        "Andromedan Reality Shapers": 1808.6683837807493
+      },
+      "quantum_explosions": 8,
+      "reality_distortions_count": 2,
+      "epic_moments_count": 17
+    },
+    {
+      "battle_id": "battle_20250722_002949_3958",
+      "battle_type": "alien_consciousness_mental_warfare",
+      "arena": "vr_consciousness_combat_realm",
+      "participants": [
+        "Pleiadian Harmony Collective",
+        "QAlgo-Search-2 Champion"
+      ],
+      "winner": "Pleiadian Harmony Collective",
+      "duration_seconds": 2.206120014190674,
+      "final_scores": {
+        "Pleiadian Harmony Collective": 1372.8711268218426,
+        "QAlgo-Search-2 Champion": 1252.027031602138
+      },
+      "quantum_explosions": 8,
+      "reality_distortions_count": 0,
+      "epic_moments_count": 24
+    },
+    {
+      "battle_id": "battle_20250722_002953_9753",
+      "battle_type": "galactic_champion_tournament",
+      "arena": "cosmic_council_battle_chamber",
+      "participants": [
+        "VR Universe Defender",
+        "Arcturian Stellar Council",
+        "VR Universe Defender",
+        "Pleiadian Harmony Collective"
+      ],
+      "winner": "VR Universe Defender",
+      "duration_seconds": 2.0606303215026855,
+      "final_scores": {
+        "VR Universe Defender": 2886.125396333341,
+        "Arcturian Stellar Council": 1779.9732055370077,
+        "Pleiadian Harmony Collective": 2040.2676550826536
+      },
+      "quantum_explosions": 9,
+      "reality_distortions_count": 9,
+      "epic_moments_count": 36
+    }
+  ]
+}
