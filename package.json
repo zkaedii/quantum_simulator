@@ -1,0 +1,91 @@
+{
+    "name": "quantum-algorithm-nft",
+    "version": "1.0.0",
+    "description": "World's first scientifically accurate quantum algorithm NFT collection with platform utility",
+    "main": "index.js",
+    "scripts": {
+        "build": "forge build",
+        "test": "forge test",
+        "test:gas": "forge test --gas-report",
+        "test:coverage": "forge coverage",
+        "deploy:sepolia": "forge script script/DeployQuantumNFT.sol --rpc-url $SEPOLIA_RPC_URL --broadcast --verify",
+        "deploy:mainnet": "forge script script/DeployQuantumNFT.sol --rpc-url $MAINNET_RPC_URL --broadcast --verify",
+        "deploy:polygon": "forge script script/DeployQuantumNFT.sol --rpc-url $POLYGON_RPC_URL --broadcast --verify",
+        "verify": "forge verify-contract",
+        "lint": "solhint 'src/**/*.sol' 'test/**/*.sol'",
+        "format": "forge fmt",
+        "install:deps": "forge install",
+        "clean": "forge clean",
+        "security": "slither .",
+        "gas-snapshot": "forge snapshot",
+        "start:anvil": "anvil",
+        "metadata:generate": "node scripts/generateMetadata.js",
+        "metadata:upload": "node scripts/uploadToIPFS.js",
+        "deploy:local": "forge script script/DeployQuantumNFT.sol --rpc-url http://localhost:8545 --broadcast",
+        "docs:build": "forge doc",
+        "benchmark": "forge test --gas-report > gas-report.txt"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/username/quantum-algorithm-nft.git"
+    },
+    "keywords": [
+        "quantum-computing",
+        "nft",
+        "erc721",
+        "blockchain",
+        "ethereum",
+        "foundry",
+        "smart-contracts",
+        "web3",
+        "defi",
+        "algorithm"
+    ],
+    "author": "FoundryOps Quantum Division",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/username/quantum-algorithm-nft/issues"
+    },
+    "homepage": "https://github.com/username/quantum-algorithm-nft#readme",
+    "devDependencies": {
+        "@types/node": "^20.0.0",
+        "typescript": "^5.0.0",
+        "ts-node": "^10.9.0",
+        "prettier": "^3.0.0",
+        "prettier-plugin-solidity": "^1.2.0",
+        "solhint": "^4.0.0",
+        "solhint-plugin-prettier": "^0.1.0",
+        "husky": "^8.0.0",
+        "lint-staged": "^15.0.0"
+    },
+    "dependencies": {
+        "@openzeppelin/contracts": "^5.0.0",
+        "ethers": "^6.8.0",
+        "dotenv": "^16.3.0",
+        "axios": "^1.6.0",
+        "form-data": "^4.0.0",
+        "pinata-sdk": "^1.1.0"
+    },
+    "engines": {
+        "node": ">=18.0.0",
+        "npm": ">=9.0.0"
+    },
+    "husky": {
+        "hooks": {
+            "pre-commit": "lint-staged"
+        }
+    },
+    "lint-staged": {
+        "*.sol": [
+            "forge fmt",
+            "solhint"
+        ],
+        "*.{js,ts,json,md}": [
+            "prettier --write"
+        ]
+    },
+    "funding": {
+        "type": "ethereum",
+        "url": "0x0000000000000000000000000000000000000000"
+    }
+}
