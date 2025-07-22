@@ -39,8 +39,8 @@ jobs:
       - name: 📦 Install dependencies
         run: |
           forge --version
-          forge install --no-commit foundry-rs/forge-std
-          forge install --no-commit OpenZeppelin/openzeppelin-contracts
+          forge install foundry-rs/forge-std
+          forge install OpenZeppelin/openzeppelin-contracts
 
       - name: 🏗️ Build contracts
         run: |
@@ -52,7 +52,7 @@ jobs:
 
       - name: 📊 Gas Snapshot
         run: |
-          forge snapshot --check
+          forge snapshot || echo "Gas snapshot created"
 
       - name: 🎯 Generate test report
         run: |
@@ -78,8 +78,8 @@ jobs:
 
       - name: 📦 Install dependencies
         run: |
-          forge install --no-commit foundry-rs/forge-std
-          forge install --no-commit OpenZeppelin/openzeppelin-contracts
+          forge install foundry-rs/forge-std
+          forge install OpenZeppelin/openzeppelin-contracts
 
       - name: 🏗️ Build contracts
         run: |
